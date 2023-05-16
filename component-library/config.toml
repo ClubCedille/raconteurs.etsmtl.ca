@@ -1,0 +1,11 @@
+
+[[module.mounts]]
+source = '.'
+target = 'layouts/partials/bookshop'
+includeFiles = [
+  '**/*.hugo.html',
+]
+
+[[module.mounts]]
+source = '.'
+target = 'assets/bookshop'

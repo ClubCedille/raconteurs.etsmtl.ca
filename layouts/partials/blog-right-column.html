@@ -1,0 +1,37 @@
+<div class="col-md-3">
+    <!-- Blog Right Sections 
+=========================-->
+    <div class="blog-sidbar">
+        <div class="search widgets">
+            <a href="/search/" class="list-group-item">Search</a>
+        </div>
+        <div class="categories widgets">
+            <div class="list-group text-center">
+                <div class="list-group-item active"> Blog Categories </div>
+                {{range $name, $taxonomy := .Site.Taxonomies.categories}}
+                    {{ $href := print (absURL "categories/") (urlize $name) }}
+                    <a href="{{ $href }}" class="list-group-item">{{$name | humanize }}</a>
+                {{end}}
+            </div>
+        </div>
+        <div class="related-post widgets">
+            <div class="list-group">
+                <div class="list-group-item active text-center">
+                    Related Posts
+                </div>
+                {{ range $index, $element := ( first 5 ( where .Site.RegularPages "Section" "posts" ).ByDate ) }}
+                        <a href="{{ .RelPermalink }}" class="list-group-item">
+                            <div class="media">
+                                <div class="media-left media-middle">
+                                    <p class="post-count">{{ add $index 1 }}</p>
+                                </div>
+                                <div class="media-body">
+                                    <p>{{ .Params.Title }}</p>
+                                </div>
+                            </div>
+                        </a>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</div>

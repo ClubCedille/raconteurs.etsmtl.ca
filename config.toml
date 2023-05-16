@@ -1,0 +1,21 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'fiction-hugo-template'
+
+Paginate = 3
+
+[taxonomies]
+categories = "categories"
+category = "category"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[module]
+replacements = "local/component-library -> ../component-library"
+
+[[module.imports]]
+path = 'local/component-library'
+
+[[module.imports]]
+path = 'github.com/cloudcannon/bookshop/hugo/v3'

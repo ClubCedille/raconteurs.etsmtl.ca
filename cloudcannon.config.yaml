@@ -1,0 +1,25 @@
+collections_config:
+  pages:
+    _enabled_editors:
+      - visual
+    schemas:
+      page:
+        path: schemas/page.md
+    filter:
+      exclude:
+        - components.md
+  portfolios:
+    schemas:
+      default:
+        path: schemas/portfolio.md
+    _enabled_editors:
+      - visual
+  posts:
+    schemas:
+      default:
+        path: schemas/post.md
+    _enabled_editors:
+      - content
+      - visual
+
+data_config: true
