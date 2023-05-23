@@ -12,10 +12,8 @@ category = "category"
 unsafe = true
 
 [module]
-replacements = "components.local -> ./component-library"
-
 [[module.imports]]
-path = 'components.local'
+path = '../component-library'
 
 [[module.imports]]
 path = 'github.com/cloudcannon/bookshop/hugo/v3'
