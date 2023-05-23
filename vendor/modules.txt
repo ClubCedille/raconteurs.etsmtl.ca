@@ -1,0 +1,2 @@
+# github.com/cloudcannon/bookshop/hugo/v3 v3.2.1
+## explicit; go 1.16

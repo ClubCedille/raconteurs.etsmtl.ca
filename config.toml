@@ -12,7 +12,7 @@ category = "category"
 unsafe = true
 
 [module]
-replacements = "components.local -> ../component-library"
+replacements = "components.local -> ./component-library"
 
 [[module.imports]]
 path = 'components.local'
