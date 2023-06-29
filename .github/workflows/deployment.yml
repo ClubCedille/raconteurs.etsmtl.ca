@@ -109,7 +109,7 @@ jobs:
       - name: Get Tag Version
         id: tag2
         run: |
-          VERSION=${GITHUB_REF#refs/tags/}
+          VERSION=${GITHUB_REF#refs/tags/v}
           echo "Version to be used: $VERSION"
           echo "VERSION=$VERSION" >> $GITHUB_ENV
 
