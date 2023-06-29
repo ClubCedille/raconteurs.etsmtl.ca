@@ -113,7 +113,9 @@ jobs:
           context: .
           file: ./Dockerfile.prod
           push: true
-          tags: ${{ secrets.DOCKER_HUB_REPOSITORY }}:${{ steps.tag.outputs.version }}
+          tags: |
+            ${{ secrets.DOCKER_HUB_REPOSITORY }}:${{ steps.tag.outputs.version }}
+            ${{ secrets.DOCKER_HUB_REPOSITORY }}:latest
           cache-from: type=local,src=/tmp/.buildx-cache
           cache-to: type=local,mode=max,dest=/tmp/.buildx-cache-new
 
