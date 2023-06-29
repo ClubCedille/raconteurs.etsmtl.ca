@@ -38,7 +38,7 @@ jobs:
         run: |
           LATEST_TAG=${{ steps.latest_tag.outputs.latest_tag }}
           NEW_TAG=$(echo $LATEST_TAG | awk -F. '{$NF = $NF + 1;} 1' OFS=.)
-          echo ::set-output name=new_tag::${NEW_TAG}
+          echo "NEW_TAG=${NEW_TAG}" >> $GITHUB_ENV
 
       - name: Set Git Config
         run: |
@@ -97,7 +97,7 @@ jobs:
 
       - name: Get Tag Version
         id: tag
-        run: "echo ::set-output name=version::${GITHUB_REF#refs/*/}"
+        run: echo "VERSION=${GITHUB_REF#refs/tags/}" >> $GITHUB_ENV
 
       - name: Cache Docker layers
         uses: actions/cache@v3
@@ -114,7 +114,7 @@ jobs:
           file: ./Dockerfile.prod
           push: true
           tags: |
-            ${{ secrets.DOCKER_HUB_REPOSITORY }}:${{ steps.tag.outputs.version }}
+            ${{ secrets.DOCKER_HUB_REPOSITORY }}:${{ env.VERSION }}
             ${{ secrets.DOCKER_HUB_REPOSITORY }}:latest
           cache-from: type=local,src=/tmp/.buildx-cache
           cache-to: type=local,mode=max,dest=/tmp/.buildx-cache-new
