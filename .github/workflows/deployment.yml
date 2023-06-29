@@ -12,6 +12,7 @@ on:
 jobs:
   build-and-tag-on-merge:
     if: github.event.pull_request.merged == 'true'
+    environment : deployment
     runs-on: ubuntu-latest
     steps:
       - name: Check Out Repo
@@ -80,6 +81,7 @@ jobs:
 
   build-on-release:
     if: github.event_name == 'push'
+    environment : deployment
     runs-on: ubuntu-latest
     steps:
       - name: Check Out Repo
