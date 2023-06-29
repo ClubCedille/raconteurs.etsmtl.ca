@@ -31,8 +31,8 @@ jobs:
         id: latest_tag
         run: |
           LATEST_TAG=$(git describe --tags --abbrev=0)
-          echo ::set-output name=latest_tag::$LATEST_TAG
-
+          echo "LATEST_TAG=${LATEST_TAG}" >> $GITHUB_ENV
+          
       - name: Increment Version
         id: new_tag
         run: |
@@ -105,6 +105,13 @@ jobs:
           path: /tmp/.buildx-cache
           key: ${{ runner.os }}-buildx-${{ github.sha }}
           restore-keys: ${{ runner.os }}-buildx
+
+      - name: Get Tag Version
+        id: tag2
+        run: |
+          VERSION=${GITHUB_REF#refs/tags/}
+          echo "Version to be used: $VERSION"
+          echo "VERSION=$VERSION" >> $GITHUB_ENV
 
       - name: Build and push
         id: docker_build
