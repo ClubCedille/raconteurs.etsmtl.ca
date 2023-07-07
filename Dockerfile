@@ -11,7 +11,7 @@ RUN curl -OL https://golang.org/dl/go1.17.linux-amd64.tar.gz \
 ENV PATH="/usr/local/go/bin:${PATH}"
 
 # Install Hugo
-RUN curl -Ls https://github.com/gohugoio/hugo/releases/download/v0.89.4/hugo_0.89.4_Linux-64bit.tar.gz | tar -xz -C /usr/local/bin
+RUN curl -Ls https://github.com/gohugoio/hugo/releases/download/v0.115.1/hugo_extended_0.115.1_linux-amd64.tar.gz | tar -xz -C /usr/local/bin
 
 COPY . .
 RUN npm install
