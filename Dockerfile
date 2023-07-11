@@ -15,6 +15,7 @@ RUN curl -Ls https://github.com/gohugoio/hugo/releases/download/v0.115.1/hugo_ex
 
 COPY . .
 RUN npm install
+RUN npm run javascript
 RUN npm run build
 
 FROM nginx:1.21-alpine
