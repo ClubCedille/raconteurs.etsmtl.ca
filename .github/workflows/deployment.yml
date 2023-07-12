@@ -26,12 +26,9 @@ jobs:
           username: ${{ secrets.DOCKER_HUB_USERNAME }}
           password: ${{ secrets.DOCKER_HUB_ACCESS_TOKEN }}
 
-      - name: Get Tag Version
+      - uses: actions-ecosystem/action-get-latest-tag@v1
         id: latest_tag
-        run: |
-          latest_tag=${GITHUB_REF#refs/tags/v}
-          echo "Version to be used: $latest_tag"
-          echo "VERSION=$latest_tag" >> $GITHUB_ENV
+        if: ${{ steps.release-label.outputs.level != null }}
           
       - name: Increment Version
         id: new_tag
