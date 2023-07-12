@@ -27,13 +27,13 @@ jobs:
           password: ${{ secrets.DOCKER_HUB_ACCESS_TOKEN }}
 
       - uses: actions-ecosystem/action-get-latest-tag@v1
-        id: latest_tag
+        id: get-latest-tag
         if: ${{ steps.release-label.outputs.level != null }}
           
       - name: Increment Version
         id: new_tag
         run: |
-          LATEST_TAG=${{ steps.latest_tag.outputs.latest_tag }}
+          LATEST_TAG=${{ steps.get-latest-tag.outputs.tag }}
           NEW_TAG=$(echo $LATEST_TAG | awk -F. '{$NF = $NF + 1;} 1' OFS=.)
           echo "NEW_TAG=${NEW_TAG}" >> $GITHUB_ENV
 
@@ -53,6 +53,11 @@ jobs:
           path: /tmp/.buildx-cache
           key: ${{ runner.os }}-buildx-${{ github.sha }}
           restore-keys: ${{ runner.os }}-buildx
+          
+      - name: Print Variables
+        run: |
+          echo "Docker Hub Repository: ${{ secrets.DOCKER_HUB_REPOSITORY }}"
+          echo "Version: ${{ env.VERSION }}"
 
       - name: Build and push
         id: docker_build
