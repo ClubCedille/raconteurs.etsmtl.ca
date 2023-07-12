@@ -1,17 +1,15 @@
 name: Docker
 
 on:
-  pull_request:
-    types: [closed]
+  push:
     branches:
       - master
-  push:
     tags:
       - 'v*.*.*'
 
 jobs:
   build-and-tag-on-merge:
-    if: github.event.pull_request.merged == true
+    if: github.ref == 'refs/heads/master'
     environment : deployment
     runs-on: ubuntu-latest
     steps:
@@ -80,7 +78,7 @@ jobs:
         run: echo ${{ steps.docker_build.outputs.digest }}
 
   build-on-release:
-    if: github.event_name == 'push'
+    if: startsWith(github.ref, 'refs/tags/')
     environment : deployment
     runs-on: ubuntu-latest
     steps:
