@@ -1,14 +1,20 @@
 menu:
-  - name: "Home"
+  - name: "Accueil"
     url: "/"
     open_in_new_tab: false
-  - name: "Services"
+  - name: "Événements"
+    url: "/events/"
+    open_in_new_tab: false
+  - name: "Activité"
+    url: "/activities/"
+    open_in_new_tab: false
+  - name: "Activités"
     url: "/services/"
     open_in_new_tab: false
-  - name: "Portfolio"
+  - name: "À propos"
     url: "/portfolio/"
     open_in_new_tab: false
-  - name: "Blog"
+  - name: "Partenaires"
     url: "/blog/"
     open_in_new_tab: false
   - name: "Contact"
