@@ -1,0 +1,5 @@
+{{ partial "bookshop_bindings" `.Params.hero_blocks` }}
+{{ partial "bookshop_partial" (slice "page" .Params.hero_blocks) }} 
+
+{{ partial "bookshop_bindings" `.Params.content_blocks` }}
+{{ partial "bookshop_partial" (slice "page" .Params.content_blocks) }}

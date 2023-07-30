@@ -277,7 +277,7 @@ img.mfp-img {
     margin: 0; }
 
 .mfp-bottom-bar {
-  margin-top: -36px;
+  margin-top: -38px;
   position: absolute;
   top: 100%;
   left: 0;
@@ -289,7 +289,7 @@ img.mfp-img {
   line-height: 18px;
   color: #F3F3F3;
   word-wrap: break-word;
-  padding-right: 36px; }
+  padding-left: 10px; }
 
 .mfp-image-holder .mfp-content {
   max-width: 100%; }

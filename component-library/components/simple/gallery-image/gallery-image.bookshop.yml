@@ -9,11 +9,15 @@ spec:
 
 # Defines the structure of this component, as well as the default values
 blueprint:
+  title: ''
+  content: ''
   image: ""
   image_alt: ""
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
+  title: ''
+  content: ''
   image: /images/portfolio/single-portfolio-img2.jpg
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint

@@ -7,6 +7,9 @@ menu:
   - name: "Évènements"
     url: "/services/"
     open_in_new_tab: false
+  - name: "Activité"
+    url: "/activities/"
+    open_in_new_tab: false
   - name: "Activités"
     url: "/services/"
     open_in_new_tab: false

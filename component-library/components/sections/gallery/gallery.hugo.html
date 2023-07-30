@@ -1,6 +1,7 @@
 <section class="gallery">
     <div class="container">
       <div class="row">
+        {{ partial "bookshop" (slice "generic/heading" .heading )}}
         <div class="gallery-description text-center">
           <p>{{ .content | safeHTML }}</p>
         </div>

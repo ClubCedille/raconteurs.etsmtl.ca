@@ -1,8 +1,8 @@
 ---
 hero_blocks:
   - _bookshop_name: sections/hero
-    heading: Notre Événement.
-    subheading: We Ensure Quality Design.
+    heading: Événements
+    subheading: 
     image: /images/header/portfolio-folding-img.jpg
 heading: Notre Événement
 category: category-1
@@ -17,16 +17,6 @@ price: 18$
 url: 'events-1'
 button: Détails
 details_url: 'test'
-content_blocks:
-  - _bookshop_name: sections/gallery
-    content: I had not long to wait before a stealthy sound apprised me of their nearness, and then a <br>war-bonneted, paint-streaked face was thrust cautiously around the shoulder of the cliff, and <br>savage eyes looked into mine. That he could see me in the dim light of the cave I was sure for <br>the early morning sun was falling full upon me through the opening.
-    gallery_images: 
-      - _bookshop_name: simple/gallery-image
-        image: /images/portfolio/single-portfolio-img2.jpg
-      - _bookshop_name: simple/gallery-image
-        image: /images/portfolio/single-portfolio-img3.jpg
-      - _bookshop_name: simple/gallery-image
-        image: /images/portfolio/single-portfolio-img4.jpg
 seo_options:
   description: Portfolio 1, Merit wogmonk
   featured_image:

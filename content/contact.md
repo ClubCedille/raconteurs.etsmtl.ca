@@ -7,9 +7,13 @@ seo_options:
   canonical_link:
 content_blocks:
   - _bookshop_name: sections/hero
-    heading: Contact Us.
-    subheading: We ensure Quality Design.
+    heading: Contact
+    subheading: 
     image: /images/header/contact-folding-img.jpg
+  - _bookshop_name: sections/contact-form
+    heading:
+      heading: Contactez-nous
+    button_content: "Envoyer"
   - _bookshop_name: sections/map-and-details
     business_card:
       _bookshop_name: simple/business-card
@@ -25,8 +29,4 @@ content_blocks:
       _bookshop_name: generic/map
       latitude: "51.507351"
       longitude: "-0.127758"
-  - _bookshop_name: sections/contact-form
-    heading:
-      heading: Contact Us
-    button_content: "Send message"
 ---

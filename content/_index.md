@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Accueil
 content_blocks:
   - _bookshop_name: sections/video-hero
     heading: We’re Creative
