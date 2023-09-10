@@ -8,14 +8,14 @@
                 {{ partial "bookshop_bindings" `.Params.content_blocks` }}
                 {{ partial "bookshop_partial" (slice "page" .Params.content_blocks) }} 
                 <div class="protfolio-mixitup-btn text-center">
-                    <button class="filter btn btn-default btn-main active" data-filter="all">all</button>
+                    <button class="filter btn btn-default btn-main active" data-filter="all">tout</button>
                     {{range $name, $taxonomy := .Site.Taxonomies.category}}
                         {{ partial "bookshop_bindings" `(dict "live_render" false)` }}
                         {{ partial "bookshop" (slice "generic/filter-button" (dict "category" $name )) }}
                     {{end}}
                 </div>
                 <div id="Container" class="filtr-container row">
-                    {{ range (.Paginator (len (where .Site.Pages "Section" "portfolios"))).Pages }}
+                    {{ range (.Paginator (len (where .Site.Pages "Section" "activities"))).Pages }}
                             <div class="filtr-item col-md-4 col-sm-6 col-xs-12" data-category="{{ .Params.category }}">
                                 <div class="portfolio-list">
                                     <a data-toggle="modal" data-target="#{{ .File.TranslationBaseName }}">
@@ -36,18 +36,18 @@
                             <!-- event modal single -->
                             <div class="modal fade" id="{{ .File.TranslationBaseName }}" tabindex="-1" role="dialog">
                                 <div class="modal-dialog modal-lg modal-dialog-centered">
-                                  <div class="modal-content">
+                                  <div class="modal-content" style="background-color: #090707;">
                                     <div class="modal-header">
-                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                            <span aria-hidden="true">&times;</span>
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close" style="color: facd8af;">
+                                            <span aria-hidden="true" style="color: facd8af;">&times;</span>
                                           </button>
-                                      <h4 class="modal-title" style="color: black; font-family:'Roboto', sans-serif;">{{ .Params.title }}</h4>
+                                      <h3 class="modal-title" style="color: facd8af;">{{ .Params.title }}</h3>
                                     </div>
                                     <div class="modal-body">
                                       
                                         <div class="row">
                                           <!-- event image -->
-                                          <div class="col-md-12 mb-4">
+                                          <div class="col-md-12">
                                             <img style="height: 500px;width: 100%;object-fit: cover;" src="{{ .Params.image | relURL }}" alt="{{ .Title }}" class="img-fluid w-100">
                                           </div>
                                         </div>
@@ -57,10 +57,54 @@
                                             <span class="border-bottom"></span>
                                           </div>
                                         </div>
-                                        <!-- event details -->
+
                                         <div class="row">
-                                          <div class="col-md-12 mb-50 content" style="color: black; font-family:'Roboto', sans-serif;">
-                                            {{ .Params.content }}
+                                          <div class="col-lg-9">
+                                            <ul class="list-inline">
+                                              <li>
+                                                <div class="row" style="color: black; font-family:'Roboto', sans-serif;">
+                                                  <div class="col-md-4 align-center">
+                                                    <h2><i class="tf-ion-ios-location icon-md mr-2"></i></h2>
+                                                  </div>
+                                                  <div class="col-md-8 text-left">
+                                                    <h3 class="mb-0">Test</h6>
+                                                    <p class="mb-0" style="color: #F3F3F3">test</p>
+                                                  </div>
+                                                </div>
+                                              </li>
+                                              <li>
+                                                <div class="row" style="color: black; font-family:'Roboto', sans-serif;">
+                                                  <div class="col-md-4 align-center">
+                                                    <h2><i class="tf-ion-calendar icon-md mr-2"></i></h2>
+                                                  </div>
+                                                  <div class="col-md-8 text-left">
+                                                    <h3 class="mb-0">Test</h6>
+                                                    <p class="mb-0" style="color:#F3F3F3">test</p>
+                                                  </div>
+                                                </div>
+                                              </li>
+                                              <li>
+                                                <div class="row" style="color: black; font-family:'Roboto', sans-serif;">
+                                                  <div class="col-md-4 align-center">
+                                                    <h2><i class="tf-ion-ios-time icon-md mr-2"></i></h2>
+                                                  </div>
+                                                  <div class="col-md-8 text-left">
+                                                    <h3 class="mb-0">Test</h6>
+                                                    <p class="mb-0" style="color: #F3F3F3;">test</p>
+                                                  </div>
+                                                </div>
+                                              </li>
+                                            </ul>
+                                          </div>
+                                        </div>
+
+                                        <!-- activity details -->
+                                        <div class="row">
+                                          <div class="col-md-12 mb-5 content" style="color: black; font-family:'Roboto', sans-serif;">
+                                            <h3>À propos de l'activité</h3>
+                                            <p>
+                                              {{ .Params.content }}
+                                            </p>
                                           </div>
                                         </div>
                                       

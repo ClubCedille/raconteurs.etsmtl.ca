@@ -8,8 +8,8 @@ seo_options:
 url: /activities/
 hero_blocks:
   - _bookshop_name: sections/hero
-    heading: Nos Activités.
-    subheading: We Ensure Quality Design.
+    heading: Activités
+    subheading: 
     image: /images/header/portfolio-folding-img.jpg
 content_blocks:
   - _bookshop_name: generic/heading

@@ -7,20 +7,16 @@ SEO_options:
 favicon: /images/favicon.ico
 company_name: REDCODDER SOLUTION
 contact:
-  address: "DeviserWeb 24/A,Jalalabad amborkhana amagnina, Sylhet."
+  address: "1219 Rue William, Montréal, QC H3C 1R1"
   phone: "+61 (0) 3 8366 6274"
   mobile: 01771-299299
   web_address: deviserweb.com
-  email: "info@info.com"
+  email: "theatre@etsmtl.ca"
 social_media:
-  facebook: "#"
-  twitter: "#"
-  linkedin: "#"
-  google: "#"
+  facebook: "https://www.facebook.com/RaconteursEts"
   instagram: "#"
-copyright_html: <p>&copy; 2013-2017 Tous droits réservés. <br>
-                                Générée et modifiée par <a href="https://cedille.etsmtl.ca" target="_blank">Club Cédille</a><br>
-                                Conçue et développée par <a href="https://themefisher.com" target="_blank">Themefisher.com</a></p>
+  discord: ""
+copyright_html: <p>&copy; 2023 Personnalisée et déployée par <a href="https://cedille.etsmtl.ca" target="_blank">Club Cédille</a> <br> &copy; 2013-2017 Conçue et développée par <a href="https://themefisher.com" target="_blank">Themefisher.com</a></p>
 google_maps_api_key: ""
 
 _inputs:

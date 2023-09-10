@@ -5,7 +5,7 @@ hero_blocks:
     subheading: We Ensure Quality Design.
     image: /images/header/portfolio-folding-img.jpg
 heading: Our Portfolio
-category: category-1
+category: ateliers
 image: /images/portfolio/portfolio-img1.jpg
 image_alt: Portfolio
 date: '2015-03-16'

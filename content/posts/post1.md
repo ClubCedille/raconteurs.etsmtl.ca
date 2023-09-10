@@ -8,7 +8,7 @@ content_blocks:
   - _bookshop_name: generic/heading
     heading: Our Blog
 categories:
-  - category1
+  - 
 images:
   - image: /images/blog/blog-img1.jpg
     image_alt: ""

@@ -4,17 +4,14 @@ menu:
   - name: "Accueil"
     url: "/"
     open_in_new_tab: false
+  - name: "À propos"
+    url: "/about/"
+    open_in_new_tab: false
   - name: "Évènements"
     url: "/services/"
     open_in_new_tab: false
-  - name: "Activité"
-    url: "/activities/"
-    open_in_new_tab: false
   - name: "Activités"
-    url: "/services/"
-    open_in_new_tab: false
-  - name: "À propos"
-    url: "/portfolio/"
+    url: "/activities/"
     open_in_new_tab: false
   - name: "Partenaires"
     url: "/blog/"

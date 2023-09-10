@@ -5,7 +5,6 @@ hero_blocks:
     subheading: 
     image: /images/header/portfolio-folding-img.jpg
 heading: Notre Événement
-category: category-2
 image: /images/portfolio/portfolio-img2.jpg
 image_alt: Portfolio
 date: '2015-03-16'
