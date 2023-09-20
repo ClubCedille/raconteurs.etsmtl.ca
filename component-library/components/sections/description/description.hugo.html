@@ -1,4 +1,10 @@
-<section class="description description--{{ .background }}">
-    {{ partial "bookshop" (slice "generic/heading" .heading )}}
-    <p style="color: white;">{{ .content }}</p>
-</section>
+<section class="about">
+    <div class="container">
+      <div class="row">
+        {{ partial "bookshop" (slice "generic/heading" .heading )}}
+        <div class="about-description text-center">
+          <p>{{ .content | safeHTML }}</p>
+        </div>
+      </div>
+    </div>
+  </section>

@@ -1,7 +1,7 @@
 ---
 title: Galéries
 seo_options:
-  description: Landing page for all portfolio items
+  description: Page montrant les galéries du club
   featured_image:
   og_type: 
   canonical_link:

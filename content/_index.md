@@ -20,8 +20,8 @@ content_blocks:
         image_alt:
         link:
           _bookshop_name: generic/link
-          url: '#'
-          content: nous joindre
+          url: '/about/'
+          content: En savoir plus
       - _bookshop_name: simple/left-right-block
         image_alignment: left
         background: grey
@@ -32,8 +32,8 @@ content_blocks:
         image_alt:
         link:
           _bookshop_name: generic/link
-          url: '#'
-          content: En savoir plus
+          url: '/contact/'
+          content: Nous joindre
   - _bookshop_name: sections/services
     heading:
       heading: Nos Activités
@@ -83,7 +83,7 @@ content_blocks:
       ad beatae sed dolorem doloribus accusamus
     link:
       _bookshop_name: generic/link
-      url: '#'
+      url: '/contact/'
       content: Contactez nous
     
 ---

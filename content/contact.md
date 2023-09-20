@@ -1,7 +1,7 @@
 ---
 title: Contact
 seo_options:
-  description: How to contact us
+  description: Comment nous contacter
   featured_image:
   og_type: 
   canonical_link:
@@ -27,6 +27,6 @@ content_blocks:
           image_alt: ""
     map:
       _bookshop_name: generic/map
-      latitude: "51.507351"
-      longitude: "-0.127758"
+      latitude: "45.4948236"
+      longitude: "-73.5649115"
 ---
