@@ -12,6 +12,8 @@ jobs:
     if: github.ref == 'refs/heads/master'
     environment : deployment
     runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - name: Check Out Repo
         uses: actions/checkout@v2
