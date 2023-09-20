@@ -320,6 +320,12 @@ $lg-desktop: 1200px;
 }
 @media only screen and (min-width : $lg-tables) and (max-width : $md-desktop){
 
+	.navigation {
+		.logo {
+			padding-top: 0;
+			margin-bottom: -15px;
+		}
+	}
 	/* case study page
 	============= */
 
@@ -353,6 +359,12 @@ $lg-desktop: 1200px;
 
 /* Extra Small Devices, Phones */ 
 @media only screen and (min-width : $phone) and (max-width : $tables){
+	.navigation {
+		.logo {
+			padding-top: 0;
+			margin: 0;
+		}
+	}
 	.protfolio-list{
 		.colon{
 			display: none;
