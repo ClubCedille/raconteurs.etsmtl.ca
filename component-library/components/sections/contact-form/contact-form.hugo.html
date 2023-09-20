@@ -4,7 +4,7 @@
     <div class="container">
         <div class="row">
             {{ partial "bookshop" (slice "generic/heading" .heading )}}
-            <form class="" method="post">
+            <form action="" method="POST">
                 <div class="col-md-6">
                     <div class="form-group">
                         <input type="text" name="Sujet" class="form-control" placeholder="Sujet" required>
@@ -12,7 +12,7 @@
                     <div class="form-group">
                         <input type="email" name="Courriel" class="form-control" placeholder="Courriel" required>
                     </div>
-                    <div class="form-group margin-0">
+                    <div class="form-group">
                         <input type="text" name="Nom" class="form-control" placeholder="Nom" required>
                     </div>
                 </div>

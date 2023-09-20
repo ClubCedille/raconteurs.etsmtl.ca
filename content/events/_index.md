@@ -1,7 +1,7 @@
 ---
 title: Événements
 seo_options:
-  description: Landing page for all portfolio items
+  description: Page pour tous les événements en cours
   featured_image:
   og_type: 
   canonical_link:

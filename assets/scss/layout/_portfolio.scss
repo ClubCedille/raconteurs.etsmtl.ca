@@ -182,6 +182,23 @@
 	}
 
 /**********************************************
+ About Style
+***********************************************/
+	.about{
+		background: $service-bg;
+		padding: 60px 0;
+	}
+
+	.about-description {
+		p{
+			padding: 0 0 60px;
+			margin-bottom: 0;
+			color: #afafaf;
+			font-size: 16px;
+		}
+	}
+
+/**********************************************
  Gallery Style
 ***********************************************/
 	.gallery{
@@ -221,6 +238,7 @@
 			}
 		}
 	}
+	
 	.gallery-overlay-icon{
 		position: absolute;
 		top: 50%;

@@ -1,5 +1,5 @@
 ---
-title: About
+title: À propos
 seo_options:
   description: The services that we offer
   featured_image:
@@ -7,11 +7,10 @@ seo_options:
   canonical_link:
 content_blocks:
   - _bookshop_name: sections/hero
-    heading: À Propos De Nous
+    heading: À Propos
     subheading: 
     image: /images/header/services-folding-img.jpg
   - _bookshop_name: sections/description
-    background: grey
     heading:
       heading: Les Raconteurs d'Angles
     content: >
@@ -39,14 +38,9 @@ content_blocks:
         background: black
         heading: Nos valeurs
         content_html: >-
-          <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
-          nonummy nibh euiyd tincidunt ut laoreet dolore magna aliquam nibh
-          utpat.Ullamcorper suscipit lobo nibh euiyd tinci- dunt ut
-          laoreet.</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing
-          elit. Rem impedit molestias cumque dolorum, sunt, provident blanditiis
-          tempora, aut explicabo error ipsa repudiandae. Dolores eius eaque eum
-          mollitia esse nisi necessitatibus distinctio ea, dolorem non, optio
-          minima temporibus blanditiis, quidem aperiam!</p>
+          <p>La troupe de théâtre est une communauté qui est ouverte à tout le monde. 
+          La création d'une pièce développera la créativité et l'innovation de chaque 
+          membre dans le respect.</p>
         image: /images/case-study/case-study-img2.png
         image_alt:
   - _bookshop_name: sections/pricing-table

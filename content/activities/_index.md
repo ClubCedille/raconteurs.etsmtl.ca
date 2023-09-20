@@ -1,7 +1,7 @@
 ---
-title: Activity
+title: Activités
 seo_options:
-  description: Landing page for all portfolio items
+  description: Page pour tous les activités en cours
   featured_image:
   og_type: 
   canonical_link:

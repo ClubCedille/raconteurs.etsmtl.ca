@@ -1,5 +1,5 @@
 SEO_options:
-  site_title: Fiction
+  site_title: Raconteurs d'Angles
   description: A template for Hugo, adapted from the MIT-licensed Fiction Bootstrap template from Theme Fisher.
   twitter_image: 
   twitter_site: 
@@ -16,9 +16,9 @@ social_media:
   facebook: "https://www.facebook.com/RaconteursEts"
   instagram: "#"
   discord: ""
-copyright_html: <p>&copy; 2023 Personnalisée et déployée par <a href="https://cedille.etsmtl.ca" target="_blank">Club Cédille</a> <br> &copy; 2013-2017 Conçue et développée par <a href="https://themefisher.com" target="_blank">Themefisher.com</a></p>
-google_maps_api_key: ""
+copyright_html: <p>&copy; 2023 Personnalisée et déployée par <a href="https://cedille.etsmtl.ca" target="_blank">Club Cédille</a></p><p>&copy; 2013-2017 Conçue et développée par <a href="https://themefisher.com" target="_blank">Themefisher.com</a></p>
+google_maps_api_key: "AIzaSyACAa1Q8BRZ-qHKCwA2vaJ0w7IOnRCmq6g"
 
 _inputs:
-  google_maps_api_key:
+  google_maps_api_key: 
     comment: Add your key if you want to use google maps features within the site
