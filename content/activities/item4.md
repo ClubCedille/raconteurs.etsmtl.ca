@@ -5,14 +5,15 @@ hero_blocks:
     subheading: We Ensure Quality Design.
     image: /images/header/portfolio-folding-img.jpg
 heading: Our Portfolio
-category: category-2
-image: /images/portfolio/portfolio-img2.jpg
+category: ateliers
+image: /images/portfolio/portfolio-img4.jpg
 image_alt: Portfolio
 date: '2015-03-16'
 title: Merit wogmonk
 subtitle: Branding
 client: Mamur Beta
 services: Branding, Marketing
+content:
 project_url: '#'
 content_blocks:
   - _bookshop_name: sections/gallery
@@ -25,7 +26,7 @@ content_blocks:
       - _bookshop_name: simple/gallery-image
         image: /images/portfolio/single-portfolio-img4.jpg
 seo_options:
-  description: Portfolio 2, Merit wogmonk
+  description: Portfolio 4, Merit wogmonk
   featured_image:
   og_type: article
   canonical_link:

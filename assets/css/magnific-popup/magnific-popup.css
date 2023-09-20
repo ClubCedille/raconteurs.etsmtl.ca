@@ -277,19 +277,21 @@ img.mfp-img {
     margin: 0; }
 
 .mfp-bottom-bar {
-  margin-top: -36px;
+  margin-top: -40px;
+  margin-bottom: 1rem;
   position: absolute;
   top: 100%;
   left: 0;
   width: 100%;
-  cursor: auto; }
+  cursor: auto; 
+  background-color: #090707; }
 
 .mfp-title {
   text-align: left;
   line-height: 18px;
   color: #F3F3F3;
   word-wrap: break-word;
-  padding-right: 36px; }
+  padding-left: 10px; }
 
 .mfp-image-holder .mfp-content {
   max-width: 100%; }

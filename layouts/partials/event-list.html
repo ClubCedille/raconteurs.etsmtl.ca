@@ -5,9 +5,9 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                {{/*  {{ partial "bookshop_bindings" `.Params.content_blocks` }}
+                {{ partial "bookshop_bindings" `.Params.content_blocks` }}
                 {{ partial "bookshop_partial" (slice "page" .Params.content_blocks) }} 
-                <div class="protfolio-mixitup-btn text-center">
+                {{/*  <div class="protfolio-mixitup-btn text-center">
                     <button class="filter btn btn-default btn-main active" data-filter="all">all</button>
                     {{range $name, $taxonomy := .Site.Taxonomies.category}}
                         {{ partial "bookshop_bindings" `(dict "live_render" false)` }}
@@ -15,7 +15,7 @@
                     {{end}}
                 </div>  */}}
                 <div id="Container" class="filtr-container row">
-                    {{ range (.Paginator (len (where .Site.Pages "Section" "portfolios"))).Pages }}
+                    {{ range (.Paginator (len (where .Site.Pages "Section" "events"))).Pages }}
                             <div class="filtr-item col-md-4 col-sm-6 col-xs-12" data-category="{{ .Params.category }}">
                                 <div class="portfolio-list">
                                     <a href="{{ .RelPermalink }}">

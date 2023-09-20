@@ -102,7 +102,13 @@
 
     /* Popup Image */
     $('.image-link').magnificPopup({
-      type: 'image'
+      type: 'image',
+      image: {
+        titleSrc: function(item) {
+          return '<h3>' + item.el.attr('title') + '</h3>' + '<p>' + item.el.attr('content') +'</p>';
+        },
+        verticalFit: true,
+      }
     });
 
     // DOM Content Load Event Actions;

@@ -13,20 +13,19 @@
                     </div>
                     <div class="col-md-12 col-lg-6 portfolio-single-description padding-0">
                         <div class="portfolio-single-info">
-                            <p class="date">{{ .Date.Format "02.01.2006" }}</p>
                             <h3 class="portfolio-single-title">{{ .Params.title }}</h3>
                             <div class="row margin-0">
                                 <div class="col-md-12 protfolio-list padding-0">
                                     <div class="col-md-4 col-sm-6 padding-0">
-                                        <p>CLIENT</p>
+                                        <p>DATE</p>
                                     </div>
                                     <div class="col-md-8 col-sm-6 padding-0"><span class="colon">:</span>
-                                        <p>{{ .Params.client }}</p>
+                                        <p class="date">{{ .Date.Format "02.01.2006" }}</p>
                                     </div>
                                 </div>
                                 <div class="col-md-12 protfolio-list padding-0">
                                     <div class="col-md-4 col-sm-6 padding-0">
-                                        <p>SERVICES</p>
+                                        <p>LIEU</p>
                                     </div>
                                     <div class="col-md-8 col-sm-6 padding-0"><span class="colon">:</span>
                                         <p>{{ .Params.services }}</p>
@@ -34,10 +33,16 @@
                                 </div>
                                 <div class="col-md-12 protfolio-list padding-0">
                                     <div class="col-md-4 col-sm-6 padding-0">
-                                        <p>LAUNCH PROJECT</p>
+                                        <p>PRIX BILLET</p>
                                     </div>
-                                    <div class="col-md-8 col-sm-6 padding-0"><span class="colon">:</span><a
-                                            class="web-addres" href="{{ .Params.project_url }}" target="_blank">{{ .Params.project_url }}</a></div>
+                                    <div class="col-md-8 col-sm-6 padding-0"><span class="colon">:</span>
+                                        <p>{{ .Params.price }}</p>
+                                    </div>
+                                </div>
+                                <div class="col-md-8 padding-0">
+                                    <div class="text-right">
+                                        <a class="btn btn-default btn-main" href="{{ .Params.details_url }}" role="link" target="_blank">{{ .Params.button }}</a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
