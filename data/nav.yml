@@ -15,7 +15,7 @@ menu:
     url: "/galleries/"
     open_in_new_tab: false
   - name: "Partenaires"
-    url: "/blog/"
+    url: "/partenaires/"
     open_in_new_tab: false
   - name: "Contact"
     url: "/contact/"

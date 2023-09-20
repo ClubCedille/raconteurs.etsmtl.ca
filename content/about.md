@@ -18,13 +18,11 @@ content_blocks:
         La troupe de théâtre Les Raconteurs d'angles vise à combler un manque dans les activités culturelles de l’ÉTS par l’implémentation d’une troupe de création théâtrale et par la mise en place d’activités promouvant les arts de la scène sous toutes ses formes. On parle donc ici d’aider à développer la créativité, les habiletés de communication et de gestion de projet de la communauté de l'ÉTS tout en mettant en valeur ce que les différents génies peuvent offrir dans une production théâtrale.
   - _bookshop_name: sections/case-study
     background: grey
-    heading:
-      heading: Nos Objectifs
     left_right_blocks:
       - _bookshop_name: simple/left-right-block
         image_alignment: right
         background: grey
-        heading: E Banks That Accept Us Casino Players
+        heading: Nos objectifs
         content_html: >-
           <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
           nonummy nibh euiyd tincidunt ut laoreet dolore magna aliquam nibh
@@ -36,19 +34,10 @@ content_blocks:
           minima temporibus blanditiis, quidem aperiam!</p>
         image: /images/case-study/case-study-img1.png
         image_alt:
-        link:
-          _bookshop_name: generic/link
-          url: '#'
-          content: View More
-  - _bookshop_name: sections/case-study
-    background: black
-    heading:
-      heading: Nos Valeurs
-    left_right_blocks:
       - _bookshop_name: simple/left-right-block
         image_alignment: left
         background: black
-        heading: E Banks That Accept Us Casino Players
+        heading: Nos valeurs
         content_html: >-
           <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
           nonummy nibh euiyd tincidunt ut laoreet dolore magna aliquam nibh
@@ -60,10 +49,6 @@ content_blocks:
           minima temporibus blanditiis, quidem aperiam!</p>
         image: /images/case-study/case-study-img2.png
         image_alt:
-        link:
-          _bookshop_name: generic/link
-          url: '#'
-          content: View More
   - _bookshop_name: sections/pricing-table
     heading:
       _bookshop_name: generic/heading
