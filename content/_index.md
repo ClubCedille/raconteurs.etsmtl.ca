@@ -1,10 +1,10 @@
 ---
 title: Accueil
 content_blocks:
-  - _bookshop_name: sections/video-hero
+  - _bookshop_name: sections/background-hero
     heading: L'art captivant sous tous les prismes
     subheading: 
-    background_video: /video/ocean
+    image: /images/header/hero-background.jpg
   - _bookshop_name: sections/case-study
     background: grey
     heading:

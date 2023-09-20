@@ -13,10 +13,6 @@ $lg-desktop: 1200px;
 /* Select 1px to 992px devices */
 @media only screen and (min-width : 1px) and (max-width : $lg-tables) {
 	
-	.logo{
-		img{
-		}
-	}
 	.navigation {
 		.navbar-toggle {
 			span {
