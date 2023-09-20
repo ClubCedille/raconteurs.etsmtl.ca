@@ -13,6 +13,16 @@
 	text-align: center;
 }
 
+.hero-background {
+  height:100vh;
+  background-color: rgba(0, 0, 0, 0.375);
+	background-size:cover;
+	display: flex;
+	justify-content:center;
+	align-items:center;
+	text-align: center;
+}
+
 .slider-item{
 	background-size: cover;
 	background-position: center center;
