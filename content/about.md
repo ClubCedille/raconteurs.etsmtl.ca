@@ -15,10 +15,10 @@ content_blocks:
       heading: Les Raconteurs d'Angles
     content: >
         La troupe de théâtre Les Raconteurs d'angles vise à combler un manque dans les activités culturelles de l’ÉTS par l’implémentation d’une troupe de création théâtrale et par la mise en place d’activités promouvant les arts de la scène sous toutes ses formes. On parle donc ici d’aider à développer la créativité, les habiletés de communication et de gestion de projet de la communauté de l'ÉTS tout en mettant en valeur ce que les différents génies peuvent offrir dans une production théâtrale.
-  - _bookshop_name: sections/case-study
+  - _bookshop_name: sections/about-section
     background: grey
     left_right_blocks:
-      - _bookshop_name: simple/left-right-block
+      - _bookshop_name: simple/left-right-content
         image_alignment: right
         background: grey
         heading: Nos objectifs
@@ -33,7 +33,7 @@ content_blocks:
           minima temporibus blanditiis, quidem aperiam!</p>
         image: /images/case-study/case-study-img1.png
         image_alt:
-      - _bookshop_name: simple/left-right-block
+      - _bookshop_name: simple/left-right-content
         image_alignment: left
         background: black
         heading: Nos valeurs
