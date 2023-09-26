@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Partenaires
 seo_options:
   description: Landing page for all blog posts
   featured_image:

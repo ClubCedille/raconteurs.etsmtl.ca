@@ -31,6 +31,35 @@
 		}
 	}
 
+	.about-section{
+		background: #121212;
+		.content {
+			h4 {
+				padding-bottom: 13px;
+				font-family: $roboto;
+				font-size: 18px;
+				text-transform: uppercase;
+				color: $primary-color;
+				font-weight:bold;
+			}
+			p {
+				font-size: 16px;
+				color: rgba(175, 175, 175, 0.8) ;
+
+			}
+			ul {
+				list-style: inside;
+			}
+			li {
+				font-size: 16px;
+				color: rgba(175, 175, 175, 0.8);
+			}
+			.btn {
+				margin-top: 30px;
+			}
+		}
+	}
+
 	/* Case Study Title */
 	.box-subtitle,
 	.box-title{
@@ -55,6 +84,17 @@
 		// background: #121212;
 		padding-top: 100px;
 		padding-bottom: 180px;
+	}
+
+	.about-section-content{
+	    padding-top: 58px;
+	    padding-bottom: 90px;
+	}
+
+	.about-section-content:nth-child(odd){
+		// background: #121212;
+		padding-top: 100px;
+		padding-bottom: 90px;
 	}
 
 
