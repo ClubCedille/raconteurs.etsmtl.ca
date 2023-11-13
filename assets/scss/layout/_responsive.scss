@@ -167,7 +167,20 @@ $lg-desktop: 1200px;
 	}
 
 	.about-description {
-		padding: 0 15px 60px;
+		padding: 0 15px;
+	}
+
+	.about-section-content {
+		padding: 0 0 40px;
+		text-align: center;
+	}
+
+	.about-section-content:nth-child(odd){
+		padding-bottom: 20px;
+		padding-top: 20px;
+		.case-study-img{
+		    transform: translateY(0);
+		}
 	}
 
 	.gallery-description p{
@@ -444,6 +457,11 @@ $lg-desktop: 1200px;
 	}
 
 	.case-study-content img{
+		width: auto;
+		margin: 20px auto;
+	}
+
+	.about-section-content img{
 		width: auto;
 		margin: 20px auto;
 	}

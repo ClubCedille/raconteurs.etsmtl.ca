@@ -11,7 +11,7 @@ menu:
   - name: "Activités"
     url: "/activities/"
     open_in_new_tab: false
-  - name: "Galéries"
+  - name: "Galeries"
     url: "/galleries/"
     open_in_new_tab: false
   - name: "Partenaires"
