@@ -1,9 +1,0 @@
----
-Title:
-SEO_options:
-  description:
-  featured_image: 
-  og_type: 
-  canonical_link:
-content_blocks:
----

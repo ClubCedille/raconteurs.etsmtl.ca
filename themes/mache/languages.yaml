@@ -1,0 +1,68 @@
+en:
+    THEME_MACHE:
+        FAVICON: favicon
+        FAVICON_HELP: favicon is uploaded to user/themes/mache/images folder.
+        LOGO: Logo
+        LOGO_HELP: Logo is uploaded to user/themes/mache/images folder.
+        LEFT_FOOTER_TITLE: Left footer title
+        LEFT_FOOTER_ADDRESS: Left footer address
+        LEFT_FOOTER_TITLE_HELP: Title shown on the left side of footer.
+        LEFT_FOOTER_ADDRESS_HELP: Address shown on the left side of footer.
+        RIGHT_FOOTER_TITLE: Right footer title
+        RIGHT_FOOTER_SOCIAL_ICONS_BOOTSTRAP: Right footer social icons bootstrap
+        RIGHT_FOOTER_TITLE_HELP: Title shown on the right side of footer.
+        RIGHT_FOOTER_SOCIAL_ICONS_BOOTSTRAP_HELP: Social icons from bootstrap shown on the right side of footer.
+        RELATED_POSTS: Related Posts
+        BLOG_THUMBNAIL_WIDTH: Blog Post Thumbnail's Width
+        BLOG_THUMBNAIL_WIDTH_HELP: Thumbnail of blog post is cropped to this width by Grav's cropZoom function.
+        BLOG_THUMBNAIL_HEIGHT: Blog Post Thumbnail's Height
+        BLOG_THUMBNAIL_HEIGHT_HELP: Thumbnail of blog post is cropped to this height by Grav's cropZoom function.
+        GALLERY_THUMBNAIL_WIDTH: Galerie Post Thumbnail's Width
+        GALLERY_THUMBNAIL_WIDTH_HELP: Thumbnail of galerie post is cropped to this width by Grav's cropZoom function.
+        GALLERY_THUMBNAIL_HEIGHT: Galerie Post Thumbnail's Height
+        GALLERY_THUMBNAIL_HEIGHT_HELP: Thumbnail of galerie post is cropped to this height by Grav's cropZoom function.
+        DEFAULT_BACKGROUND_IMAGE: Default Background Image
+        DEFAULT_BACKGROUND_IMAG_HELP: Image is uploaded to user/themes/mache/images folder.
+        RIGHT_IMAGE: Right Image
+        RIGHT_IMAGE_ALT: Right Image's Alt Text
+        LINK_LABEL: Link's Label
+        LINK_URL: Link's URL
+        LINK_SOCIAL_NETWORK: Link of social network
+        BACKGROUND_IMAGE: Background Image
+        HEADING: Heading
+        BUTTON_LABEL: Button's Label
+        BUTTON_URL: Button's URL
+        IMAGE: Image
+        FEATURES: Features
+        ICON: Icon
+        TITLE: Title
+        DESCRIPTION: Description
+        LATITUDE: Latitude
+        LONGITUDE: Longitude
+        GOOGLE_MAPS_API_KEY: Google Maps API Key
+        ZOOM: Zoom Level
+        GOOGLE_MAPS: Google Maps
+        CURRENCY: Currency
+        BUY_BUTON_LABEL: Buy Button's Label
+        BUY_BUTTON_URL: Buy Button's URL
+        AMOUNT: Amount
+        INTERVAL: Interval
+        PRICES: Prices
+        PARTENAIRES: Partenaires
+        PARTENAIRE_BUTTON_URL: Partenaire icon's URL
+        VISIONS: Visions
+        TEXT: Text
+        SERVICES: Services
+        TESTIMONIALS: Testimonials
+        TESTIMONIAL: Testimonial
+        OPENING_ICON: Opening Icon
+        CLOSING_ICON: Closing Icon
+        BLOG_ROUTE: Blog Page
+        GALERIE_ROUTE: Galerie Page
+        SHOW_MORE_LABEL: Show More Link's Label
+        BLOG_POST_QUANTITY: Blog Post Quantity
+        GALERIE_POST_QUANTITY: Galerie Post Quantity
+        LIST_SUMMARY: Short Summary
+        LIST_SUMMARY_HELP: Short summary shown in blog post list.
+        GALLERY_DESCRIPTION: Short Description
+        GALLERY_DESCRIPTION_HELP: Short description shown in galerie post list.
