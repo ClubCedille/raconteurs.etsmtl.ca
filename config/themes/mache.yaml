@@ -4,7 +4,13 @@ blog_thumbnail_height: 450
 gallery_thumbnail_width: 600
 gallery_thumbnail_height: 450
 favicon: {  }
-logo: {  }
+logo:
+  user/themes/mache/images/raconteurs.png:
+    name: raconteurs.png
+    full_path: raconteurs.png
+    type: image/png
+    size: 5869
+    path: user/themes/mache/images/raconteurs.png
 default_background_image:
   user/themes/mache/images/hero-background.jpg:
     name: hero-background.jpg
