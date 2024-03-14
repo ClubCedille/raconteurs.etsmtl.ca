@@ -4,13 +4,7 @@ blog_thumbnail_height: 450
 gallery_thumbnail_width: 600
 gallery_thumbnail_height: 450
 favicon: {  }
-logo:
-  user/themes/mache/images/logo-yellow.png:
-    name: logo-yellow.png
-    full_path: logo-yellow.png
-    type: image/png
-    size: 8083
-    path: user/themes/mache/images/logo-yellow.png
+logo: {  }
 default_background_image:
   user/themes/mache/images/hero-background.jpg:
     name: hero-background.jpg
@@ -18,3 +12,6 @@ default_background_image:
     type: image/jpeg
     size: 209416
     path: user/themes/mache/images/hero-background.jpg
+left_footer_title: null
+left_footer_address: "<p>1219 Rue William, Montréal, QC H3C 1R1</p>\n<p>Écrivez-nous : <a href=\"mailto:theatre@etsmtl.ca\">theatre@etsmtl.ca</a></p>"
+right_footer_title: null
