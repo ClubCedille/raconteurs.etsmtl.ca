@@ -3,7 +3,7 @@ title: 'Nos Partenaires'
 partenaires:
     -
         icon: 'Merch Banner 960x400.png'
-        partenaire_button_url: '#'
+        partenaire_button_url: 'https://www.fddaeets.ca/'
 media_order: 'logo-yellow.png,cedille-logo-blanc.png,fddaeets_vertical_color copie.jpg,Merch Banner 960x400.png'
 visible: true
 ---
