@@ -2,10 +2,7 @@
 title: 'Nos Partenaires'
 partenaires:
     -
-        icon: logo-yellow.png
-        partenaire_button_url: '#'
-    -
-        icon: cedille-logo-blanc.png
+        icon: 'fddaeets_vertical_color copie.jpg'
         partenaire_button_url: '#'
 media_order: 'logo-yellow.png,cedille-logo-blanc.png,fddaeets_vertical_color copie.jpg'
 visible: true
