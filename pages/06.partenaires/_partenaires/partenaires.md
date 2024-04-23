@@ -2,7 +2,7 @@
 title: 'Nos Partenaires'
 partenaires:
     -
-        icon: 'fddaeets_vertical_color copie.jpg'
+        icon: 'Merch Banner 960x400.png'
         partenaire_button_url: '#'
 media_order: 'logo-yellow.png,cedille-logo-blanc.png,fddaeets_vertical_color copie.jpg,Merch Banner 960x400.png'
 visible: true
