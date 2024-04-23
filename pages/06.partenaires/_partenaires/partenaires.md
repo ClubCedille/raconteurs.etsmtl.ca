@@ -25,7 +25,7 @@ partenaires:
     -
         icon: cedille-logo-blanc.png
         partenaire_button_url: '#'
-media_order: 'cedille-logo-new.png,logo-yellow.png,cedille-logo-blanc.png'
+media_order: 'logo-yellow.png,cedille-logo-blanc.png,fddaeets_vertical_color copie.jpg'
 visible: true
 ---
 
