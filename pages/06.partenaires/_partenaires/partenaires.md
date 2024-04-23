@@ -4,7 +4,7 @@ partenaires:
     -
         icon: 'fddaeets_vertical_color copie.jpg'
         partenaire_button_url: '#'
-media_order: 'logo-yellow.png,cedille-logo-blanc.png,fddaeets_vertical_color copie.jpg'
+media_order: 'logo-yellow.png,cedille-logo-blanc.png,fddaeets_vertical_color copie.jpg,Merch Banner 960x400.png'
 visible: true
 ---
 
