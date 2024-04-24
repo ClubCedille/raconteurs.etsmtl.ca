@@ -45,3 +45,49 @@ visible: true
     	</li>
 	</ul>
 </section>
+
+
+<!-- <section style="margin-top: 5rem; margin-bottom: 5rem;">
+	<h3>
+	    Partenaires <span style="text-transform: uppercase;">Or</span>
+	</h3>
+
+	<ul>
+	</ul>
+</section> -->
+
+<section style="margin-top: 5rem; margin-bottom: 5rem;">
+	<h3>
+	    Partenaires <span style="text-transform: uppercase;">Argent</span>
+	</h3>
+
+	<ul>
+    	<li>
+    		<img alt="SDP" src="" style="height: auto; max-width: 300px;" />
+            
+            <p>
+            	Lorem ipsum
+            </p>
+    	</li>
+        
+        <li>
+    		<img alt="ASEQ" src="" style="height: auto; max-width: 300px;" />
+            
+            <p>
+            	Lorem ipsum
+            </p>
+    	</li>
+	</ul>
+</section>
+
+<section style="margin-top: 5rem; margin-bottom: 5rem;">
+	<h3>
+	    Partenaires <span style="text-transform: uppercase;">Bronze</span>
+	</h3>
+
+	<ul>
+        <li>
+    		<img alt="D-Box" src="" style="height: auto; max-width: 300px;" />
+    	</li>
+	</ul>
+</section>
