@@ -8,7 +8,7 @@ partenaires:
         partenaire_button_url: 'https://www.fddaeets.ca/'
     -
         icon: 'image (20) (1).png'
-        partenaire_button_url: null
+        partenaire_button_url: 'https://www.etsmtl.ca/a-propos/developpement-durable/communautes'
 ---
 
 <p>
