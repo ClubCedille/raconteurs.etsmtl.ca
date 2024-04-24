@@ -4,12 +4,20 @@ media_order: 'logo-yellow.png,cedille-logo-blanc.png,fddaeets_vertical_color cop
 visible: true
 ---
 
-<section style="margin-top: 5rem; margin-bottom: 5rem;">
+<section
+	style="
+           margin-top: 5rem;
+           margin-bottom: 5rem;
+     "
+>
 	<p>
 	    Merci à nos partenaires qui nous permettent de créer et de jouer.
 	</p>
 
-	<a href="https://drive.google.com/file/d/1W4zrltafPGdYigZNkCjEjH0hgCHwgFqU/view?usp=drive_link" target="_blank">
+	<a
+       href="https://drive.google.com/file/d/1W4zrltafPGdYigZNkCjEjH0hgCHwgFqU/view?usp=drive_link"
+       target="_blank"
+   >
     	Encouragez-nous en devenant partenaire !
 	</a>
 </section>
