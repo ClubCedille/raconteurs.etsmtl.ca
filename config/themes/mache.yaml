@@ -31,3 +31,6 @@ right_footer_icons:
   -
     icon: 'fa-brands fa-discord'
     url: 'https://discord.gg/gsecZgeQsq'
+  -
+    icon: 'fa-solid fa-seedling'
+    url: 'http://linktr.ee/raconteursets'
