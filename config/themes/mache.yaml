@@ -20,4 +20,11 @@ default_background_image:
     path: user/themes/mache/images/hero-background.jpg
 left_footer_title: 'RESTER EN CONTACT'
 left_footer_address: "<p>1219 Rue William, Montréal, QC H3C 1R1</p>\n\n<p>Écrivez-nous : <a href=\"mailto:theatre@etsmtl.ca\">theatre@etsmtl.ca</a></p>"
-right_footer_title: null
+right_footer_title: ADRESSE
+right_footer_icons:
+  -
+    icon: facebook
+    url: 'https://www.facebook.com/RaconteursEts'
+  -
+    icon: instagram
+    url: 'https://www.instagram.com/raconteurs_ets/'
