@@ -23,8 +23,8 @@ left_footer_address: "<p>1219 Rue William, Montréal, QC H3C 1R1</p>\n\n<p>Écri
 right_footer_title: ADRESSE
 right_footer_icons:
   -
-    icon: fa-facebook
+    icon: 'fa-brands fa-facebook'
     url: 'https://www.facebook.com/RaconteursEts'
   -
-    icon: fa-instagram
+    icon: 'fa-brands fa-instagram'
     url: 'https://www.instagram.com/raconteurs_ets/'
