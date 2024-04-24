@@ -25,7 +25,7 @@ default_background_image:
     size: 209416
     path: user/themes/mache/images/hero-background.jpg
 left_footer_title: ADRESSE
-left_footer_address: "<p>1219 Rue William, Montréal, QC H3C 1R1</p>\n\n<p>Écrivez-nous : <a href=\"mailto:theatre@etsmtl.ca\">theatre@etsmtl.ca</a></p>"
+left_footer_address: "<p>\n    1219 Rue William, Montréal, QC H3C 1R1\n</p>\n\n<p>\n    Écrivez-nous :\n    <a href=\"mailto:theatre@etsmtl.ca\">theatre@etsmtl.ca</a>\n</p>"
 right_footer_title: 'RESTER EN CONTACT'
 right_footer_icons:
   -
