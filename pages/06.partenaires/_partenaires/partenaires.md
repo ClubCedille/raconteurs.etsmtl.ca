@@ -11,5 +11,10 @@ media_order: 'logo-yellow.png,cedille-logo-blanc.png,fddaeets_vertical_color cop
 visible: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+<p>
+    Merci à nos partenaires qui nous permettent de créer et de jouer.
+</p>
+
+<a href="https://drive.google.com/file/d/1W4zrltafPGdYigZNkCjEjH0hgCHwgFqU/view?usp=drive_link" target="_blank">
+    Encouragez-nous en devenant partenaire !
+</a>
