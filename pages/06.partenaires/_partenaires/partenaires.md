@@ -1,6 +1,6 @@
 ---
 title: 'Nos Partenaires'
-media_order: 'logo-yellow.png,cedille-logo-blanc.png,fddaeets_vertical_color copie.jpg,Merch Banner 960x400.png,image (20) (1).png,Sceau_PIAC_K+CYMK.svg'
+media_order: 'logo-yellow.png,cedille-logo-blanc.png,fddaeets_vertical_color copie.jpg,Merch Banner 960x400.png,image (20) (1).png,Sceau_PIAC_K+CYMK.svg,fddaeets_horizontal_color copie.jpg'
 visible: true
 ---
 
@@ -21,7 +21,7 @@ visible: true
 
 	<ul>
     	<li>
-    		<img alt="FDDAÉÉTS" src="https://raconteurs.etsmtl.ca/user/pages/06.partenaires/_partenaires/Merch%20Banner%20960x400.png" style="height: auto; max-width: 300px;" />
+    		<img alt="FDDAÉÉTS" src="https://raconteurs.etsmtl.ca/user/pages/06.partenaires/_partenaires/fddaeets_horizontal_color%20copie.jpg" style="height: auto; max-width: 300px;" />
             
             <p>
             	Lorem ipsum
