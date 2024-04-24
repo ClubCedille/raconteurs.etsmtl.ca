@@ -1,8 +1,8 @@
 title: 'Raconteurs d''Angles'
-default_lang: en
+default_lang: fr
 author:
-  name: 'Joe Bloggs'
-  email: joe@example.com
+  name: 'Raconteurs d''Angles'
+  email: theatre@etsmtl.ca
 taxonomies:
   - category
   - tag
