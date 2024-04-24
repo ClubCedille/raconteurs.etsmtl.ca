@@ -28,7 +28,7 @@ visible: true
         />
       </a>
 
-      <p>Lorem ipsum</p>
+      <p></p>
     </li>
   </ul>
 </section>
@@ -46,7 +46,7 @@ visible: true
         />
       </a>
 
-      <p>Lorem ipsum</p>
+      <p></p>
     </li>
   </ul>
 </section>
@@ -67,13 +67,13 @@ visible: true
     <li>
       <img alt="SDP" src="" style="height: auto; max-width: 300px" />
 
-      <p>Lorem ipsum</p>
+      <p></p>
     </li>
 
     <li>
       <img alt="ASEQ" src="" style="height: auto; max-width: 300px" />
 
-      <p>Lorem ipsum</p>
+      <p></p>
     </li>
   </ul>
 </section>
