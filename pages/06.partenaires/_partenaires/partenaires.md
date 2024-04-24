@@ -16,7 +16,11 @@ visible: true
 </section>
 
 <section style="margin-top: 5rem; margin-bottom: 5rem">
-  <h3 style="font-size: 600">Partenaires <span style="text-transform: uppercase">Platine</span></h3>
+  <h3 style="font-size: 600; margin-bottom: 2.5rem">
+    Partenaires
+
+    <span style="text-transform: uppercase">Platine</span>
+  </h3>
 
   <ul>
     <li>
@@ -34,7 +38,9 @@ visible: true
 </section>
 
 <section style="margin-top: 5rem; margin-bottom: 5rem">
-  <h3 style="font-size: 600">Partenaires <span style="text-transform: uppercase">Diamant</span></h3>
+  <h3 style="font-size: 600; margin-bottom: 2.5rem">
+    Partenaires <span style="text-transform: uppercase">Diamant</span>
+  </h3>
 
   <ul>
     <li>
@@ -51,9 +57,9 @@ visible: true
   </ul>
 </section>
 
-<!-- <section style="margin-top: 5rem; margin-bottom: 5rem;">
-	<h3 style="font-size: 600;">
-	    Partenaires <span style="text-transform: uppercase;">Or</span>
+<!-- <section style="margin-top: 5rem; margin-bottom: 5rem">
+	<h3 style="font-size: 600; margin-bottom: 2.5rem;">
+	    Partenaires <span style="text-transform: uppercase">Or</span>
 	</h3>
 
 	<ul>
@@ -61,7 +67,9 @@ visible: true
 </section> -->
 
 <section style="margin-top: 5rem; margin-bottom: 5rem">
-  <h3 style="font-size: 600">Partenaires <span style="text-transform: uppercase">Argent</span></h3>
+  <h3 style="font-size: 600; margin-bottom: 2.5rem">
+    Partenaires <span style="text-transform: uppercase">Argent</span>
+  </h3>
 
   <ul>
     <li>
@@ -79,7 +87,9 @@ visible: true
 </section>
 
 <section style="margin-top: 5rem; margin-bottom: 5rem">
-  <h3 style="font-size: 600">Partenaires <span style="text-transform: uppercase">Bronze</span></h3>
+  <h3 style="font-size: 600; margin-bottom: 2.5rem">
+    Partenaires <span style="text-transform: uppercase">Bronze</span>
+  </h3>
 
   <ul>
     <li>
