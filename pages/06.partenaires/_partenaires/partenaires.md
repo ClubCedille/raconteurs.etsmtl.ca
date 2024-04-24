@@ -20,5 +20,11 @@ partenaires:
 </a>
 
 <h3>
-    Partenaire <span style="text-transform: capitalize;">Platine</span>
+    Partenaire <span style="text-transform: uppercase;">Platine</span>
 </h3>
+
+<ul>
+    <li>
+    	<img alt="FDDAÉÉTS" src="" />
+    </li>
+</ul>
