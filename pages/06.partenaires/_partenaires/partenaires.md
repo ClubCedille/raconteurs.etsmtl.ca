@@ -15,7 +15,7 @@ visible: true
 </section>
 
 <section style="margin-top: 5rem; margin-bottom: 5rem;">
-	<h3>
+	<h3 style="font-size: 600;">
 	    Partenaires <span style="text-transform: uppercase;">Platine</span>
 	</h3>
 
@@ -31,7 +31,7 @@ visible: true
 </section>
 
 <section style="margin-top: 5rem; margin-bottom: 5rem;">
-	<h3>
+	<h3 style="font-size: 600;">
 	    Partenaires <span style="text-transform: uppercase;">Diamant</span>
 	</h3>
 
@@ -48,7 +48,7 @@ visible: true
 
 
 <!-- <section style="margin-top: 5rem; margin-bottom: 5rem;">
-	<h3>
+	<h3 style="font-size: 600;">
 	    Partenaires <span style="text-transform: uppercase;">Or</span>
 	</h3>
 
@@ -57,7 +57,7 @@ visible: true
 </section> -->
 
 <section style="margin-top: 5rem; margin-bottom: 5rem;">
-	<h3>
+	<h3 style="font-size: 600;">
 	    Partenaires <span style="text-transform: uppercase;">Argent</span>
 	</h3>
 
@@ -81,7 +81,7 @@ visible: true
 </section>
 
 <section style="margin-top: 5rem; margin-bottom: 5rem;">
-	<h3>
+	<h3 style="font-size: 600;">
 	    Partenaires <span style="text-transform: uppercase;">Bronze</span>
 	</h3>
 
