@@ -1,6 +1,6 @@
 ---
 title: 'Nos Partenaires'
-media_order: 'logo-yellow.png,cedille-logo-blanc.png,fddaeets_vertical_color copie.jpg,Merch Banner 960x400.png,image (20) (1).png,Sceau_PIAC_K+CYMK.svg,fddaeets_horizontal_color copie.jpg,Fddaeets Horizontal Color.png'
+media_order: 'logo-yellow.png,cedille-logo-blanc.png,fddaeets_vertical_color copie.jpg,Merch Banner 960x400.png,image (20) (1).png,Sceau_PIAC_K+CYMK.svg,fddaeets_horizontal_color copie.jpg,Fddaeets Horizontal Color.png,dbox.svg'
 visible: true
 ---
 
@@ -87,7 +87,7 @@ visible: true
 
 	<ul>
         <li>
-    		<img alt="D-Box" src="" style="height: auto; max-width: 300px;" />
+    		<img alt="D-Box" src="https://raconteurs.etsmtl.ca/user/pages/06.partenaires/_partenaires/dbox.svg" style="height: auto; max-width: 300px;" />
     	</li>
 	</ul>
 </section>
