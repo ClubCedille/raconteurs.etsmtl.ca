@@ -20,11 +20,21 @@ partenaires:
 </a>
 
 <h3>
-    Partenaire <span style="text-transform: uppercase;">Platine</span>
+    Partenaires <span style="text-transform: uppercase;">Platine</span>
 </h3>
 
 <ul>
     <li>
-    	<img alt="FDDAÉÉTS" src="https://raconteurs.etsmtl.ca/user/pages/06.partenaires/_partenaires/Merch%20Banner%20960x400.png" style="height: auto; max-width: 227px;" />
+    	<img alt="FDDAÉÉTS" src="https://raconteurs.etsmtl.ca/user/pages/06.partenaires/_partenaires/Merch%20Banner%20960x400.png" style="height: auto; max-width: 300px;" />
+    </li>
+</ul>
+
+<h3>
+    Partenaires <span style="text-transform: uppercase;">Diamant</span>
+</h3>
+
+<ul>
+    <li>
+    	<img alt="PIAC" src="https://raconteurs.etsmtl.ca/user/pages/06.partenaires/_partenaires/image%20(20)%20(1).png" style="height: auto; max-width: 300px;" />
     </li>
 </ul>
