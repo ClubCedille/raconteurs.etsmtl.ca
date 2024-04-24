@@ -4,7 +4,7 @@ media_order: 'logo-yellow.png,cedille-logo-blanc.png,fddaeets_vertical_color cop
 visible: true
 ---
 
-<section>
+<section style="margin-top: 2.5rem; margin-bottom: 2.5rem;">
 	<p>
 	    Merci à nos partenaires qui nous permettent de créer et de jouer.
 	</p>
@@ -14,7 +14,7 @@ visible: true
 	</a>
 </section>
 
-<section>
+<section style="margin-top: 2.5rem; margin-bottom: 2.5rem;">
 	<h3>
 	    Partenaires <span style="text-transform: uppercase;">Platine</span>
 	</h3>
@@ -26,7 +26,7 @@ visible: true
 	</ul>
 </section>
 
-<section>
+<section style="margin-top: 2.5rem; margin-bottom: 2.5rem;">
 	<h3>
 	    Partenaires <span style="text-transform: uppercase;">Diamant</span>
 	</h3>
