@@ -32,7 +32,15 @@ visible: true
         />
       </a>
 
-      <p></p>
+      <p>
+        La mission du Fonds de Développement Durable de l'Association étudiante de l'École de
+        technologie supérieure (FDDAÉÉTS) est de financer les projets favorisant l’intégration et
+        l’application du développement durable avec et pour la communauté de l’ÉTS. Le FDDAÉÉTS se
+        veut un acteur décisif dans l’avènement d’une culture de développement durable au sein de la
+        Communauté ÉTS et de la société québécoise. Le comité de sélection du FDDAÉÉTS est composé
+        de 5 membres, dont un désigné par le comité de direction de l'ÉTS et 4 désignés par l'AÉÉTS.
+        Les membres changent chaque année.
+      </p>
     </li>
   </ul>
 </section>
@@ -52,7 +60,13 @@ visible: true
         />
       </a>
 
-      <p></p>
+      <p>
+        Le Programme d'intégration des arts et de la culture (PIAC) de l’ÉTS intervient dans les
+        domaines des arts visuels, de l'art mural et des arts de la scène en apportant la culture à
+        l’intérieur de l’ÉTS. Concours, expositions, soutien aux clubs, les actions accomplies sont
+        variées et permettent à la communauté de l’ÉTS de découvrir la culture sous toutes ses
+        couleurs.
+      </p>
     </li>
   </ul>
 </section>
