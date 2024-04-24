@@ -28,3 +28,6 @@ right_footer_icons:
   -
     icon: 'fa-brands fa-instagram'
     url: 'https://www.instagram.com/raconteurs_ets/'
+  -
+    icon: 'fa-brands fa-discord'
+    url: 'https://discord.gg/gsecZgeQsq'
