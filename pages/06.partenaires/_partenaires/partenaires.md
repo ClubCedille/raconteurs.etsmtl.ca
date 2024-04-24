@@ -18,3 +18,7 @@ partenaires:
 <a href="https://drive.google.com/file/d/1W4zrltafPGdYigZNkCjEjH0hgCHwgFqU/view?usp=drive_link" target="_blank">
     Encouragez-nous en devenant partenaire !
 </a>
+
+<h3>
+    Partenaire <span style="text-transform: capitalize;">Platine</span>
+</h3>
