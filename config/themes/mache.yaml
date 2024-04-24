@@ -35,5 +35,5 @@ right_footer_icons:
     icon: 'fa-solid fa-seedling'
     url: 'http://linktr.ee/raconteursets'
   -
-    icon: 'fa-solid fa-email'
+    icon: 'fa-solid fa-envelope'
     url: 'mailto:theatre@etsmtl.ca'
