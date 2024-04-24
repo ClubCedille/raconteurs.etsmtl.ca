@@ -22,6 +22,10 @@ visible: true
 	<ul>
     	<li>
     		<img alt="FDDAÉÉTS" src="https://raconteurs.etsmtl.ca/user/pages/06.partenaires/_partenaires/Merch%20Banner%20960x400.png" style="height: auto; max-width: 300px;" />
+            
+            <p>
+            	Lorem ipsum
+            </p>
     	</li>
 	</ul>
 </section>
@@ -34,6 +38,10 @@ visible: true
 	<ul>
     	<li>
     		<img alt="PIAC" src="https://raconteurs.etsmtl.ca/user/pages/06.partenaires/_partenaires/Sceau_PIAC_K+CYMK.svg" style="height: auto; max-width: 300px;" />
+            
+            <p>
+            	Lorem ipsum
+            </p>
     	</li>
 	</ul>
 </section>
