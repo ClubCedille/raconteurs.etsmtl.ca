@@ -38,11 +38,13 @@ visible: true
 
   <ul>
     <li>
-      <img
-        alt="PIAC"
-        src="https://raconteurs.etsmtl.ca/user/pages/06.partenaires/_partenaires/PIAC%20Seal.svg"
-        style="height: auto; max-width: 300px"
-      />
+      <a href="https://www.etsmtl.ca/a-propos/developpement-durable/communautes" target="_blank">
+        <img
+          alt="PIAC"
+          src="https://raconteurs.etsmtl.ca/user/pages/06.partenaires/_partenaires/PIAC%20Seal.svg"
+          style="height: auto; max-width: 300px"
+        />
+      </a>
 
       <p>Lorem ipsum</p>
     </li>
