@@ -25,6 +25,6 @@ partenaires:
 
 <ul>
     <li>
-    	<img alt="FDDAÉÉTS" src="https://raconteurs.etsmtl.ca/user/pages/06.partenaires/_partenaires/Merch%20Banner%20960x400.png" />
+    	<img alt="FDDAÉÉTS" src="https://raconteurs.etsmtl.ca/user/pages/06.partenaires/_partenaires/Merch%20Banner%20960x400.png" style="height: auto; max-width: 227px;" />
     </li>
 </ul>
