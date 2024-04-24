@@ -20,11 +20,13 @@ visible: true
 
   <ul>
     <li>
-      <img
-        alt="FDDAÉÉTS"
-        src="https://raconteurs.etsmtl.ca/user/pages/06.partenaires/_partenaires/Fddaeets%20Horizontal%20Color.png"
-        style="height: auto; max-width: 300px"
-      />
+      <a href="https://www.fddaeets.ca" target="_blank">
+        <img
+          alt="FDDAÉÉTS"
+          src="https://raconteurs.etsmtl.ca/user/pages/06.partenaires/_partenaires/Fddaeets%20Horizontal%20Color.png"
+          style="height: auto; max-width: 300px"
+        />
+      </a>
 
       <p>Lorem ipsum</p>
     </li>
