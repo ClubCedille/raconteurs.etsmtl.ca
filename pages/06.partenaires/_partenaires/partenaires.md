@@ -4,7 +4,7 @@ media_order: 'logo-yellow.png,cedille-logo-blanc.png,fddaeets_vertical_color cop
 visible: true
 partenaires:
     -
-        icon: 'fddaeets_vertical_color copie.jpg'
+        icon: 'Merch Banner 960x400.png'
         partenaire_button_url: 'https://www.fddaeets.ca/'
     -
         icon: 'image (20) (1).png'
