@@ -22,7 +22,7 @@ visible: true
     <span style="text-transform: uppercase">Platine</span>
   </h3>
 
-  <ul>
+  <ul style="padding-left: 0">
     <li>
       <a href="https://www.fddaeets.ca" target="_blank">
         <img
@@ -52,7 +52,7 @@ visible: true
     <span style="text-transform: uppercase">Diamant</span>
   </h3>
 
-  <ul>
+  <ul style="padding-left: 0">
     <li>
       <a href="https://www.etsmtl.ca/a-propos/developpement-durable/communautes" target="_blank">
         <img
@@ -80,7 +80,7 @@ visible: true
 			<span style="text-transform: uppercase">Or</span>
 	</h3>
 
-	<ul>
+	<ul style="padding-left: 0;">
 	</ul>
 </section> -->
 
@@ -91,7 +91,7 @@ visible: true
     <span style="text-transform: uppercase">Argent</span>
   </h3>
 
-  <ul>
+  <ul style="padding-left: 0">
     <li>
       <img alt="SDP" src="" style="height: auto; max-width: 300px" />
 
@@ -113,7 +113,7 @@ visible: true
     <span style="text-transform: uppercase">Bronze</span>
   </h3>
 
-  <ul>
+  <ul style="padding-left: 0">
     <li>
       <a href="https://www.d-box.com/" target="_blank">
         <img
