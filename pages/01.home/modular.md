@@ -77,5 +77,6 @@ form:
                 body: '{% include ''forms/data.txt.twig'' %}'
         -
             display: thank-you
+published: true
 ---
 
