@@ -1,6 +1,6 @@
 ---
 title: 'LA MAGIE DU THÉÂTRE AVEC LES RACONTEURS D''ANGLES'
-right_image: magieTheatre.png
+right_image: 'logo_detaille-Les_Raconteurs_d''angles-NOIR-v2.png'
 right_image_alt: 'Les Raconteurs d''Angles'
 link_label: 'EN SAVOIR PLUS'
 link_url: /a-propos
