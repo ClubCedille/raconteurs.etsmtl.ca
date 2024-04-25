@@ -4,10 +4,7 @@ media_order: 'logo-yellow.png,cedille-logo-blanc.png,fddaeets_vertical_color cop
 visible: true
 ---
 
-<a
-  href="https://drive.google.com/file/d/1W4zrltafPGdYigZNkCjEjH0hgCHwgFqU/view?usp=drive_link"
-  target="_blank"
->
+<a href="https://drive.google.com/file/d/1W4zrltafPGdYigZNkCjEjH0hgCHwgFqU/view?usp=drive_link">
   Encouragez-nous en devenant partenaire !
 </a>
 
