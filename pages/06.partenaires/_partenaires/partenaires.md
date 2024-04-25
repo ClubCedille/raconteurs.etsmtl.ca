@@ -28,7 +28,7 @@ visible: true
         <img
           alt="FDDAÉÉTS"
           src="https://raconteurs.etsmtl.ca/user/pages/06.partenaires/_partenaires/Fddaeets%20Horizontal%20Color.png"
-          style="height: auto; max-width: 300px"
+          style="height: auto; max-width: 400px"
         />
       </a>
 
