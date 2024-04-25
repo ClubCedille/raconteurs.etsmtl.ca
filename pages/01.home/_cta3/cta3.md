@@ -6,11 +6,14 @@ image: nousJoindre.png
 media_order: nousJoindre.png
 ---
 
-Un projet de production théâtrale apportera les retombées suivantes pour l’ÉTS ainsi que pour sa communauté :
-* Visibilité externe
-* Élargissement des horizons culturels de la population de l'ÉTS
-* Développement de la pensée créative
-* Amélioration des compétences en communication
-* Lieu d'échange où faire entendre sa voix
-* Amélioration des compétences en gestion de projet et en travail d'équipe
-* Application créative de l'ingénierie
+### Au niveau personnel:
+* Développe ta créativité
+* Améliore tes compétences en communication
+* Fais entendre ta voix
+* Applique le génie de façon originale
+* Cumule de l’expérience en gestion de projet et en travail d’équipe
+
+### Au niveau communautaire:
+* Élargis tes horizons culturels
+* Échange tes idées
+* Offre de la visibilité externe et créative à l’ÉTS
