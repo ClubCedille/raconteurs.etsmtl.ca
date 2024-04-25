@@ -1,8 +1,8 @@
 ---
 title: 'NOS VALEURS'
 background_image: black-370118_960_720.png
-media_order: nosValeurs.png
-image: nosValeurs.png
+media_order: 'nosValeurs.png,a-propos-nos-valeurs.jpg'
+image: a-propos-nos-valeurs.jpg
 ---
 
 1. Générosité
