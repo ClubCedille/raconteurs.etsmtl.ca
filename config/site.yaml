@@ -1,7 +1,19 @@
-title: Grav
+title: 'Raconteurs d''Angles'
+default_lang: fr
 author:
-  name: Joe Bloggs
-  email: 'joe@example.com'
+  name: 'Raconteurs d''Angles'
+  email: theatre@etsmtl.ca
+taxonomies:
+  - category
+  - tag
 metadata:
-    description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
-
+  description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+redirects: null
+routes: null
+blog:
+  route: /blog
