@@ -95,7 +95,7 @@ visible: true
     <li>
       <img alt="SDP" src="" style="height: auto; max-width: 300px" />
 
-      <p></p>
+      <p>Le Service aux diplômés et à la philanthropie.</p>
     </li>
 
     <li>
