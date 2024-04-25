@@ -1,5 +1,5 @@
 ---
-title: Évènements
+title: Événements
 blog_url: évènement
 sitemap:
     changefreq: monthly
@@ -16,7 +16,7 @@ feed:
     limit: 10
 pagination: true
 visible: true
+media_order: 'blog-header.jpg,evenements-banniere.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+Sors les arts de ton angle mort en assistant à un de nos événements, que ce soit notre sortie culturelle mensuelle, notre création théâtrale annuelle ou une de nos tables rondes éphémères.
