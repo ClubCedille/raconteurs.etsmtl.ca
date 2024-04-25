@@ -10,5 +10,6 @@ content:
             - _banner
             - _partenaires
 visible: true
+media_order: partenariats.jpg
 ---
 
