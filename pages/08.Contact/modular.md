@@ -74,5 +74,6 @@ form:
                 body: '{% include ''forms/data.txt.twig'' %}'
         -
             display: thank-you
+media_order: contactez-nous.jpg
 ---
 
