@@ -17,7 +17,7 @@ visible: true
 
 <section style="margin-top: 5rem; margin-bottom: 5rem">
   <h3 style="font-size: 600; margin-bottom: 2.5rem">
-    Partenaires
+    Partenaire
 
     <span style="text-transform: uppercase">Platine</span>
   </h3>
@@ -47,7 +47,9 @@ visible: true
 
 <section style="margin-top: 5rem; margin-bottom: 5rem">
   <h3 style="font-size: 600; margin-bottom: 2.5rem">
-    Partenaires <span style="text-transform: uppercase">Diamant</span>
+    Partenaire
+
+    <span style="text-transform: uppercase">Diamant</span>
   </h3>
 
   <ul>
@@ -73,7 +75,9 @@ visible: true
 
 <!-- <section style="margin-top: 5rem; margin-bottom: 5rem">
 	<h3 style="font-size: 600; margin-bottom: 2.5rem;">
-	    Partenaires <span style="text-transform: uppercase">Or</span>
+	    Partenaire
+			
+			<span style="text-transform: uppercase">Or</span>
 	</h3>
 
 	<ul>
@@ -82,7 +86,9 @@ visible: true
 
 <section style="margin-top: 5rem; margin-bottom: 5rem">
   <h3 style="font-size: 600; margin-bottom: 2.5rem">
-    Partenaires <span style="text-transform: uppercase">Argent</span>
+    Partenaires
+
+    <span style="text-transform: uppercase">Argent</span>
   </h3>
 
   <ul>
@@ -102,16 +108,20 @@ visible: true
 
 <section style="margin-top: 5rem; margin-bottom: 5rem">
   <h3 style="font-size: 600; margin-bottom: 2.5rem">
-    Partenaires <span style="text-transform: uppercase">Bronze</span>
+    Partenaire
+
+    <span style="text-transform: uppercase">Bronze</span>
   </h3>
 
   <ul>
     <li>
-      <img
-        alt="D-Box"
-        src="https://raconteurs.etsmtl.ca/user/pages/06.partenaires/_partenaires/dbox.svg"
-        style="height: auto; max-width: 300px"
-      />
+      <a href="https://www.d-box.com/" target="_blank">
+        <img
+          alt="D-Box"
+          src="https://raconteurs.etsmtl.ca/user/pages/06.partenaires/_partenaires/dbox.svg"
+          style="height: auto; max-width: 300px"
+        />
+      </a>
     </li>
   </ul>
 </section>
