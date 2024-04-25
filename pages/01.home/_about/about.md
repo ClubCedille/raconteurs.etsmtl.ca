@@ -4,7 +4,7 @@ right_image: magieTheatre.png
 right_image_alt: 'Les Raconteurs d''Angles'
 link_label: 'EN SAVOIR PLUS'
 link_url: /a-propos
-media_order: 'magieTheatre.png,logo+texte-Les_Raconteurs_d''angles-NOIR.svg'
+media_order: 'logo_detaille-Les_Raconteurs_d''angles-NOIR-v2.png'
 ---
 
 ### Soif de jeu et de création ?
