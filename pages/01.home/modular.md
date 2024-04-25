@@ -78,5 +78,6 @@ form:
         -
             display: thank-you
 published: true
+media_order: accueil.jpg
 ---
 
