@@ -1,7 +1,7 @@
 ---
 title: Partenaires
-background_image: blog-header.jpg
-media_order: 'banner.png,acets.png'
+background_image: partenariats.jpg
+media_order: 'blog-header.jpg,partenariats.jpg'
 heading: Partenaires
 ---
 
