@@ -4,7 +4,7 @@ right_image: magieTheatre.png
 right_image_alt: 'Les Raconteurs d''angles'
 ---
 
-<ol style="list-style-type: decimal;">
+<ol style="list-style-type: decimal; text-align: left;">
     <li>
     	Offrir à la communauté de l’ÉTS une implication dans une troupe de théâtre universitaire.
     </li>
