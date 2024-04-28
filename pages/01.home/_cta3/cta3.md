@@ -3,7 +3,7 @@ title: 'POURQUOI NOUS JOINDRE'
 button_label: 'NOUS JOINDRE'
 button_url: /contact
 image: 'March 29 Photo.jpg'
-media_order: 'March 29 Photo.jpg'
+media_order: 'March 29 Photo.jpg,accueil-pourquoi-nous-joindre.jpg,Accueil Pourquoi Nous Joindre.jpg'
 published: true
 ---
 
