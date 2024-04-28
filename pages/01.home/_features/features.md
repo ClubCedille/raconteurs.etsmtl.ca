@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Tuiles
 features:
     -
         icon: drama-masks.png
