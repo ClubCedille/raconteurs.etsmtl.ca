@@ -10,13 +10,7 @@ favicon:
     type: image/png
     size: 709550
     path: 'user/themes/mache/images/Les Raconteurs d''Angles Logo Noir.png'
-logo:
-  'user/themes/mache/images/Raconteurs d''Angles Logo.svg':
-    name: 'Raconteurs d''Angles Logo.svg'
-    full_path: 'Raconteurs d''Angles Logo.svg'
-    type: image/svg+xml
-    size: 12352
-    path: 'user/themes/mache/images/Raconteurs d''Angles Logo.svg'
+logo: {  }
 default_background_image:
   user/themes/mache/images/hero-background.jpg:
     name: hero-background.jpg
