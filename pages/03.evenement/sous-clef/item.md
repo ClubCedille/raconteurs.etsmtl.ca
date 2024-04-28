@@ -19,9 +19,23 @@ Après plusieurs longs mois de travail, nous avons créé un spectacle composé 
 Ceux-ci sont de véritables fenêtres ouvertes sur des récits tissés autour d’objets que nous avons pu transformer en porteurs d’histoires intrigantes : les clefs.
 
 Spectacle présenté au Pub 100 Génies de l’ÉTS les:
-- 18 mai - 19 h
-- 19 mai - 15 h
-- 23 mai - 19 h
-- 24 mai - 19 h
+
+<ul style="list-style-type: disc;">
+    <li>
+    	18 mai - 19 h
+    </li>
+    
+    <li>
+    	19 mai - 15 h
+    </li>
+    
+    <li>
+    	23 mai - 19 h
+    </li>
+    
+    <li>
+    	24 mai - 19 h
+    </li>
+</ul>
 
 Billetterie : TBD
