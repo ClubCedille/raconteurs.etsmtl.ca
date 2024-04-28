@@ -18,7 +18,7 @@ features:
         title: 'CONSTRUCTION DE DÉCORS'
         description: null
     -
-        icon: hair-cut.png
+        icon: 'Tshirt icon.png'
         title: 'FABRICATION DE COSTUMES ET ACCESSOIRES'
         description: null
     -
