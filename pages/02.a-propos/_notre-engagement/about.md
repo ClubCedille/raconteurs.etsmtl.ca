@@ -1,5 +1,8 @@
 ---
 title: 'NOTRE ENGAGEMENT'
+media_order: 'Sustainable icon.png'
+right_image: 'Sustainable icon.png'
+right_image_alt: 'Sustainable icon'
 ---
 
 La troupe s’est engagée dans des démarches afin d’obtenir l'accréditation Artistes Citoyens en Tournée (ACT).
