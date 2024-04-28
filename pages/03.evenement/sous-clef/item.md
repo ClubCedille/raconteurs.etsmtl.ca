@@ -1,6 +1,6 @@
 ---
 title: 'SOUS CLEF'
-list_summary: 'Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et'
+list_summary: 'Spectacle original de la saison 2023-2024 des Raconteurs d’Angles'
 date: '14:55 07/11/2014'
 author: 'Tasha Maxwell'
 taxonomy:
