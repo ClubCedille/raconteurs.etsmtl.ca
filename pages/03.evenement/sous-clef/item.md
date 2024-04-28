@@ -9,7 +9,7 @@ taxonomy:
     tag:
         - journal
         - photography
-media_order: 'Billeterie Image.png'
+media_order: 'Couleur cropped.png'
 ---
 
 ## Spectacle original de la saison 2023-2024 des Raconteurs d’Angles
