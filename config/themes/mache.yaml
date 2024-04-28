@@ -10,13 +10,7 @@ favicon:
     type: image/png
     size: 709550
     path: 'user/themes/mache/images/Les Raconteurs d''Angles Logo Noir.png'
-logo:
-  user/themes/mache/images/raconteurs.png:
-    name: raconteurs.png
-    full_path: raconteurs.png
-    type: image/png
-    size: 5869
-    path: user/themes/mache/images/raconteurs.png
+logo: {  }
 default_background_image:
   user/themes/mache/images/hero-background.jpg:
     name: hero-background.jpg
