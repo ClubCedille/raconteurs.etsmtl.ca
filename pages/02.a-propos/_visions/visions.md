@@ -12,6 +12,3 @@ visions:
         text: 'La troupe sera composée de 8 à 20 acteur(trice)s, 1 assistant(e) à la metteure en scène professionnelle et d''autres personnes s''ajouteront pour la conception des décors, costumes, accessoires ainsi qu’à la régie pour l’éclairage et le son.'
 ---
 
-La troupe s’est engagée dans des démarches afin d’obtenir l'accréditation Artistes Citoyens en Tournée (ACT).
-
-En ce sens, elle a développé un plan de développement durable qui liste les actions qu’elle souhaite entreprendre pour s’engager dans la création artistique durable.
