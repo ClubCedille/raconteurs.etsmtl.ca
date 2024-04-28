@@ -1,6 +1,6 @@
 ---
 title: 'Merci à nos partenaires qui nous permettent de créer et de jouer'
-media_order: 'logo-yellow.png,cedille-logo-blanc.png,Sceau_PIAC_K+CYMK.svg,Fddaeets Horizontal Color.png,dbox.svg,PIAC Seal.svg'
+media_order: 'logo-yellow.png,cedille-logo-blanc.png,Sceau_PIAC_K+CYMK.svg,Fddaeets Horizontal Color.png,dbox.svg,PIAC Seal.svg,Logo SDP.png'
 visible: true
 ---
 
@@ -86,7 +86,7 @@ visible: true
 
   <ul style="padding-left: 0">
     <li>
-      <img alt="SDP" src="" style="height: auto; max-width: 300px" />
+      <img alt="SDP" src="https://raconteurs.etsmtl.ca/user/pages/06.partenaires/_partenaires/Logo%20SDP.png" style="height: auto; max-width: 300px" />
 
       <p>Le Service aux diplômés et à la philanthropie.</p>
     </li>
