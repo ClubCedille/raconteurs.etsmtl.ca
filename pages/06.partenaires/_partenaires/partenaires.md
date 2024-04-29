@@ -88,7 +88,11 @@ visible: true
     <li>
       <img alt="SDP" src="https://raconteurs.etsmtl.ca/user/pages/06.partenaires/_partenaires/image001.png" style="height: auto; max-width: 300px" />
 
-      <p>Le Service aux diplômés et à la philanthropie.</p>
+      <p>
+        La mission du Service aux diplômés et à la philanthropie est de développer et entretenir des relations de longue haleine et mutuellement bénéfiques avec tous les membres de la communauté élargie de l’ÉTS afin de renforcer leur sentiment d’appartenance, de susciter leur engagement et de mobiliser leurs talents, leurs efforts et leurs ressources en faveur du développement de l’ÉTS.
+ 
+Le développement de l’ÉTS et son rayonnement auprès de l’industrie est aussi une composante importante de notre mission.
+      </p>
     </li>
 
     <li>
