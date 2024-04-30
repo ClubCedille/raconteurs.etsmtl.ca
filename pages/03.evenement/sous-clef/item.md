@@ -38,4 +38,4 @@ Spectacle présenté au Pub 100 Génies de l’ÉTS les:
     </li>
 </ul>
 
-Billetterie : TBD
+Billetterie : https://www.zeffy.com/fr-CA/ticketing/7580aedb-06fe-43b5-966b-31f385b53526
