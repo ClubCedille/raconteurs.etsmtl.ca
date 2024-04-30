@@ -5,7 +5,7 @@ visible: true
 ---
 
 <style>
-  .partners {
+  .partners-tiers {
     align-items: center;
     display: flex;
     flex-direction: column;
@@ -48,7 +48,7 @@ visible: true
   Encouragez-nous en devenant partenaire !
 </a>
 
-<section class="partners">
+<section class="partners-tiers">
   <div class="tier">
     <h3 class="tier-title">Partenaire PLATINE</h3>
 
@@ -107,7 +107,7 @@ visible: true
   </div>
 
   <div class="tier">
-    <h3 class="tier-tttle">Partenaires ARGENT</h3>
+    <h3 class="tier-title">Partenaires ARGENT</h3>
 
     <ul class="tier-partners">
       <li class="partner">
@@ -137,24 +137,21 @@ visible: true
       </li>
     </ul>
   </div>
-</section>
 
-<section style="margin-top: 5rem; margin-bottom: 5rem">
-  <h3 style="font-size: 600; margin-bottom: 2.5rem">
-    Partenaire
+  <div class="tier">
+    <h3 class="tier-title">Partenaire BRONZE</h3>
 
-    <span style="text-transform: uppercase">Bronze</span>
-  </h3>
-
-  <ul style="padding-left: 0">
-    <li>
-      <a href="https://www.d-box.com/" target="_blank">
-        <img
-          alt="D-Box"
-          src="https://raconteurs.etsmtl.ca/user/pages/06.partenaires/_partenaires/dbox.svg"
-          style="height: auto; max-width: 300px"
-        />
-      </a>
-    </li>
-  </ul>
+    <ul class="tier-partners">
+      <li class="partner">
+        <a href="https://www.d-box.com/" target="_blank">
+          <img
+            alt="D-Box"
+            class="partner-logo"
+            src="https://raconteurs.etsmtl.ca/user/pages/06.partenaires/_partenaires/dbox.svg"
+            style="max-width: 300px"
+          />
+        </a>
+      </li>
+    </ul>
+  </div>
 </section>
