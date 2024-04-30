@@ -25,6 +25,10 @@ visible: true
         padding-left: 0;
 
         & > li {
+          display: flex;
+          flex-direction: column;
+          row-gap: 1rem;
+
           & > img {
             height: auto;
           }
