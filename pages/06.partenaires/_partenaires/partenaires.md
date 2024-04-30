@@ -11,6 +11,7 @@ visible: true
     flex-direction: column;
 
     & > .tier {
+      align-items: center;
       display: flex;
       flex-direction: column;
       margin-top: 5rem;
@@ -25,6 +26,7 @@ visible: true
         padding-left: 0;
 
         & > .partner {
+          align-items: center;
           display: flex;
           flex-direction: column;
           row-gap: 1rem;
