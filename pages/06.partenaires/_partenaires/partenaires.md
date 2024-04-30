@@ -56,26 +56,19 @@ visible: true
       </a>
 
       <p>
-        Le Programme d'intégration des arts et de la culture (PIAC) de l’ÉTS intervient dans les
-        domaines des arts visuels, de l'art mural et des arts de la scène en apportant la culture à
-        l’intérieur de l’ÉTS. Concours, expositions, soutien aux clubs, les actions accomplies sont
-        variées et permettent à la communauté de l’ÉTS de découvrir la culture sous toutes ses
-        couleurs.
+        Programme d’intégration des arts et de la culture (PIAC) de l’ÉTS. Au printemps 2021, l’ÉTS
+        a entamé une vaste démarche d’élaboration d’un Programme d’intégration des arts et de la
+        culture, à la suite des recommandations issues des consultations tenues dans le cadre du
+        Plan de développement urbanistique du campus. Cette démarche comprend un comité interne
+        multipartite et fait appel à des partenaires externes avec lesquels l’École collabore pour
+        rendre le campus plus agréable à vivre par le biais des arts te de la culture. Le PIAC
+        comporte trois volets : arts visuels, arts de la scène et arts technologiques. En tant
+        qu’école de génie, l’ÉTS compte bien apporter une contribution originale au volet arts
+        technologiques.
       </p>
     </li>
   </ul>
 </section>
-
-<!-- <section style="margin-top: 5rem; margin-bottom: 5rem">
-	<h3 style="font-size: 600; margin-bottom: 2.5rem;">
-	    Partenaire
-			
-			<span style="text-transform: uppercase">Or</span>
-	</h3>
-
-	<ul style="padding-left: 0;">
-	</ul>
-</section> -->
 
 <section style="margin-top: 5rem; margin-bottom: 5rem">
   <h3 style="font-size: 600; margin-bottom: 2.5rem">
