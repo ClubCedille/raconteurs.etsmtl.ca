@@ -10,6 +10,6 @@ content:
             - _banner
             - _partenaires
 visible: true
-media_order: partenariats-modified.jpg
+media_order: 'partenariats-modified.jpg,partenariats-modified.jpg'
 ---
 
