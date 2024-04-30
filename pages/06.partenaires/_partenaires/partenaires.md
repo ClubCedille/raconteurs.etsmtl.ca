@@ -24,13 +24,17 @@ visible: true
       & > .tier-partners {
         padding-left: 0;
 
-        & > li {
+        & > .partner {
           display: flex;
           flex-direction: column;
           row-gap: 1rem;
 
-          & > img {
+          & .partner-logo {
             height: auto;
+          }
+
+          & .partner-description {
+            display: block;
           }
         }
       }
@@ -47,16 +51,17 @@ visible: true
     <h3 class="tier-title">Partenaire PLATINE</h3>
 
     <ul class="tier-partners">
-      <li>
+      <li class="partner">
         <a href="https://www.fddaeets.ca" target="_blank">
           <img
             alt="FDDAÉÉTS"
+            class="partner-logo"
             src="https://raconteurs.etsmtl.ca/user/pages/06.partenaires/_partenaires/Fddaeets%20Horizontal%20Color.png"
             style="max-width: 400px"
           />
         </a>
 
-        <p>
+        <p class="partner-description">
           La mission du Fonds de Développement Durable de l'Association étudiante de l'École de
           technologie supérieure (FDDAÉÉTS) est de financer les projets favorisant l’intégration et
           l’application du développement durable avec et pour la communauté de l’ÉTS. Le FDDAÉÉTS se
@@ -68,74 +73,68 @@ visible: true
       </li>
     </ul>
   </div>
-</section>
 
-<section style="margin-top: 5rem; margin-bottom: 5rem">
-  <h3 style="font-size: 600; margin-bottom: 2.5rem">
-    Partenaire
+  <div class="tier">
+    <h3 class="tier-title">Partenaire DIAMANT</h3>
 
-    <span style="text-transform: uppercase">Diamant</span>
-  </h3>
+    <ul class="tier-partners">
+      <li class="partner">
+        <a href="https://www.etsmtl.ca/a-propos/developpement-durable/communautes" target="_blank">
+          <img
+            alt="PIAC"
+            class="partner-logo"
+            src="https://raconteurs.etsmtl.ca/user/pages/06.partenaires/_partenaires/PIAC%20Seal.svg"
+            style="max-width: 300px"
+          />
+        </a>
 
-  <ul style="padding-left: 0">
-    <li>
-      <a href="https://www.etsmtl.ca/a-propos/developpement-durable/communautes" target="_blank">
+        <p class="partner-description">
+          Programme d’intégration des arts et de la culture (PIAC) de l’ÉTS.<br />
+
+          Au printemps 2021, l’ÉTS a entamé une vaste démarche d’élaboration d’un Programme
+          d’intégration des arts et de la culture, à la suite des recommandations issues des
+          consultations tenues dans le cadre du Plan de développement urbanistique du campus. Cette
+          démarche comprend un comité interne multipartite et fait appel à des partenaires externes
+          avec lesquels l’École collabore pour rendre le campus plus agréable à vivre par le biais
+          des arts te de la culture. Le PIAC comporte trois volets : arts visuels, arts de la scène
+          et arts technologiques. En tant qu’école de génie, l’ÉTS compte bien apporter une
+          contribution originale au volet arts technologiques.
+        </p>
+      </li>
+    </ul>
+  </div>
+
+  <div class="tier">
+    <h3 class="tier-tttle">Partenaires ARGENT</h3>
+
+    <ul class="tier-partners">
+      <li class="partner">
         <img
-          alt="PIAC"
-          src="https://raconteurs.etsmtl.ca/user/pages/06.partenaires/_partenaires/PIAC%20Seal.svg"
-          style="height: auto; max-width: 300px"
+          alt="SDP"
+          class="partner-logo"
+          src="https://raconteurs.etsmtl.ca/user/pages/06.partenaires/_partenaires/image001.png"
+          style="max-width: 300px"
         />
-      </a>
 
-      <p>
-        Programme d’intégration des arts et de la culture (PIAC) de l’ÉTS.<br />
+        <p class="partner-description">
+          La mission du Service aux diplômés et à la philanthropie est de développer et entretenir
+          des relations de longue haleine et mutuellement bénéfiques avec tous les membres de la
+          communauté élargie de l’ÉTS afin de renforcer leur sentiment d’appartenance, de susciter
+          leur engagement et de mobiliser leurs talents, leurs efforts et leurs ressources en faveur
+          du développement de l’ÉTS.<br />
 
-        Au printemps 2021, l’ÉTS a entamé une vaste démarche d’élaboration d’un Programme
-        d’intégration des arts et de la culture, à la suite des recommandations issues des
-        consultations tenues dans le cadre du Plan de développement urbanistique du campus. Cette
-        démarche comprend un comité interne multipartite et fait appel à des partenaires externes
-        avec lesquels l’École collabore pour rendre le campus plus agréable à vivre par le biais des
-        arts te de la culture. Le PIAC comporte trois volets : arts visuels, arts de la scène et
-        arts technologiques. En tant qu’école de génie, l’ÉTS compte bien apporter une contribution
-        originale au volet arts technologiques.
-      </p>
-    </li>
-  </ul>
-</section>
+          Le développement de l’ÉTS et son rayonnement auprès de l’industrie est aussi une
+          composante importante de notre mission.
+        </p>
+      </li>
 
-<section style="margin-top: 5rem; margin-bottom: 5rem">
-  <h3 style="font-size: 600; margin-bottom: 2.5rem">
-    Partenaires
+      <li class="partner">
+        <img alt="ASEQ" class="partner-logo" src="" style="max-width: 300px" />
 
-    <span style="text-transform: uppercase">Argent</span>
-  </h3>
-
-  <ul style="padding-left: 0">
-    <li>
-      <img
-        alt="SDP"
-        src="https://raconteurs.etsmtl.ca/user/pages/06.partenaires/_partenaires/image001.png"
-        style="height: auto; max-width: 300px"
-      />
-
-      <p>
-        La mission du Service aux diplômés et à la philanthropie est de développer et entretenir des
-        relations de longue haleine et mutuellement bénéfiques avec tous les membres de la
-        communauté élargie de l’ÉTS afin de renforcer leur sentiment d’appartenance, de susciter
-        leur engagement et de mobiliser leurs talents, leurs efforts et leurs ressources en faveur
-        du développement de l’ÉTS.<br />
-
-        Le développement de l’ÉTS et son rayonnement auprès de l’industrie est aussi une composante
-        importante de notre mission.
-      </p>
-    </li>
-
-    <li>
-      <img alt="ASEQ" src="" style="height: auto; max-width: 300px" />
-
-      <p></p>
-    </li>
-  </ul>
+        <p class="partner-description"></p>
+      </li>
+    </ul>
+  </div>
 </section>
 
 <section style="margin-top: 5rem; margin-bottom: 5rem">
