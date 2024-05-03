@@ -64,13 +64,13 @@ visible: true
         </a>
 
         <p class="partner-description">
-          La mission du Fonds de Développement Durable de l'Association étudiante de l'École de
-          technologie supérieure (FDDAÉÉTS) est de financer les projets favorisant l’intégration et
-          l’application du développement durable avec et pour la communauté de l’ÉTS. Le FDDAÉÉTS se
-          veut un acteur décisif dans l’avènement d’une culture de développement durable au sein de
-          la Communauté ÉTS et de la société québécoise. Le comité de sélection du FDDAÉÉTS est
-          composé de 5 membres, dont un désigné par le comité de direction de l'ÉTS et 4 désignés
-          par l'AÉÉTS. Les membres changent chaque année.
+          La mission du Fonds de Développement Durable de l'Association Étudiante de l'École de
+          Technologie Supérieure (FDDAÉÉTS) est de financer les projets favorisant l’intégration et
+          l’application du développement durable avec et pour la Communauté de l’ÉTS. Notre vision
+          est d’être un acteur décisif dans l’avènement d’une culture de développement durable au
+          sein de la Communauté ÉTS et de la société québécoise. Le comité de sélection du FDDAÉÉTS
+          est composé de 5 membres, dont un désigné par le comité de direction de l'ÉTS et 4
+          personnes étudiantes.
         </p>
       </li>
     </ul>
