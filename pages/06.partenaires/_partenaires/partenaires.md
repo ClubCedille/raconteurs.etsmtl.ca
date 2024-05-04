@@ -1,6 +1,6 @@
 ---
 title: 'Merci à nos partenaires qui nous permettent de créer et de jouer'
-media_order: 'logo-yellow.png,cedille-logo-blanc.png,Sceau_PIAC_K+CYMK.svg,Fddaeets Horizontal Color.png,dbox.svg,PIAC Seal.svg,image001.png'
+media_order: 'logo-yellow.png,cedille-logo-blanc.png,Sceau_PIAC_K+CYMK.svg,Fddaeets Horizontal Color.png,dbox.svg,PIAC Seal.svg,image001.png,ASEQ_logo_CMYK.png'
 visible: true
 ---
 
