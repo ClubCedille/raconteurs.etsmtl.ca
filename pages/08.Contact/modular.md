@@ -11,7 +11,7 @@ content:
             - _contact
             - _map
 form:
-    action: /home
+    action: 'https://formspree.io/f/mbjvlgqb'
     name: contact
     button_outer_classes: 'form-group col-md-6 col-sm-12'
     fields:
