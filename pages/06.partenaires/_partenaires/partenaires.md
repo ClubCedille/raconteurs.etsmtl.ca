@@ -131,9 +131,19 @@ visible: true
       </li>
 
       <li class="partner">
-        <img alt="ASEQ" class="partner-logo" src="" style="max-width: 300px" />
+        <img
+          alt="ASEQ"
+          class="partner-logo"
+          src="https://raconteurs.etsmtl.ca/user/pages/06.partenaires/_partenaires/ASEQ_logo_CMYK.png"
+          style="max-width: 300px"
+        />
 
-        <p class="partner-description"></p>
+        <p class="partner-description">
+          Depuis sa création, la Fondation ASEQ encourage les initiatives et l’engagement étudiant
+          par sa contribution financière pour la réalisation de projets étudiants ayant des
+          retombées sur cette communauté particulière. Elle redistribue ainsi des milliers de
+          dollars annuellement.
+        </p>
       </li>
     </ul>
   </div>
