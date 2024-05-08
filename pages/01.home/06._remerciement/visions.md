@@ -5,4 +5,4 @@ right_image: 'Fddaeets Horizontal Color.png'
 right_image_alt: FDDAÉÉTS
 ---
 
-![FDDAÉÉTS](https://raconteurs.etsmtl.ca/user/pages/01.home/_remerciement/Fddaeets%20Horizontal%20Color.png)
+<img alt="FDDAÉÉTS" src="https://raconteurs.etsmtl.ca/user/pages/01.home/_remerciement/Fddaeets%20Horizontal%20Color.png" style="max-width: 400px; height: auto;" />
