@@ -15,4 +15,10 @@ right_image_alt: FDDAÉÉTS
   }
 </style>
 
-<img alt="FDDAÉÉTS" class="thanks" src="https://raconteurs.etsmtl.ca/user/pages/01.home/06._remerciement/Fddaeets%20Horizontal%20Color.png" />
+<a href="https://www.fddaeets.ca" target="_blank">
+  <img
+    alt="FDDAÉÉTS"
+    class="thanks"
+    src="https://raconteurs.etsmtl.ca/user/pages/01.home/_remerciement/Fddaeets%20Horizontal%20Color.png"
+  />
+</a>
