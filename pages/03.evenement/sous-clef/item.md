@@ -38,6 +38,6 @@ Spectacle présenté au [Pub 100 Génies](https://www.google.com/maps?q=Resto-Pu
     </li>
 </ul>
 
-Malheureusement, puisque les représentations se déroulent dans un pub, **les mineurs ne sont PAS permis**. Nous nous excusons de la gêne occasionné.
+> Malheureusement, puisque les représentations se déroulent dans un pub, **les mineurs ne sont PAS permis**. Nous nous excusons de la gêne occasionné.
 
 Billetterie : [https://www.zeffy.com/fr-CA/ticketing/7580aedb-06fe-43b5-966b-31f385b53526](https://www.zeffy.com/fr-CA/ticketing/7580aedb-06fe-43b5-966b-31f385b53526)
