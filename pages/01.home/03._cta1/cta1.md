@@ -13,3 +13,5 @@ button_url: /contact
   <a href="https://www.jedonneenligne.org/fdets/campagne/ets/challenges/view/99a44e91-83c6-11ee-ac26-001dd8b75df7" target="_blank">Je Donne en Ligne</a>
 </p>
 
+<hr />
+
