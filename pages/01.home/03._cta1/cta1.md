@@ -5,7 +5,7 @@ button_label: 'Contactez nous'
 button_url: /contact
 ---
 
-<p style="display: block;">Envie de nous supporter financièrement?</p>
+<p style="display: block;">Envie de nous supporter financièrement ?</p>
 
 <p style="display: block;">
   Vous pouvez faire un don sur notre plateforme
@@ -14,5 +14,11 @@ button_url: /contact
 </p>
 
 <p>
-    <p><span class="line"></span>
-<p style="display: block;">Des questions ?</p>
+    <p>
+        
+		<p style="display: block;">
+            <span class="line"></span>
+            Des questions ?
+		</p>
+	</p>
+</p>
