@@ -14,4 +14,5 @@ button_url: /contact
 </p>
 
 <p>
+    <p><span class="line"></span>
 <p style="display: block;">Des questions ?</p>
