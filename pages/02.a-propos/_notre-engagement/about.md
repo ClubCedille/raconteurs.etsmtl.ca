@@ -8,3 +8,5 @@ right_image_alt: 'Sustainable icon'
 La troupe s’est engagée dans des démarches afin d’obtenir l'accréditation Artistes Citoyens en Tournée (ACT).
 
 En ce sens, elle a développé [un plan de développement durable](https://drive.google.com/file/d/1QjQfyodWJwvCK1WCd_e7MGLrWuf3GVal/view?usp=sharing) qui liste les actions qu’elle souhaite entreprendre pour s’engager dans la création artistique durable.
+
+![](https://drive.google.com/file/d/1A1bze4Dt5P-KgmMFV0L5wQ7LjMSRnMQj/view?usp=sharing)
