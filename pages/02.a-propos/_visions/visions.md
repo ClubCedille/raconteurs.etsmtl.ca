@@ -10,6 +10,5 @@ visions:
     -
         title: COMPOSITION
         text: 'La troupe sera composée de 8 à 20 acteur(trice)s, 1 assistant(e) à la metteure en scène professionnelle et d''autres personnes s''ajouteront pour la conception des décors, costumes, accessoires ainsi qu’à la régie pour l’éclairage et le son.'
-media_order: rentree-01.png
 ---
 
