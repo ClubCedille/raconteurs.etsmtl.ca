@@ -28,7 +28,9 @@ Les participant.e.s expérimenteront diverses techniques de jeu physique afin d
 ##### PORTION INTERPRÉTATION DE CHŒUR EN GROUPE
 
 Par l’acquisition d’outils chorégraphiques de base en jeu physique, les participant.e.s découvriront différentes façons d’aborder la création de scènes nécessitant l’intégration de chœurs parlés et/ou bougés. Parmi les outils qu’ils et elles pourront expérimenter, les suivants : alliage et dosage entre le texte et le mouvement, différentes approches chorégraphiques d’une même scène pour en explorer l’éventail des façons de la mettre en scène physiquement et textuellement, créer facilement des mouvements à partir de thèmes, mots ou gestes du quotidien, etc. Les participant.e.s seront ensuite appelé.e.s à travailler une petite création joignant paroles et mouvements à partir de courts textes déjà existants ou écrits en classe par eux ou elles.
-
+<p>
+    <span class="line"></span>
+</p>
 
 📆 **DATE ?** Jeudi 26 septembre
 
