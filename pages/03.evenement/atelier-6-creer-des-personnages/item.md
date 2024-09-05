@@ -9,6 +9,7 @@ taxonomy:
         - journal
         - photography
 list_summary: 'Compose des personnages issues de ton imaginaire avec ta voix, ton corps, tes émotions et tes convictions.'
+published: false
 ---
 
 ## Atelier 6 - Créer des personnages
