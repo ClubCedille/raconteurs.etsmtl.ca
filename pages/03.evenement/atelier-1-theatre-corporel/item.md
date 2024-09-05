@@ -19,7 +19,6 @@ Que ce soit simplement par curiosité, par plaisir ou par passion, participer à
 <p>
     <span class="line"></span>
 </p>
-
 📆 **DATE ?** Jeudi 26 septembre
 
 🕧 **HEURE ?** 18 h à 20 h. Arrivez vers 17 h 30.
@@ -27,6 +26,8 @@ Que ce soit simplement par curiosité, par plaisir ou par passion, participer à
 📍 **LOCAL ?** À venir
 
 ⭐ **QUOI APPORTER ?** Ta bouteille d'eau réutilisable & du linge confortable et neutre (ex: du linge noir, uni, pas de motifs)
+
+<p></p>
 
 ##### PORTION INTERPRÉTATION INDIVIDUELLE
 
