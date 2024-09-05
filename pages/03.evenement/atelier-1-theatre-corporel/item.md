@@ -27,7 +27,8 @@ Que ce soit simplement par curiosité, par plaisir ou par passion, participer à
 
 ⭐ **QUOI APPORTER ?** Ta bouteille d'eau réutilisable & du linge confortable et neutre (ex: du linge noir, uni, pas de motifs)
 <p>
-    <span class="line"></span>
+    <p>
+	</p>
 </p>
 ##### PORTION INTERPRÉTATION INDIVIDUELLE
 
