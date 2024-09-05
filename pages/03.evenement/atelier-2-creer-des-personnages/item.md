@@ -31,6 +31,9 @@ Durant cet atelier, nous composerons donc des personnages issus de votre imagina
 
 #### 👉 [Inscris-toi !](https://lepointdevente.com/billets/kbg241001001)
 📆 **DATE ?** Mardi 1er octobre
+
 🕧 **HEURE ?** 13 h 30 à 15 h 30. Arrivez vers 13 h.
+
 📍 **LOCAL ?** À venir
+
 ⭐ **QUOI APPORTER ?** Ta bouteille d'eau réutilisable & du linge confortable et neutre (ex: du linge noir, uni, pas de motifs)
