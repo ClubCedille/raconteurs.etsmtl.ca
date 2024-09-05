@@ -26,9 +26,9 @@ Que ce soit simplement par curiosité, par plaisir ou par passion, participer à
 📍 **LOCAL ?** À venir
 
 ⭐ **QUOI APPORTER ?** Ta bouteille d'eau réutilisable & du linge confortable et neutre (ex: du linge noir, uni, pas de motifs)
-
-<p></p>
-
+<p>
+    <span class="line"></span>
+</p>
 ##### PORTION INTERPRÉTATION INDIVIDUELLE
 
 Les participant.e.s expérimenteront diverses techniques de jeu physique afin d’apprendre à incarner un personnage non seulement avec la parole, mais aussi avec l’entièreté de leur corps. Par le biais d’exercices et d’improvisations dirigés, d’interprétation de courts textes et d’expérimentations avec des éléments extérieurs (musique et/ou accessoires), ils et elles apprendront à mettre la qualité de leurs mouvements, déplacements ou placements de corps dans l’espace scénique au service d'un personnage et des émotions à transmettre au public.
