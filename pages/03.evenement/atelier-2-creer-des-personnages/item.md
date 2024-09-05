@@ -29,7 +29,7 @@ Nous irons donc explorer physiquement et de manière ludique, car le théâtre d
 
 Durant cet atelier, nous composerons donc des personnages issus de votre imaginaire, qu’ils soient réalistes, absurdes ou dramatiques. Vous serez donc l’auteur ou l’autrice de votre personnage et de ce qu’il raconte et de la manière dont il se raconte.
 
-#### 👉 [Inscris-toi !](https://lepointdevente.com/billets/kbg240926001)
+#### 👉 [Inscris-toi !](https://lepointdevente.com/billets/kbg241001001)
 📆 **DATE ?** Mardi 1er octobre
 🕧 **HEURE ?** 13 h 30 à 15 h 30. Arrivez vers 13 h.
 📍 **LOCAL ?** À venir
