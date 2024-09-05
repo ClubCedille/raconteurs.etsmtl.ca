@@ -9,6 +9,7 @@ taxonomy:
         - journal
         - photography
 list_summary: 'Apprends à projeter ta voix, à bien articuler, à chuchoter et à créer des personnages au travers d''accents.'
+published: false
 ---
 
 ## Atelier 3 - Voix
