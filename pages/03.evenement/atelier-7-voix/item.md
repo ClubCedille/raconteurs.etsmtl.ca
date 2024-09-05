@@ -18,10 +18,14 @@ _Les Raconteurs d'Angles vous offrent une série de 8 ateliers de théâtre, ax�
 Que ce soit simplement par curiosité, par plaisir ou par passion, participer à ces ateliers vous permettront de développer votre créativité, votre aisance à l'oral et de faire de belles rencontres._
 
 ===
+
 Description à venir.
 
 #### 👉 [Inscris-toi !](https://lepointdevente.com/billets/kbg241108001)
 📆 **DATE ?** Vendredi 8 novembre
+
 🕧 **HEURE ?** 9 h à 11 h. Arrivez vers 8 h 30.
+
 📍 **LOCAL ?** À venir
+
 ⭐ **QUOI APPORTER ?** Ta bouteille d'eau réutilisable & du linge confortable et neutre (ex: du linge noir, uni, pas de motifs)
