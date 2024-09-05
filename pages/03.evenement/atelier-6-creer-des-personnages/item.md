@@ -11,7 +11,7 @@ taxonomy:
 list_summary: 'Compose des personnages issues de ton imaginaire avec ta voix, ton corps, tes émotions et tes convictions.'
 ---
 
-## Atelier 2 - Créer des personnages
+## Atelier 6 - Créer des personnages
 
 _Les Raconteurs d'Angles vous offrent une série de 8 ateliers de théâtre, axés sur la création, afin de vous outiller à la création de production théâtrale.
 Que ce soit simplement par curiosité, par plaisir ou par passion, participer à ces ateliers vous permettront de développer votre créativité, votre aisance à l'oral et de faire de belles rencontres._
@@ -28,8 +28,8 @@ Nous irons donc explorer physiquement et de manière ludique, car le théâtre d
 
 Durant cet atelier, nous composerons donc des personnages issus de votre imaginaire, qu’ils soient réalistes, absurdes ou dramatiques. Vous serez donc l’auteur ou l’autrice de votre personnage et de ce qu’il raconte et de la manière dont il se raconte.
 
-#### 👉 [Inscris-toi !](https://lepointdevente.com/billets/kbg240926001)
-📆 **DATE ?** Mardi 1er octobre
+#### 👉 [Inscris-toi !](https://lepointdevente.com/billets/kbg241029001)
+📆 **DATE ?** Mardi 29 octobre
 🕧 **HEURE ?** 13 h 30 à 15 h 30. Arrivez vers 13 h.
 📍 **LOCAL ?** À venir
 ⭐ **QUOI APPORTER ?** Ta bouteille d'eau réutilisable & du linge confortable et neutre (ex: du linge noir, uni, pas de motifs)
