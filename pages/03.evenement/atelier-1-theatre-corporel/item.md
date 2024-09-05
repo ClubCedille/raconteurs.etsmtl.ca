@@ -1,6 +1,5 @@
 ---
 title: 'Atelier#1 - Théâtre corporel'
-list_summary: 'Spectacle original de la saison 2023-2024 des Raconteurs d’Angles'
 date: '14:55 07/11/2014'
 author: 'Tasha Maxwell'
 taxonomy:
@@ -9,36 +8,23 @@ taxonomy:
     tag:
         - journal
         - photography
-media_order: 'Couleur cropped.png'
 published: false
 ---
 
-## Spectacle original de la saison 2023-2024 des Raconteurs d’Angles
+## Atelier 1 - Théâtre corporel
 
-Plongez dans l’univers de _Sous Clef_, la toute première production théâtrale des Raconteurs d’Angles, la troupe de théâtre de création de l’ÉTS.
-Après plusieurs longs mois de travail, nous avons créé un spectacle composé non pas d’une seule et unique histoire, mais d’une série de plusieurs tableaux.
-Ceux-ci sont de véritables fenêtres ouvertes sur des récits tissés autour d’objets que nous avons pu transformer en porteurs d’histoires intrigantes : les clefs.
+_Les Raconteurs d'Angles vous offrent une série de 8 ateliers de théâtre, axés sur la création, afin de vous outiller à la création de production théâtrale.
+Que ce soit simplement par curiosité, par plaisir ou par passion, participer à ces ateliers vous permettront de développer votre créativité, votre aisance à l'oral et de faire de belles rencontres._
 
-Spectacle présenté au [Pub 100 Génies](https://www.google.com/maps?q=Resto-Pub+100+G%C3%A9nies,530+Rue+Peel,H3C+2H1&hl=en&z=14) de l’ÉTS les:
+===
 
-<ul style="list-style-type: disc;">
-    <li>
-    	18 mai - 19 h
-    </li>
-    
-    <li>
-    	19 mai - 15 h
-    </li>
-    
-    <li>
-    	23 mai - 19 h
-    </li>
-    
-    <li>
-    	24 mai - 19 h
-    </li>
-</ul>
+##### PORTION INTERPRÉTATION INDIVIDUELLE
 
-> Malheureusement, puisque les représentations se déroulent dans un pub, **les mineurs ne sont PAS permis**. Nous nous excusons de la gêne occasionné.
+Les participant.e.s expérimenteront diverses techniques de jeu physique afin d’apprendre à incarner un personnage non seulement avec la parole, mais aussi avec l’entièreté de leur corps. Par le biais d’exercices et d’improvisations dirigés, d’interprétation de courts textes et d’expérimentations avec des éléments extérieurs (musique et/ou accessoires), ils et elles apprendront à mettre la qualité de leurs mouvements, déplacements ou placements de corps dans l’espace scénique au service d'un personnage et des émotions à transmettre au public.
 
-Billetterie : [https://www.zeffy.com/fr-CA/ticketing/7580aedb-06fe-43b5-966b-31f385b53526](https://www.zeffy.com/fr-CA/ticketing/7580aedb-06fe-43b5-966b-31f385b53526)
+
+##### PORTION INTERPRÉTATION DE CHŒUR EN GROUPE
+
+Par l’acquisition d’outils chorégraphiques de base en jeu physique, les participant.e.s découvriront différentes façons d’aborder la création de scènes nécessitant l’intégration de chœurs parlés et/ou bougés. Parmi les outils qu’ils et elles pourront expérimenter, les suivants : alliage et dosage entre le texte et le mouvement, différentes approches chorégraphiques d’une même scène pour en explorer l’éventail des façons de la mettre en scène physiquement et textuellement, créer facilement des mouvements à partir de thèmes, mots ou gestes du quotidien, etc. Les participant.e.s seront ensuite appelé.e.s à travailler une petite création joignant paroles et mouvements à partir de courts textes déjà existants ou écrits en classe par eux ou elles.
+
+#### 👉 [Inscris-toi !](https://lepointdevente.com/billets/kbg240926001)
