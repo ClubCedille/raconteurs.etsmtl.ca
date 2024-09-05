@@ -18,6 +18,7 @@ _Les Raconteurs d'Angles vous offrent une série de 8 ateliers de théâtre, ax�
 Que ce soit simplement par curiosité, par plaisir ou par passion, participer à ces ateliers vous permettront de développer votre créativité, votre aisance à l'oral et de faire de belles rencontres._
 
 ===
+
 Description à venir.
 
 #### 👉 [Inscris-toi !](https://lepointdevente.com/billets/kbg241115002)
