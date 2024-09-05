@@ -23,6 +23,9 @@ Description à venir.
 
 #### 👉 [Inscris-toi !](https://lepointdevente.com/billets/kbg241115002)
 📆 **DATE ?** Vendredi 15 novembre
+
 🕧 **HEURE ?** 9 h à 11 h. Arrivez vers 8 h 30.
+
 📍 **LOCAL ?** À venir
+
 ⭐ **QUOI APPORTER ?** Ta bouteille d'eau réutilisable & du linge confortable et neutre (ex: du linge noir, uni, pas de motifs)
