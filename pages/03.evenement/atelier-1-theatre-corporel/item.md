@@ -8,7 +8,7 @@ taxonomy:
     tag:
         - journal
         - photography
-published: false
+published: true
 list_summary: 'Découvre le jeu physique, mets de la qualité dans tes mouvements, déplacements et placements dans l''espace scénique pour transmettre des émotions au public.'
 ---
 
@@ -16,8 +16,9 @@ list_summary: 'Découvre le jeu physique, mets de la qualité dans tes mouvement
 
 _Les Raconteurs d'Angles vous offrent une série de 8 ateliers de théâtre, axés sur la création, afin de vous outiller à la création de production théâtrale.
 Que ce soit simplement par curiosité, par plaisir ou par passion, participer à ces ateliers vous permettront de développer votre créativité, votre aisance à l'oral et de faire de belles rencontres._
-
-===
+<p>
+    <span class="line"></span>
+</p>
 
 ##### PORTION INTERPRÉTATION INDIVIDUELLE
 
