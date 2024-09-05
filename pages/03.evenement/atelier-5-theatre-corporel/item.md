@@ -30,6 +30,9 @@ Par l’acquisition d’outils chorégraphiques de base en jeu physique, les par
 
 #### 👉 [Inscris-toi !](https://lepointdevente.com/billets/kbg241024001)
 📆 **DATE ?** Jeudi 24 octobre
+
 🕧 **HEURE ?** 18 h à 20 h. Arrivez vers 17 h 30.
+
 📍 **LOCAL ?** À venir
+
 ⭐ **QUOI APPORTER ?** Ta bouteille d'eau réutilisable & du linge confortable et neutre (ex: du linge noir, uni, pas de motifs)
