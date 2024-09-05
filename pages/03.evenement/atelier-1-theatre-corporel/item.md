@@ -8,7 +8,7 @@ taxonomy:
     tag:
         - journal
         - photography
-published: false
+published: true
 list_summary: 'Découvre le jeu physique, mets de la qualité dans tes mouvements, déplacements et placements dans l''espace scénique pour transmettre des émotions au public.'
 ---
 
@@ -29,7 +29,7 @@ Les participant.e.s expérimenteront diverses techniques de jeu physique afin d
 
 Par l’acquisition d’outils chorégraphiques de base en jeu physique, les participant.e.s découvriront différentes façons d’aborder la création de scènes nécessitant l’intégration de chœurs parlés et/ou bougés. Parmi les outils qu’ils et elles pourront expérimenter, les suivants : alliage et dosage entre le texte et le mouvement, différentes approches chorégraphiques d’une même scène pour en explorer l’éventail des façons de la mettre en scène physiquement et textuellement, créer facilement des mouvements à partir de thèmes, mots ou gestes du quotidien, etc. Les participant.e.s seront ensuite appelé.e.s à travailler une petite création joignant paroles et mouvements à partir de courts textes déjà existants ou écrits en classe par eux ou elles.
 
-### 👉 [Inscris-toi !](https://lepointdevente.com/billets/kbg240926001)
+
 📆 **DATE ?** Jeudi 26 septembre
 
 🕧 **HEURE ?** 18 h à 20 h. Arrivez vers 17 h 30.
@@ -37,3 +37,5 @@ Par l’acquisition d’outils chorégraphiques de base en jeu physique, les par
 📍 **LOCAL ?** À venir
 
 ⭐ **QUOI APPORTER ?** Ta bouteille d'eau réutilisable & du linge confortable et neutre (ex: du linge noir, uni, pas de motifs)
+
+## 👉 [Inscris-toi !](https://lepointdevente.com/billets/kbg240926001)
