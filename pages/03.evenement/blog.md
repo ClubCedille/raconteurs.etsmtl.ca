@@ -9,11 +9,11 @@ content:
     order:
         by: date
         dir: desc
-    limit: 6
+    limit: 20
     pagination: true
 feed:
     description: 'Nos Événements'
-    limit: 10
+    limit: 20
 pagination: true
 visible: true
 media_order: 'evenements-banniere-cropped-2.jpg,Evenements Banniere.jpg'
