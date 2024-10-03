@@ -1,6 +1,6 @@
 ---
 title: 'Atelier#1 - Théâtre corporel'
-date: '14:55 26/09/2024'
+date: '14:55 09/26/2024'
 author: 'Tasha Maxwell'
 taxonomy:
     category:
