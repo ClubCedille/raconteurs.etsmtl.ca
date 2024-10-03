@@ -1,6 +1,5 @@
 ---
 title: 'Atelier#1 - Théâtre corporel'
-date: '14:55 09/26/2024'
 author: 'Tasha Maxwell'
 taxonomy:
     category:
@@ -9,8 +8,8 @@ taxonomy:
     tag:
         - théâtre
         - atelier
-        - personnages
         - corps
+        - personnages
         - choeur
 published: true
 list_summary: 'Découvre le jeu physique, mets de la qualité dans tes mouvements, déplacements et placements dans l''espace scénique pour transmettre des émotions au public.'
