@@ -9,8 +9,8 @@ taxonomy:
     tag:
         - théâtre
         - atelier
-        - création
         - personnages
+        - création
         - interprétation
 published: true
 list_summary: 'Compose des personnages issues de ton imaginaire avec ta voix, ton corps, tes émotions et tes convictions.'
