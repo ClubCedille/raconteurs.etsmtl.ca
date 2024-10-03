@@ -5,9 +5,13 @@ author: 'Tasha Maxwell'
 taxonomy:
     category:
         - blog
+        - atelier
     tag:
-        - journal
-        - photography
+        - théâtre
+        - atelier
+        - corps
+        - choeur
+        - personnages
 published: true
 list_summary: 'Découvre le jeu physique, mets de la qualité dans tes mouvements, déplacements et placements dans l''espace scénique pour transmettre des émotions au public.'
 ---
@@ -20,6 +24,8 @@ list_summary: 'Découvre le jeu physique, mets de la qualité dans tes mouvement
 📍 **LOCAL ?** À venir
 
 ⭐ **QUOI APPORTER ?** Ta bouteille d'eau réutilisable & du linge confortable et neutre (ex: du linge noir, uni, pas de motifs)
+
+_Présenté par Marilyn Perreault._
 <p>
     <p>
 	</p>
