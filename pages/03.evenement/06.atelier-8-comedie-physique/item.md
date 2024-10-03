@@ -1,6 +1,5 @@
 ---
 title: 'Atelier#8 - Comédie physique: trébuchements, claques et cascades'
-date: '14:55 11/15/2024'
 author: 'Tasha Maxwell'
 taxonomy:
     category:
