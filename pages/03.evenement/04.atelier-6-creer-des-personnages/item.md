@@ -1,6 +1,5 @@
 ---
 title: 'Atelier#6 - Créer des personnages'
-date: '14:55 10/29/2024'
 author: 'Tasha Maxwell'
 taxonomy:
     category:
@@ -8,9 +7,9 @@ taxonomy:
         - atelier
     tag:
         - atelier
+        - interprétation
         - personnages
         - création
-        - interprétation
 list_summary: 'Compose des personnages issues de ton imaginaire avec ta voix, ton corps, tes émotions et tes convictions.'
 published: true
 ---
