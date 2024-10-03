@@ -1,5 +1,5 @@
 ---
-title: 'Atelier#7 - Voix'
+title: 'ioAtelier#7 - Voix et diction'
 date: '14:55 07/11/2014'
 author: 'Tasha Maxwell'
 taxonomy:
@@ -15,7 +15,7 @@ list_summary: 'Apprends à projeter ta voix, à bien articuler, à chuchoter, à
 published: true
 ---
 
-## Atelier 7 - Voix
+## Atelier 7 - Voix et diction
 📆 **DATE ?** Vendredi 8 novembre
 
 🕧 **HEURE ?** 9 h à 11 h. Arrivez vers 8 h 30.
