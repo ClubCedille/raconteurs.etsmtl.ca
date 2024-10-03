@@ -11,6 +11,7 @@ taxonomy:
         - atelier
         - création
         - personnages
+        - interprétation
 published: true
 list_summary: 'Compose des personnages issues de ton imaginaire avec ta voix, ton corps, tes émotions et tes convictions.'
 ---
