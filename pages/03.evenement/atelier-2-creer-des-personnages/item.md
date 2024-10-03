@@ -5,9 +5,12 @@ author: 'Tasha Maxwell'
 taxonomy:
     category:
         - blog
+        - atelier
     tag:
-        - journal
-        - photography
+        - théâtre
+        - atelier
+        - création
+        - personnages
 published: true
 list_summary: 'Compose des personnages issues de ton imaginaire avec ta voix, ton corps, tes émotions et tes convictions.'
 ---
