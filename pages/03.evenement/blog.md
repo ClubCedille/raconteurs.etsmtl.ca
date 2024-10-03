@@ -17,8 +17,7 @@ feed:
 pagination: true
 visible: true
 media_order: 'evenements-banniere-cropped-2.jpg,Evenements Banniere.jpg'
-admin:
-    children_display_order: default
+admin: {  }
 ---
 
 Sors les arts de ton angle mort en assistant à un de nos événements, que ce soit notre sortie culturelle mensuelle, nos créations théâtrales ou une de nos tables rondes éphémères.
