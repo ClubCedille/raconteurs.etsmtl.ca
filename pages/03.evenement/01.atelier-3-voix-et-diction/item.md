@@ -1,6 +1,6 @@
 ---
 title: 'Atelier#3 - Voix et diction'
-date: '14:55 07/11/2014'
+date: '14:55 11/10/2024'
 author: 'Tasha Maxwell'
 taxonomy:
     category:
