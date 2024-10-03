@@ -1,6 +1,6 @@
 ---
 title: 'Atelier#6 - Créer des personnages'
-date: '14:55 07/11/2014'
+date: '14:55 29/10/2024'
 author: 'Tasha Maxwell'
 taxonomy:
     category:
