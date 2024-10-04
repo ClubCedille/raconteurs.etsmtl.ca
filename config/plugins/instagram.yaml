@@ -1,0 +1,9 @@
+enabled: true
+route: /
+filters:
+  category: null
+feed_parameters:
+  count: 7
+  cache_time: 1
+  user_id: null
+  access_token: null

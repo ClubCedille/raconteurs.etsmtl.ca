@@ -1,0 +1,16 @@
+<div class="banner"{% if page.header.background_image %} style="background-image: url({{ page.media.images[page.header.background_image].cache.url }})"{% endif %}>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="os-animation" data-os-animation="zoomIn" data-os-animation-delay="0.2s">{{ page.header.heading|raw }}</h1>
+                <span class="line os-animation" data-os-animation="zoomIn" data-os-animation-delay="0.3s"></span>
+                <div class="os-animation" data-os-animation="zoomIn" data-os-animation-delay="0.4s">{{ content|raw }}</div>
+                {% if page.header.button_url %}
+                <div class="button-container">
+                    <a href="{{ page.header.button_url }}" class="os-animation" data-os-animation="zoomIn" data-os-animation-delay="0.5s">{{ page.header.button_label }}</a>
+                </div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>
