@@ -1,0 +1,40 @@
+<div class="col-lg-4 col-sm-4 col-md-4 os-animation" data-os-animation="fadeIn" data-os-animation-delay="0.4s">
+    <article>
+            <div class="img">
+                {% if p.header.image and p.media.images[p.header.image]%}
+                    {% set image = p.header.image %}
+                {% elseif p.media.images|length > 0 %}
+                    {% set image = p.media.images|first.filename %}
+                {% endif %}
+                {% if image %}
+                    {{ p.media.images[image].cropZoom(image_width, image_height).html('', p.title)|raw }}
+                    <div class="imgDescription2">
+                        <a data-bs-toggle="modal" data-bs-target="#exampleModal">
+                            <img src="{{ url('theme://images/search.png') }}"/>
+                        </a>
+                    </div>
+                {% endif %}
+            </div>
+    </article>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-lg"> 
+    <div class="modal-content" style="background-color: #2b2b2b;">
+      <div class="modal-header" style="color: #FF8E00;">
+        <h1 class="modal-title fs-5" id="exampleModalLabel">{{ p. title }} {{ p. date|date("d.m.Y") }}</h1>
+        <button type="button" class="btn-close" style="background-color: #FF8E00" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        {% if image %}
+            <!-- Display the image in its actual size -->
+            <img src="{{ p.media.images[image].url() }}" alt="{{ p.title }}" style="max-width: 100%; height: auto;">
+        {% endif %}
+        {% if p.header.gallery_description %}
+            <p style="color: #FF8E00;">{{ p.header.gallery_description|raw }}</p>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</div>

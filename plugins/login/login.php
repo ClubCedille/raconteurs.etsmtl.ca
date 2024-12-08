@@ -1272,9 +1272,7 @@ class LoginPlugin extends Plugin
         $session = $this->grav['session'];
 
         // Prevent session fixation.
-        if ($this->config->get('system.session.initialize', true)) {
-            $session->regenerateId();
-        }
+        $session->regenerateId();
 
         $session->user = $user = $event->getUser();
 
