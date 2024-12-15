@@ -1,0 +1,45 @@
+enabled: true
+blog_thumbnail_width: 600
+blog_thumbnail_height: 450
+gallery_thumbnail_width: 600
+gallery_thumbnail_height: 450
+favicon:
+  'user/themes/mache/images/Les Raconteurs d''Angles Logo Noir.png':
+    name: 'Les Raconteurs d''Angles Logo Noir.png'
+    full_path: 'Les Raconteurs d''Angles Logo Noir.png'
+    type: image/png
+    size: 709550
+    path: 'user/themes/mache/images/Les Raconteurs d''Angles Logo Noir.png'
+logo:
+  user/themes/mache/images/layer1.png:
+    name: layer1.png
+    full_path: layer1.png
+    type: image/png
+    size: 4787
+    path: user/themes/mache/images/layer1.png
+default_background_image:
+  user/themes/mache/images/hero-background.jpg:
+    name: hero-background.jpg
+    full_path: hero-background.jpg
+    type: image/jpeg
+    size: 209416
+    path: user/themes/mache/images/hero-background.jpg
+left_footer_title: ADRESSE
+left_footer_address: "<p>\n    1219 Rue William, Montréal, QC H3C 1R1\n</p>\n\n<p>\n    Écrivez-nous :\n    <a href=\"mailto:theatre@etsmtl.ca\">theatre@etsmtl.ca</a>\n</p>"
+right_footer_title: 'RESTER EN CONTACT'
+right_footer_icons:
+  -
+    icon: 'fa-solid fa-envelope'
+    url: 'mailto:theatre@etsmtl.ca'
+  -
+    icon: 'fa-brands fa-discord'
+    url: 'https://discord.gg/gsecZgeQsq'
+  -
+    icon: 'fa-brands fa-instagram'
+    url: 'https://www.instagram.com/raconteurs_ets/'
+  -
+    icon: 'fa-brands fa-facebook'
+    url: 'https://www.facebook.com/RaconteursEts'
+  -
+    icon: 'fa-solid fa-seedling'
+    url: 'http://linktr.ee/raconteursets'

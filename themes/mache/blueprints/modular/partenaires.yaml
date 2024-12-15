@@ -1,0 +1,30 @@
+title: Partenaires
+'@extends':
+    type: default
+
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+      fields:
+        partenaires:
+          type: tab
+          title: THEME_MACHE.PARTENAIRES
+          fields:
+            header.partenaires:
+              type: list
+              label: THEME_MACHE.PARTENAIRES
+              style: vertical
+              fields:
+                .icon:
+                  type: filepicker
+                  folder: '@self'
+                  preview_images: true
+                  label: THEME_MACHE.ICON
+                  accept:
+                    - .png
+                    - .jpg
+                .partenaire_button_url:
+                  type: text
+                  label: THEME_MACHE.PARTENAIRE_BUTTON_URL

@@ -1,0 +1,25 @@
+title: Visions
+'@extends':
+    type: default
+
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+      fields:
+        visions:
+          type: tab
+          title: THEME_MACHE.VISIONS
+          fields:
+            header.visions:
+              type: list
+              label: THEME_MACHE.VISIONS
+              style: vertical
+              fields:
+                .title:
+                  type: text
+                  label: THEME_MACHE.TITLE
+                .text:
+                  type: text
+                  label: THEME_MACHE.TEXT
