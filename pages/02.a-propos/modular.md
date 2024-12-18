@@ -1,19 +1,4 @@
 ---
-title: 'À propos'
-cache_enable: false
-content:
-    items: '@self.modular'
-    order:
-        by: default
-        dir: asc
-        custom:
-            - _banner
-            - _cta4
-            - _cta3
-            - _visions
----
-
----
 title: 'LA MAGIE DU THÉÂTRE AVEC LES RACONTEURS D''ANGLES'
 right_image: 'logo_detaille-Les_Raconteurs_d''angles-NOIR-v2.png'
 right_image_alt: 'Les Raconteurs d''Angles'
@@ -21,6 +6,7 @@ link_label: 'EN SAVOIR PLUS'
 link_url: /a-propos
 media_order: 'logo_detaille-Les_Raconteurs_d''angles-NOIR-v2.png,logo_detaille-Les_Raconteurs_d''angles-NOIR-v2.png'
 ---
+
 ### Soif de jeu et de création ?
 Les Raconteurs d'Angles est une troupe de théâtre de création qui propose un spectacle annuel original et présenté devant un public dont les idées s’articulent autour d’un thème ou d’une ressource qui les inspire. Tous les aspects de la production théâtrale sont assurés par les membres de l’équipe, soient l’écriture, la conception scénographique, sonore, d’éclairage, de costumes et d’accessoires.
 ### Soif de culture ?
