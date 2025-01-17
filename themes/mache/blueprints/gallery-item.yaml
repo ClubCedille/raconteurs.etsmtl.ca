@@ -1,0 +1,17 @@
+title: Gallery
+'@extends':
+    type: default
+
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+      fields:
+        content:
+          fields:
+            header.gallery_description:
+              type: textarea
+              rows: 3
+              label: THEME_MACHE.GALLERY_DESCRIPTION
+              description: THEME_MACHE.GALLERY_DESCRIPTION_HELP

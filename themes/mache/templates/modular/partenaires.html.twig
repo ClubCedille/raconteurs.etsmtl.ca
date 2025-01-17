@@ -1,0 +1,25 @@
+<div class="partenaire">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 os-animation" data-os-animation="zoomIn" data-os-animation-delay="0.4s">
+                <h2>{{ page.header.title|raw }}</h2>
+                <span class="line"></span>
+                <div class="top">{{ content|raw }}</div>
+            </div>
+        </div>
+
+        {% if page.header.partenaires %}
+        <div class="row">
+            {% for partenaire in page.header.partenaires %}
+            <div class="col-lg-3 col-sm-6 col-md-3 os-animation" data-os-animation="slideInLeft" data-os-animation-delay="0.5s">
+                <div class="partenaire-container">
+                    <a href="{{ partenaire.partenaire_button_url }}" class="d-block">
+                        {{ page.media.images[partenaire.icon].cache.html()|raw }}
+                    </a>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% endif %}
+    </div>
+</div>
