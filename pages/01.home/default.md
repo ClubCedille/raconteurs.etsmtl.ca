@@ -14,6 +14,7 @@ content:
             - _cta1
             - _tuiles
             - _remerciement
+visible: true
 ---
 
 # La magie du théâtre avec les Raconteurs d’Angles
