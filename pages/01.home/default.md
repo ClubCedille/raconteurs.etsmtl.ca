@@ -1,6 +1,17 @@
 ---
 title: Accueil
 body_classes: 'title-center title-h1h2'
+content:
+    items: '@self.modular'
+    order:
+        by: default
+        dir: asc
+        custom:
+            - _banner-accueil
+            - _about
+            - _cta1
+            - _tuiles
+            - _remerciement
 ---
 
 # La magie du théâtre avec les Raconteurs d’Angles
