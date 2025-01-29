@@ -3,6 +3,7 @@ title: 'NOS VALEURS'
 background_image: black-370118_960_720.png
 media_order: a-propos-nos-valeurs.jpg
 image: a-propos-nos-valeurs.jpg
+published: true
 ---
 
 <ul style="list-style-type: disc;">
