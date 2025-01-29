@@ -1,8 +1,5 @@
 ---
 title: Accueil
-menu: Accueil
-onpage_menu: true
-body_classes: 'modular header-image fullwidth'
 content:
     items: '@self.modular'
     order:
@@ -15,6 +12,7 @@ content:
             - _tuiles
             - _remerciement
 visible: true
+media_order: accueil.jpg
 ---
 
 # La magie du théâtre avec les Raconteurs d’Angles
