@@ -13,7 +13,7 @@ content:
             - _tuiles
             - _remerciement
 visible: true
-media_order: 'accueil.jpg,accueil-magie-theatre-sombre.jpg'
+media_order: 'accueil-magie-theatre-sombre.jpg,accueil.jpg'
 ---
 
 # La magie du théâtre avec les Raconteurs d’Angles
