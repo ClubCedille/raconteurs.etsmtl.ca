@@ -4,7 +4,7 @@ right_image: 'logo_detaille-Les_Raconteurs_d''angles-NOIR-v2.png'
 right_image_alt: 'Les Raconteurs d''Angles'
 link_label: 'EN SAVOIR PLUS'
 link_url: /a-propos
-media_order: 'logo_detaille-Les_Raconteurs_d''angles-NOIR-v2.png,logo_detaille-Les_Raconteurs_d''angles-NOIR-v2.png'
+media_order: 'logo_detaille-Les_Raconteurs_d''angles-NOIR-v2.png'
 ---
 
 ### Soif de jeu et de création ?
