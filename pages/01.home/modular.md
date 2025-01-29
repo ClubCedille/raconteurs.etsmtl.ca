@@ -9,74 +9,16 @@ content:
         custom:
             - _banner-accueil
             - _about
-            - _cta3
-            - _features
-            - _partenaires
             - _cta1
-form:
-    action: /home
-    name: contact
-    button_outer_classes: 'form-group col-md-6 col-sm-12'
-    fields:
-        -
-            name: name
-            label: Name
-            placeholder: 'Your name'
-            autocomplete: 'on'
-            type: text
-            outerclasses: 'form-group col-md-6 col-sm-12'
-            classes: col-md-12
-            validate:
-                required: true
-        -
-            name: email
-            label: Email
-            placeholder: 'Your email address'
-            type: email
-            outerclasses: 'form-group col-md-6 col-sm-12'
-            classes: col-md-12
-            validate:
-                required: true
-        -
-            name: message
-            label: Message
-            placeholder: 'Your message'
-            type: textarea
-            rows: 5
-            outerclasses: 'form-group col-md-12'
-            classes: col-md-12
-            validate:
-                required: true
-        -
-            name: g-recaptcha-response
-            label: Captcha
-            type: captcha
-            outerclasses: 'form-group col-md-12'
-            classes: col-md-12
-            recaptcha_site_key: null
-            recaptcha_not_validated: 'Captcha not valid!'
-            validate:
-                required: true
-    buttons:
-        -
-            type: submit
-            value: Submit
-    process:
-        -
-            captcha:
-                recaptcha_secret: null
-        -
-            email:
-                subject: '[Site Contact Form] {{ form.value.name|e }}'
-                body: '{% include ''forms/data.html.twig'' %}'
-        -
-            save:
-                fileprefix: contact-
-                dateformat: Ymd-His-u
-                extension: txt
-                body: '{% include ''forms/data.txt.twig'' %}'
-        -
-            display: thank-you
-published: true
+            - _tuiles
+            - _remerciement
+visible: true
 media_order: accueil.jpg
 ---
+
+# La magie du théâtre avec les Raconteurs d’Angles
+## Soif de jeu et de création ?
+Les Raconteurs d'Angles est une troupe de théâtre de création qui propose un spectacle annuel original et présenté devant un public dont les idées s’articulent autour d’un thème ou d’une ressource qui les inspire. Tous les aspects de la production théâtrale sont assurés par les membres de l’équipe, soient l’écriture, la conception scénographique, sonore, d’éclairage, de costumes et d’accessoires.
+
+## Soif de culture ?
+En plus d’offrir une pièce de théâtre unique, la troupe propose à chaque mois des sorties culturelles de groupe. En se basant sur l’offre artistique montréalaise et sur les intérêts des gens, la troupe déniche les spectacles en-dessous de 30 $ et regroupe les personnes intéressées pour profiter au maximum des rabais de groupe. Il n’est pas nécessaire d’être membre de la troupe pour profiter des sorties et rabais.
