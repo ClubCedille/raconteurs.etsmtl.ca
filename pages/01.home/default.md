@@ -1,6 +1,8 @@
 ---
 title: Accueil
-body_classes: 'title-center title-h1h2'
+menu: Accueil
+onpage_menu: true
+body_classes: 'modular header-image fullwidth'
 content:
     items: '@self.modular'
     order:
