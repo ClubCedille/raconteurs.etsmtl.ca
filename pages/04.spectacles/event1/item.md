@@ -1,10 +1,10 @@
 ---
 title: 'Sunshine in the Hills'
 list_summary: 'Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et'
-date: '14:55 07/11/2014'
 author: 'Tasha Maxwell'
 taxonomy:
-    category: blog
+    category:
+        - blog
     tag:
         - journal
         - photography
