@@ -1,6 +1,6 @@
 ---
-title: Activités
-blog_url: évènement
+title: Spectacles
+blog_url: spectacles
 sitemap:
     changefreq: monthly
     priority: 1.03
@@ -12,11 +12,10 @@ content:
     limit: 6
     pagination: true
 feed:
-    description: 'Nos Événements'
+    description: 'Nos Spectacles'
     limit: 10
 pagination: true
 visible: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+dsadsa
