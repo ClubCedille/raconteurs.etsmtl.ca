@@ -11,7 +11,7 @@ taxonomy:
         - photography
 ---
 
-# Dix Cordes Entremêlées
+# Spectacle original de l'automne 2024 des Raconteurs d'Angles
 Créer un spectacle en 24 h, est-ce possible? C'est le défi qu'ont relevé les Raconteurs d'Angles dans sa toute nouvelle création théâtrale, Dix Cordes Entremêlées.
 
 Notre démarche? Partir d’un objet et s’intéresser à ses fonctions et symboles pour en ressortir des histoires à raconter. Cet automne, notre deuxième création s'inspire des cordes.
