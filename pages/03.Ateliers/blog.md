@@ -18,6 +18,11 @@ pagination: true
 visible: true
 media_order: evenements-banniere-cropped-2.jpg
 admin: {  }
+published: false
+menu: Hbla
+slug: houblon
+redirect: www.google.com
+append_url_extension: www.youtube.com
 ---
 
 Initie-toi à plusieurs sujets grâce à nos ateliers à la carte chapeautés par des professionnel(le)s du théâtre et de la création.
