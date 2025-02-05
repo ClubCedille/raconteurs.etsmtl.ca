@@ -9,7 +9,6 @@ taxonomy:
     tag:
         - journal
         - photography
-media_order: 'Dix cordes entremêlées.pdf'
 ---
 
 # Dix Cordes Entremêlées
