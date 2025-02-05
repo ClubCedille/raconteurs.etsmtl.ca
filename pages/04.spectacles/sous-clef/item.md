@@ -11,7 +11,7 @@ taxonomy:
         - photography
 content:
     items: '@self.modular'
-media_order: affiche-v1.5-titre-couleur.png
+media_order: 'Couleur cropped.png'
 ---
 
 ## Spectacle original de la saison 2023-2024 des Raconteurs d’Angles
