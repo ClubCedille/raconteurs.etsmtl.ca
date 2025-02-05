@@ -1,5 +1,5 @@
 ---
-title: 'Sunshine in the Hills'
+title: 'Sous Clef'
 list_summary: 'Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et'
 author: 'Tasha Maxwell'
 taxonomy:
@@ -10,15 +10,37 @@ taxonomy:
         - photography
 content:
     items: '@self.modular'
+media_order: affiche-v1.5-titre-couleur.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies tristique nulla et mattis. Phasellus id massa eget nisl congue blandit sit amet id ligula. Praesent et nulla eu augue tempus sagittis. Mauris faucibus nibh et nibh cursus in vestibulum sapien egestas. Curabitur ut lectus tortor. Sed ipsum eros, egestas ut eleifend non, elementum vitae eros. Mauris felis diam, pellentesque vel lacinia ac, dictum a nunc. Mauris mattis nunc sed mi sagittis et facilisis tortor volutpat. Etiam tincidunt urna mattis erat placerat placerat ac eu tellus.
+## Spectacle original de la saison 2023-2024 des Raconteurs d’Angles
 
-===
+Plongez dans l’univers de _Sous Clef_, la toute première production théâtrale des Raconteurs d’Angles, la troupe de théâtre de création de l’ÉTS.
+Après plusieurs longs mois de travail, nous avons créé un spectacle composé non pas d’une seule et unique histoire, mais d’une série de plusieurs tableaux.
+Ceux-ci sont de véritables fenêtres ouvertes sur des récits tissés autour d’objets que nous avons pu transformer en porteurs d’histoires intrigantes : les clefs.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies tristique nulla et mattis. Phasellus id massa eget nisl congue blandit sit amet id ligula. Praesent et nulla eu augue tempus sagittis. Mauris faucibus nibh et nibh cursus in vestibulum sapien egestas. Curabitur ut lectus tortor. Sed ipsum eros, egestas ut eleifend non, elementum vitae eros. Mauris felis diam, pellentesque vel lacinia ac, dictum a nunc. Mauris mattis nunc sed mi sagittis et facilisis tortor volutpat. Etiam tincidunt urna mattis erat placerat placerat ac eu tellus. Ut nec velit id nisl tincidunt vehicula id a metus. Pellentesque erat neque, faucibus id ultricies vel, mattis in ante. Donec lobortis, mauris id congue scelerisque, diam nisl accumsan orci, condimentum porta est magna vel arcu. Curabitur varius ante dui. Vivamus sit amet ante ac diam ullamcorper sodales sed a odio. Curabitur ut lectus tortor. Sed ipsum eros, egestas ut eleifend non, elementum vitae eros. Mauris felis diam, pellentesque vel lacinia ac, dictum a nunc.
+[Programme du spectacle.](https://drive.google.com/file/d/1baK-4z8kx2M8qwi98uWQCVXjQ_f7sqNg/view?usp=sharing)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies tristique nulla et mattis. Phasellus id massa eget nisl congue blandit sit amet id ligula. Praesent et nulla eu augue tempus sagittis. Mauris faucibus nibh et nibh cursus in vestibulum sapien egestas. Curabitur ut lectus tortor. Sed ipsum eros, egestas ut eleifend non, elementum vitae eros. Mauris felis diam, pellentesque vel lacinia ac, dictum a nunc. Mauris mattis nunc sed mi sagittis et facilisis tortor volutpat. Etiam tincidunt urna mattis erat placerat placerat ac eu tellus. Ut nec velit id nisl tincidunt vehicula id a metus. Pellentesque erat neque, faucibus id ultricies vel, mattis in ante. Donec lobortis, mauris id congue scelerisque, diam nisl accumsan orci, condimentum porta est magna vel arcu. Curabitur varius ante dui. Vivamus sit amet ante ac diam ullamcorper sodales sed a odio.
+Spectacle présenté au [Pub 100 Génies](https://www.google.com/maps?q=Resto-Pub+100+G%C3%A9nies,530+Rue+Peel,H3C+2H1&hl=en&z=14) de l’ÉTS les:
 
- <a href="https://www.jedonneenligne.org/fdets/campagne/ets/challenges/view/99a44e91-83c6-11ee-ac26-001dd8b75df7" style="display: block; margin-left: auto; margin-right: auto;" target="_blank">Je Donne en Ligne</a>
-</p>
+<ul style="list-style-type: disc;">
+    <li>
+    	18 mai - 19 h
+    </li>
+    
+    <li>
+    	19 mai - 15 h
+    </li>
+    
+    <li>
+    	23 mai - 19 h
+    </li>
+    
+    <li>
+    	24 mai - 19 h
+    </li>
+</ul>
+
+> Malheureusement, puisque les représentations se déroulent dans un pub, **les mineurs ne sont PAS permis**. Nous nous excusons de la gêne occasionné.
+
+Billetterie : [https://www.zeffy.com/fr-CA/ticketing/7580aedb-06fe-43b5-966b-31f385b53526](https://www.zeffy.com/fr-CA/ticketing/7580aedb-06fe-43b5-966b-31f385b53526)
