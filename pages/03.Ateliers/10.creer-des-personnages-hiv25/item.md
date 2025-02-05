@@ -12,18 +12,19 @@ taxonomy:
         - personnages
         - création
 published: false
-list_summary: 'Compose des personnages issues de ton imaginaire avec ta voix, ton corps, tes émotions et tes convictions.'
+list_summary: 'Compose des personnages issues de ton imaginaire avec ta voix, ton corps, tes émotions et tes convictions. (23 janv, 13 fév)'
+media_order: A7306706.jpg
 ---
 
-## Atelier 2 - Créer des personnages
+## Créer des personnages
 
-📆 **DATE ?** Mardi 1er octobre
+📆 **DATE ?** Jeudi 23 janvier et jeudi 13 février.
 
 🕧 **HEURE ?** 13 h 30 à 15 h 30. Arrivez vers 13 h.
 
-📍 **LOCAL ?** À venir
+📍 **LOCAL ?** E-3037.
 
-⭐ **QUOI APPORTER ?** Ta bouteille d'eau réutilisable & du linge confortable et neutre (ex: du linge noir, uni, pas de motifs)
+⭐ **QUOI APPORTER ?** Ta bouteille d'eau réutilisable & du linge confortable et neutre (ex: du linge noir, uni, pas de motifs).
 
 _Présenté par Frédéric Gilles._
 <p>
