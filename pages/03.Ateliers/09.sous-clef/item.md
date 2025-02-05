@@ -11,7 +11,7 @@ taxonomy:
         - création
         - spectacle
 media_order: 'Couleur cropped.png'
-published: false
+published: true
 ---
 
 ## Spectacle original de la saison 2023-2024 des Raconteurs d’Angles
