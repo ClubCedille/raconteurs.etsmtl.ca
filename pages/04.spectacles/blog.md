@@ -15,7 +15,7 @@ feed:
     description: 'Nos Spectacles'
     limit: 10
 pagination: true
-visible: false
+visible: true
 ---
 
 Plongez dans l'univers de nos membres avec des pièces créées de A à Z
