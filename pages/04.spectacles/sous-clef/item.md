@@ -1,6 +1,5 @@
 ---
 title: 'Sous Clef'
-background_image: affiche-v1.5-titre-couleur.png
 list_summary: 'Plongez dans l’univers de Sous Clef, la toute première production théâtrale des Raconteurs d’Angles. Nous vous offrons des récits tissés autour d’objets que nous avons pu transformer en porteurs d’histoires intrigantes : les clefs. (2023-2024)'
 author: 'Tasha Maxwell'
 taxonomy:
