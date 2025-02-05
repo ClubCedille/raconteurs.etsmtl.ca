@@ -1,5 +1,5 @@
 ---
-title: Événements
+title: Ateliers
 blog_url: évènement
 sitemap:
     changefreq: monthly
@@ -16,8 +16,8 @@ feed:
     limit: 20
 pagination: true
 visible: true
-media_order: 'evenements-banniere-cropped-2.jpg,Evenements Banniere.jpg'
+media_order: evenements-banniere-cropped-2.jpg
 admin: {  }
 ---
 
-Sors les arts de ton angle mort en assistant à un de nos événements, que ce soit notre sortie culturelle mensuelle, nos créations théâtrales ou une de nos tables rondes éphémères.
+Initie-toi à plusieurs sujets grâce à nos ateliers à la carte chapeautés par des professionnel(le)s du théâtre et de la création.
