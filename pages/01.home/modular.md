@@ -13,6 +13,6 @@ content:
             - _tuiles
             - _remerciement
 visible: true
-media_order: 'accueil-magie-theatre-sombre.jpg,accueil.jpg'
+media_order: accueil-magie-theatre-sombre.jpg
 ---
 
