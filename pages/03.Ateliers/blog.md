@@ -8,7 +8,7 @@ content:
     items: '@self.children'
     order:
         by: date
-        dir: desc
+        dir: asc
     limit: 20
     pagination: true
 feed:
