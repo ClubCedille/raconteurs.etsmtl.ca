@@ -19,9 +19,6 @@ visible: true
 media_order: evenements-banniere-cropped-2.jpg
 admin: {  }
 published: true
-menu: Hbla
-slug: houblon
-redirect: www.google.com
 append_url_extension: www.youtube.com
 ---
 
