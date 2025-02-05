@@ -32,6 +32,7 @@ Ne restez pas sur la corde raide : venez découvrir Dix Cordes Entremêlées, un
 * Samedi 7 décembre - 19 h
 
 ⏱️ **DURÉE** : ~ 30 minutes
+
 🎟️ **TARIF** : Contribution volontaire
 
 Il y aura sur place la possibilité de faire un don en ligne ou en argent comptant pour nous encourager. Votre soutien aide à payer les artistes et à couvrir les coûts de nos activités.
@@ -39,6 +40,7 @@ Il y aura sur place la possibilité de faire un don en ligne ou en argent compta
 Vous utilisez les transports en commun? Voici les lignes qui passent à proximité de l'ÉTS : 
 
 🚌 **BUS** : 35 - 36 - 61 - 107 - 715 - 777
+
 🚇 **MÉTRO** : Station Bonaventure (ligne orange)
 
 Prends ton billet: [https://www.zeffy.com/fr-CA/ticketing/dix-cordes-entremelees-un-spectacle-des-raconteurs-dangles-de-lets](https://www.zeffy.com/fr-CA/ticketing/dix-cordes-entremelees-un-spectacle-des-raconteurs-dangles-de-lets)
