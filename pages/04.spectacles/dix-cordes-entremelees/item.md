@@ -9,6 +9,7 @@ taxonomy:
     tag:
         - journal
         - photography
+media_order: 'Dix cordes entremêlées-cropped.png'
 ---
 
 # Spectacle original de l'automne 2024 des Raconteurs d'Angles
