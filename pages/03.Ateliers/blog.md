@@ -19,7 +19,6 @@ visible: true
 media_order: evenements-banniere-cropped-2.jpg
 admin: {  }
 published: true
-append_url_extension: www.youtube.com
 ---
 
 Initie-toi à plusieurs sujets grâce à nos ateliers à la carte chapeautés par des professionnel(le)s du théâtre et de la création.
