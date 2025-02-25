@@ -11,7 +11,7 @@ taxonomy:
         - corps
         - personnages
         - choeur
-published: true
+published: false
 list_summary: 'Découvre le jeu physique, mets de la qualité dans tes mouvements, déplacements et placements dans l''espace scénique pour transmettre des émotions au public.'
 ---
 
