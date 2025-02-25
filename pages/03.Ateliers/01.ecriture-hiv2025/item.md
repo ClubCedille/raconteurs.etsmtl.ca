@@ -8,9 +8,7 @@ taxonomy:
     tag:
         - théâtre
         - atelier
-        - corps
-        - personnages
-        - choeur
+        - écriture
 published: true
 list_summary: 'Découvre l''écriture créative, bonifie tes textes et expérimente avec l''écriture de monologues, dialoges et scènes de théâtre.'
 media_order: SimonCréatif.jpg
