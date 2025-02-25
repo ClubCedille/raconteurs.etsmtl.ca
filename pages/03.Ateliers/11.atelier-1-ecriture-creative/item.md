@@ -35,7 +35,7 @@ _Présenté par Marilyn Perreault._
 
 L'atelier d'écriture créative consiste à expérimenter différents outils pour parvenir à écrire des monologues, dialogues et scènes de groupe théâtrales à partir de diverses sources : environnement immédiat, images, improvisations corporelles, personnages, autres textes, etc. Les participant.e.s apprendront également à structurer leur écriture afin de créer un matériel textuel cohérent et intéressant au niveau de courbe dramaturgique et à se trouver des trucs simples afin d'éviter le syndrome de la page blanche.
 
-## 👉 [Inscris-toi !](https://lepointdevente.com/billets/kbg240926001)
+## 👉 [Inscris-toi !](https://lepointdevente.com/billets/ecriture-hiv2025)
 
 <p>
     <span class="line"></span>
