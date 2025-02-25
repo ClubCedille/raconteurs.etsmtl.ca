@@ -11,32 +11,29 @@ taxonomy:
         - corps
         - personnages
         - choeur
-published: false
-list_summary: 'Découvre le jeu physique, mets de la qualité dans tes mouvements, déplacements et placements dans l''espace scénique pour transmettre des émotions au public.'
+published: true
+list_summary: 'Découvre l''écriture créative, bonifie tes textes et expérimente avec l''écriture de monologues, dialoges et scènes de théâtre.'
+media_order: SimonCréatif.jpg
 ---
 
 ## Atelier 1 - Théâtre corporel
-📆 **DATE ?** Jeudi 26 septembre
+📆 **DATE ?** Lundi 27 janvier
 
-🕧 **HEURE ?** 18 h à 20 h. Arrivez vers 17 h 30.
+🕧 **HEURE ?** 18 h à 20 h. Arrivez vers 17 h 45.
 
-📍 **LOCAL ?** À venir
+📍 **LOCAL ?** B-4550, salle Jocelyne-Olivier / salon du syndicat des employés
 
-⭐ **QUOI APPORTER ?** Ta bouteille d'eau réutilisable & du linge confortable et neutre (ex: du linge noir, uni, pas de motifs)
+⭐ **QUOI APPORTER ?** Mets des vêtements confortables et neutres et apporte ta bouteille d'eau réutilisable !
+_Psst ! Apporte du papier et du crayon, ça risque d'être utile..._
 
 _Présenté par Marilyn Perreault._
 <p>
     <p>
 	</p>
 </p>
-##### PORTION INTERPRÉTATION INDIVIDUELLE
+##### Quoi exactement ?
 
-Les participant.e.s expérimenteront diverses techniques de jeu physique afin d’apprendre à incarner un personnage non seulement avec la parole, mais aussi avec l’entièreté de leur corps. Par le biais d’exercices et d’improvisations dirigés, d’interprétation de courts textes et d’expérimentations avec des éléments extérieurs (musique et/ou accessoires), ils et elles apprendront à mettre la qualité de leurs mouvements, déplacements ou placements de corps dans l’espace scénique au service d'un personnage et des émotions à transmettre au public.
-
-
-##### PORTION INTERPRÉTATION DE CHŒUR EN GROUPE
-
-Par l’acquisition d’outils chorégraphiques de base en jeu physique, les participant.e.s découvriront différentes façons d’aborder la création de scènes nécessitant l’intégration de chœurs parlés et/ou bougés. Parmi les outils qu’ils et elles pourront expérimenter, les suivants : alliage et dosage entre le texte et le mouvement, différentes approches chorégraphiques d’une même scène pour en explorer l’éventail des façons de la mettre en scène physiquement et textuellement, créer facilement des mouvements à partir de thèmes, mots ou gestes du quotidien, etc. Les participant.e.s seront ensuite appelé.e.s à travailler une petite création joignant paroles et mouvements à partir de courts textes déjà existants ou écrits en classe par eux ou elles.
+L'atelier d'écriture créative consiste à expérimenter différents outils pour parvenir à écrire des monologues, dialogues et scènes de groupe théâtrales à partir de diverses sources : environnement immédiat, images, improvisations corporelles, personnages, autres textes, etc. Les participant.e.s apprendront également à structurer leur écriture afin de créer un matériel textuel cohérent et intéressant au niveau de courbe dramaturgique et à se trouver des trucs simples afin d'éviter le syndrome de la page blanche.
 
 ## 👉 [Inscris-toi !](https://lepointdevente.com/billets/kbg240926001)
 
