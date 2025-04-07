@@ -23,7 +23,9 @@ Notre démarche ? Partir d’un objet et s’intéresser à ses fonctions et sym
 
 Découvrez Dés Joués, un spectacle où chaque lancer dévoile une nouvelle facette de l’histoire, façonnée en 24 heures chrono !
 
+
 **_Programme du spectacle (À venir)._**
+
 
 ### INFORMATIONS PRATIQUES
 
@@ -45,4 +47,4 @@ _Il y aura sur place la possibilité de faire un [don en ligne](https://activite
 
 🚇 **MÉTRO** : Station Bonaventure (ligne orange)
 
-### [Réserve ta place](https://lepointdevente.com/billets/raconteurs)
+## [Réserve ta place ici](https://lepointdevente.com/billets/raconteurs)
