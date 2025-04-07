@@ -23,11 +23,12 @@ Notre démarche ? Partir d’un objet et s’intéresser à ses fonctions et sym
 
 Découvrez Dés Joués, un spectacle où chaque lancer dévoile une nouvelle facette de l’histoire, façonnée en 24 heures chrono !
 
-**_[Programme du spectacle (À venir).]()_**
+**_Programme du spectacle (À venir)._**
 
 ### INFORMATIONS PRATIQUES
 
 📍 **LIEU** : Auditorium (A-1600), 1100, rue Notre-Dame Ouest (angle Peel au sud), Montréal (QC) H3C 1K3
+
 🗓️ **DATES** : 
 * Jeudi 10 avril - 12 h 30 
 * Vendredi 11 avril - 12 h 30
@@ -44,4 +45,4 @@ _Il y aura sur place la possibilité de faire un [don en ligne](https://activite
 
 🚇 **MÉTRO** : Station Bonaventure (ligne orange)
 
-## [Réserve ta place](https://lepointdevente.com/billets/raconteurs)
+### [Réserve ta place](https://lepointdevente.com/billets/raconteurs)
