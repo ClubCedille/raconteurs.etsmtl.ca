@@ -1,0 +1,14 @@
+version: '1.2'
+timestamp: 1748633633
+count: 2
+index:
+  admin:
+    storage_key: admin
+    storage_timestamp: 1748633632
+    key: admin
+    email: admin@raconteurs.etsmtl.ca
+  sre:
+    storage_key: sre
+    storage_timestamp: 1748033351
+    key: sre
+    email: sre@cedille.club

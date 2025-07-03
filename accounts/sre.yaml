@@ -1,0 +1,11 @@
+state: enabled
+email: sre@cedille.club
+fullname: SRE
+title: SRE
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+password: "^zCgu4%HTOdp3LHWLhXk"

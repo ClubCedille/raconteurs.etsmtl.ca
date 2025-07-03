@@ -1,0 +1,11 @@
+state: enabled
+email: admin@raconteurs.etsmtl.ca
+fullname: Administrator
+title: Administrator
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$W3D1/t/yj1VTkWrMYsrs2uRu25EknoVS45BZSpKEGbbXphpeFQncS
