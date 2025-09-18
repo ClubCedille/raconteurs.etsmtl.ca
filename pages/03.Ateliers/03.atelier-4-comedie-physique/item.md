@@ -11,7 +11,7 @@ taxonomy:
         - corps
         - 'comédie physique'
 list_summary: 'Tombe, trébuche, tiens-toi en équilibre ou fais semblant de frapper tes collègues de manière réaliste tout en gardant la cascade sécuritaire.'
-published: true
+published: false
 ---
 
 ## Atelier 4 - Comédie physique
