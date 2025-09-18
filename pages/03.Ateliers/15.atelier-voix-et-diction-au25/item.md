@@ -8,10 +8,10 @@ taxonomy:
     tag:
         - théâtre
         - atelier
-        - voix
         - interprétation
+        - voix
 list_summary: 'Se faire entendre, se faire comprendre.'
-media_order: Voix.JPG
+media_order: Voix-1152-648.png
 ---
 
 ## Atelier - Exagération
