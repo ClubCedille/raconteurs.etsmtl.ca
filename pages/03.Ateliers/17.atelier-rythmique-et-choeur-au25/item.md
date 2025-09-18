@@ -8,14 +8,14 @@ taxonomy:
     tag:
         - théâtre
         - atelier
-        - création
-        - écriture
+        - rythmique
+        - choeur
 list_summary: 'Découvre l''écriture créative, bonifie tes textes et expérimente avec l''écriture de monologues, dialoges et scènes de théâtre.'
-media_order: Ecriture.JPG
+media_order: Rythmique.JPG
 ---
 
 ## Atelier - Écriture Créative
-📆 **DATE ?** Mercredi 1er octobre
+📆 **DATE ?** Mercredi 29 octobre
 
 🕧 **HEURE ?** 18 h à 20 h. Arrivez vers 17 h 45.
 
@@ -31,9 +31,9 @@ _Présenté par Marilyn Perrault._
 #### Quoi exactement ?
 Voici ce qui sera couvert par cet atelier:
 
-L'atelier d'écriture créative consiste à expérimenter différents outils pour parvenir à écrire des monologues, dialogues et scènes de groupe théâtrales à partir de diverses sources : environnement immédiat, images, improvisations corporelles, personnages, autres textes, etc. Les participant.e.s apprendront également à structurer leur écriture afin de créer un matériel textuel cohérent et intéressant au niveau de courbe dramaturgique et à se trouver des trucs simples afin d'éviter le syndrome de la page blanche.
+Cet atelier vous permettra de créer des scènes de groupe chorégraphiées et/ou parlées à partir de situations comiques ou dramatiques qui seront proposées par les participant.e.s selon certaines directives données par la formatrice. Par le jeu physique, le groupe trouvera comment raconter l'histoire de cette scène de groupe, c'est-à-dire avec une situation initiale, un élément perturbateur, un ou deux rebondissements et une finale qui résout ou non le problème. À des actions physiques, la formatrice amènera aussi le groupe à créer certaines rythmiques plutôt musicales soit avec des accessoires, des éléments de décor ou encore avec certaines parties de leur corps afin de renforcer la musicalité de la chorégraphie. 
 
-#### 👉 [Inscris-toi !](https://lepointdevente.com/billets/kbg251001001)
+#### 👉 [Inscris-toi !](https://lepointdevente.com/billets/kbg251029001)
 <p>
     <span class="line"></span>
 </p>
