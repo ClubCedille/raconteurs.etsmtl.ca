@@ -1,5 +1,5 @@
 ---
-title: 'Atelier - Procédés comiques - 24 septembre'
+title: 'Atelier - Procédés Comiques - 24 septembre'
 author: 'Tasha Maxwell'
 taxonomy:
     category:
