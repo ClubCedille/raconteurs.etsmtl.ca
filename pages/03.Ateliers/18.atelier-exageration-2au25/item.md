@@ -16,7 +16,7 @@ media_order: exagération.jpg
 ---
 
 ## Atelier - Exagération
-📆 **DATE ?** Lundi 6 octobre
+📆 **DATE ?** Lundi 3 novembre
 
 🕧 **HEURE ?** 14 h à 16 h. Arrivez vers 13 h 45.
 
@@ -42,7 +42,7 @@ Composition de personnage que vous choisirez
 Travail sur l’imaginaire
 Improvisation et mise en situation de ces personnages
 
-#### 👉 [Inscris-toi !](https://lepointdevente.com/billets/kbg250827001)
+#### 👉 [Inscris-toi !](https://lepointdevente.com/billets/kbg251103001)
 <p>
     <span class="line"></span>
 </p>
