@@ -10,7 +10,7 @@ taxonomy:
         - atelier
         - comique
         - personnages
-list_summary: 'Apprends à projeter ta voix, à bien articuler, à chuchoter, à projeter sans crier et à créer des personnages en modulant intonations, rythmes et volume.'
+list_summary: "Cet atelier fera un survol des différentes approches du jeu comique, passant de l’exagération à la stoïcité.\nDe plus, à partir de scènes à interpréter, vous comprendrez le rythme de la comédie par la mise en pratique des notions acquises."
 published: true
 ---
 
