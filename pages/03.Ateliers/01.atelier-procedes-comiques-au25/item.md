@@ -1,5 +1,5 @@
 ---
-title: 'Atelier - Procédés comiques'
+title: 'Atelier - Procédés comiques - 24 septembre'
 author: 'Tasha Maxwell'
 taxonomy:
     category:
@@ -8,10 +8,10 @@ taxonomy:
     tag:
         - théâtre
         - atelier
-        - interprétation
-        - voix
+        - comique
+        - personnages
 list_summary: 'Apprends à projeter ta voix, à bien articuler, à chuchoter, à projeter sans crier et à créer des personnages en modulant intonations, rythmes et volume.'
-published: false
+published: true
 ---
 
 ## Atelier 3 - Voix et diction
