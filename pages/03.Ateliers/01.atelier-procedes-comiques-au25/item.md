@@ -28,7 +28,7 @@ _Présenté par Robert Cadieux._
     <p>
 	</p>
 </p>
-#### Procédés comiques
+#### Quoi exactement ?
 Voici ce qui sera couvert par cet atelier:
 
 Cet atelier fera un survol des différentes approches du jeu comique, passant de l’exagération à la stoïcité.
