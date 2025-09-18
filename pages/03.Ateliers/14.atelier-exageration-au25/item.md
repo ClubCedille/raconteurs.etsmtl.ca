@@ -8,22 +8,23 @@ taxonomy:
     tag:
         - théâtre
         - atelier
-        - création
-        - écriture
-list_summary: 'Découvre l''écriture créative, bonifie tes textes et expérimente avec l''écriture de monologues, dialoges et scènes de théâtre.'
-media_order: Ecriture.JPG
+        - exagération
+        - personnages
+        - interprétation
+list_summary: 'L’atelier sera axé sur la comédie exagérée, tant au niveau physique, émotionnel que vocal.'
+media_order: exagération.jpg
 ---
 
-## Atelier - Écriture Créative
-📆 **DATE ?** Mercredi 1er octobre
+## Atelier - Exagération
+📆 **DATE ?** Lundi 6er octobre
 
-🕧 **HEURE ?** 18 h à 20 h. Arrivez vers 17 h 45.
+🕧 **HEURE ?** 14 h à 16 h. Arrivez vers 13 h 45.
 
-📍 **LOCAL ?** Salle Jocelyne-Olivier local B-4540
+📍 **LOCAL ?** Local multifonction SVE E-3037
 
 ⭐ **QUOI APPORTER ?** Ta bouteille d'eau réutilisable & du linge confortable et neutre (ex: du linge noir, uni, pas de motifs)
 
-_Présenté par Marilyn Perrault._
+_Présenté par Frédéric Gilles._
 <p>
     <p>
 	</p>
@@ -31,9 +32,17 @@ _Présenté par Marilyn Perrault._
 #### Quoi exactement ?
 Voici ce qui sera couvert par cet atelier:
 
-L'atelier d'écriture créative consiste à expérimenter différents outils pour parvenir à écrire des monologues, dialogues et scènes de groupe théâtrales à partir de diverses sources : environnement immédiat, images, improvisations corporelles, personnages, autres textes, etc. Les participant.e.s apprendront également à structurer leur écriture afin de créer un matériel textuel cohérent et intéressant au niveau de courbe dramaturgique et à se trouver des trucs simples afin d'éviter le syndrome de la page blanche.
+L’atelier sera axé sur la comédie exagérée, tant au niveau physique, émotionnel que vocal. L’atelier sera dynamique et, une fois les techniques absorbées, vous composerez des personnages absurdes et plus grands que nature, sans oublier la sincérité toujours indispensable au théâtre.
 
-#### 👉 [Inscris-toi !](https://lepointdevente.com/billets/kbg251001001)
+
+Au programme :
+Échauffement sur l’exagération
+Travail avec masque neutre pour faire ressortir l’expression corporelle et émotionnelle
+Composition de personnage que vous choisirez
+Travail sur l’imaginaire
+Improvisation et mise en situation de ces personnages
+
+#### 👉 [Inscris-toi !](https://lepointdevente.com/billets/kbg250827001)
 <p>
     <span class="line"></span>
 </p>
