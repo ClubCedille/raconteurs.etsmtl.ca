@@ -8,8 +8,8 @@ taxonomy:
     tag:
         - théâtre
         - atelier
-        - exagération
         - personnages
+        - exagération
         - interprétation
 list_summary: 'L’atelier sera axé sur la comédie exagérée, tant au niveau physique, émotionnel que vocal.'
 media_order: exagération.jpg
