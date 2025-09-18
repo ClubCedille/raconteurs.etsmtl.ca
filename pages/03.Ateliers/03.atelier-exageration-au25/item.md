@@ -16,7 +16,7 @@ media_order: exagération.jpg
 ---
 
 ## Atelier - Exagération
-📆 **DATE ?** Lundi 6er octobre
+📆 **DATE ?** Lundi 6 octobre
 
 🕧 **HEURE ?** 14 h à 16 h. Arrivez vers 13 h 45.
 
