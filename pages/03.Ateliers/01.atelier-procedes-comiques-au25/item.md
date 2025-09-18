@@ -11,7 +11,7 @@ taxonomy:
         - comique
         - personnages
 list_summary: "Cet atelier fera un survol des différentes approches du jeu comique, passant de l’exagération à la stoïcité.\nDe plus, à partir de scènes à interpréter, vous comprendrez le rythme de la comédie par la mise en pratique des notions acquises."
-published: false
+published: true
 ---
 
 ## Atelier 3 - Voix et diction
