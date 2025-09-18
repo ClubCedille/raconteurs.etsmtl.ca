@@ -8,22 +8,21 @@ taxonomy:
     tag:
         - théâtre
         - atelier
-        - interprétation
-        - voix
-list_summary: 'Se faire entendre, se faire comprendre.'
-media_order: Voix-1152-648.png
+        - 'comédie physique'
+        - clown
+media_order: Clown-1152-648.png
 ---
 
-## Atelier - Exagération
-📆 **DATE ?** Lundi 15 octobre
+## Atelier - Jeu et Techniques d'Art Clownesque
+📆 **DATE ?** Dimanche le 19 octobre
 
-🕧 **HEURE ?** 18 h à 20 h. Arrivez vers 17 h 45.
+🕧 **HEURE ?** 10 h à 15 h. Arrivez vers 9 h 45.
 
 📍 **LOCAL ?** Salle Jocelyne-Olivier B-4540
 
-⭐ **QUOI APPORTER ?** Ta bouteille d'eau réutilisable & du linge confortable et neutre (ex: du linge noir, uni, pas de motifs)
+⭐ **QUOI APPORTER ?** Ta bouteille d'eau réutilisable & du linge confortable et neutre (ex: du linge noir, uni, pas de motifs), ainsi qu'un dîné, ou de la monnaie (on a seulement une heure de dîner donc prévoir en conséquence).
 
-_Présenté par Robert Cadieux._
+_Présenté par Audrey Leclair._
 <p>
     <p>
 	</p>
@@ -31,15 +30,13 @@ _Présenté par Robert Cadieux._
 #### Quoi exactement ?
 Voici ce qui sera couvert par cet atelier:
 
+Cet atelier offre une opportunité pour les participants de se reconnecter avec le plaisir du jeu théâtral. Quel type de joueur êtes-vous? Quels sont les différents modes de jeu? Quelles sont les impulsions émotives, corporelles et vocales de chacun dans le feu de l'action? À travers le jeu, nous chercherons à trouver l'essence clownesque de chacun, à reconnaitre nos caractéristiques, nos failles, nos démesures et à en rire. 
 
-##### Techniques d’échauffements 
-La base, la base, l’incontournable base.
-##### Techniques de respiration
-Sans souffle, pas de son.
-##### Projection, articulation et découpage
-Mettre en pratique les techniques de projection par l’interprétation dirigée de scènes et le découpage de texte.
+### Atelier de 5 h ? 
 
-#### 👉 [Inscris-toi !](https://lepointdevente.com/billets/kbg250827002)
+Cet atelier se donne sous forme "intensive" où nous allons prendre 4 h pour développer le jeu clownesque avec une pause dîner au milieu !
+
+#### 👉 [Inscris-toi !](https://lepointdevente.com/billets/kbg251019001)
 <p>
     <span class="line"></span>
 </p>
