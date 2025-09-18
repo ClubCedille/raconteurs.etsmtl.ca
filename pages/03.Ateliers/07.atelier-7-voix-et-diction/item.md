@@ -11,7 +11,7 @@ taxonomy:
         - interprétation
         - voix
 list_summary: 'Apprends à projeter ta voix, à bien articuler, à chuchoter, à projeter sans crier et à créer des personnages en modulant intonations, rythmes et volume.'
-published: true
+published: false
 ---
 
 ## Atelier 7 - Voix et diction
