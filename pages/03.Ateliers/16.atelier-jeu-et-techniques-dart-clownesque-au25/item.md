@@ -11,6 +11,7 @@ taxonomy:
         - 'comédie physique'
         - clown
 media_order: Clown-1152-648.png
+list_summary: 'Cet atelier offre une opportunité pour les participants de se reconnecter avec le plaisir du jeu théâtral'
 ---
 
 ## Atelier - Jeu et Techniques d'Art Clownesque
