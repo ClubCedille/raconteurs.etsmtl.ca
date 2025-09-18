@@ -14,7 +14,7 @@ list_summary: "Cet atelier fera un survol des différentes approches du jeu comi
 published: true
 ---
 
-## Atelier 3 - Voix et diction
+## Atelier - Procédés Comiques
 📆 **DATE ?** Mercredi 24 septembre
 
 🕧 **HEURE ?** 18 h à 20 h. Arrivez vers 17 h 45.
@@ -28,7 +28,7 @@ _Présenté par Robert Cadieux._
     <p>
 	</p>
 </p>
-#### Se faire entendre, se faire comprendre.
+#### Procédés comiques
 Voici ce qui sera couvert par cet atelier:
 
 Cet atelier fera un survol des différentes approches du jeu comique, passant de l’exagération à la stoïcité.
