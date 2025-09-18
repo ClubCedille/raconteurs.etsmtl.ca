@@ -8,13 +8,13 @@ taxonomy:
     tag:
         - théâtre
         - atelier
-        - écriture
         - création
-list_summary: "Cet atelier fera un survol des différentes approches du jeu comique, passant de l’exagération à la stoïcité.\nDe plus, à partir de scènes à interpréter, vous comprendrez le rythme de la comédie par la mise en pratique des notions acquises."
+        - écriture
+list_summary: 'Découvre l''écriture créative, bonifie tes textes et expérimente avec l''écriture de monologues, dialoges et scènes de théâtre.'
 media_order: Ecriture.JPG
 ---
 
-## Atelier 3 - Voix et diction
+## Atelier - Écriture Créative
 📆 **DATE ?** Mercredi 1er octobre
 
 🕧 **HEURE ?** 18 h à 20 h. Arrivez vers 17 h 45.
@@ -28,7 +28,7 @@ _Présenté par Marilyn Perrault._
     <p>
 	</p>
 </p>
-#### Écriture Créative.
+#### Quoi exactement ?
 Voici ce qui sera couvert par cet atelier:
 
 L'atelier d'écriture créative consiste à expérimenter différents outils pour parvenir à écrire des monologues, dialogues et scènes de groupe théâtrales à partir de diverses sources : environnement immédiat, images, improvisations corporelles, personnages, autres textes, etc. Les participant.e.s apprendront également à structurer leur écriture afin de créer un matériel textuel cohérent et intéressant au niveau de courbe dramaturgique et à se trouver des trucs simples afin d'éviter le syndrome de la page blanche.
