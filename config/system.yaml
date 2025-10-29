@@ -1,5 +1,6 @@
 absolute_urls: false
 timezone: null
+default_locale: null
 param_sep: ':'
 wrapped_site: false
 reverse_proxy_setup: false
@@ -24,6 +25,7 @@ languages:
   session_store_active: false
   http_accept_language: false
   override_locale: false
+  content_fallback: {  }
   pages_fallback_only: false
   debug: false
 home:
