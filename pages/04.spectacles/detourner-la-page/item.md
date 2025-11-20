@@ -1,6 +1,6 @@
 ---
 title: 'Détourner la page'
-media_order: 'Couleur cropped.png'
+media_order: detourner-interface2.png
 list_summary: '_Détourner la page_ est la troisième création en 24 h des Raconteurs d''Angles, utilisant le papier comme ressource créative. Support fragile, mais essentiel, il s’accumule, se perd, s’efface, se signe et, parfois, se déchire...'
 taxonomy:
     category:
@@ -19,6 +19,7 @@ Déterminé(e)s, huit artistes de tous les horizons ont relevé le pari de crée
 Après les clés, les cordes et les dés, c’est le papier qui devient notre matière première. Support fragile, mais essentiel, il s’accumule, se perd, s’efface, se signe et, parfois, se déchire...
 
 📍 **LIEU** : [Resto-Pub 100 Génies, 530 Rue Peel, Montréal, QC H3C 2H1](https://www.google.com/maps?q=Resto-Pub+100+G%C3%A9nies,530+Rue+Peel,H3C+2H1&hl=en&z=14)
+
 _Malheureusement, puisque les représentations se déroulent dans un pub, les mineur(e)s ne sont PAS permi(e)s. Nous nous excusons de la gêne occasionnée._
 
 
