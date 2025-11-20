@@ -1,46 +1,54 @@
 ---
 title: 'Détourner la page'
-list_summary: 'Plongez dans l’univers de Sous Clef, la toute première production théâtrale des Raconteurs d’Angles. Nous vous offrons des récits tissés autour d’objets que nous avons pu transformer en porteurs d’histoires intrigantes : les clefs. (2023-2024)'
-author: 'Tasha Maxwell'
+media_order: 'Couleur cropped.png'
+list_summary: '_Détourner la page_ est la troisième création en 24 h des Raconteurs d''Angles, utilisant le papier comme ressource créative. Support fragile, mais essentiel, il s’accumule, se perd, s’efface, se signe et, parfois, se déchire...'
 taxonomy:
     category:
         - blog
     tag:
         - journal
         - photography
+author: 'Tasha Maxwell'
 content:
     items: '@self.modular'
-media_order: 'Couleur cropped.png'
 ---
 
-## Spectacle original de la saison 2023-2024 des Raconteurs d’Angles
+## Détourner la page, création en 24 h d'automne 2025
 
-Plongez dans l’univers de _Sous Clef_, la toute première production théâtrale des Raconteurs d’Angles, la troupe de théâtre de création de l’ÉTS.
-Après plusieurs longs mois de travail, nous avons créé un spectacle composé non pas d’une seule et unique histoire, mais d’une série de plusieurs tableaux.
-Ceux-ci sont de véritables fenêtres ouvertes sur des récits tissés autour d’objets que nous avons pu transformer en porteurs d’histoires intrigantes : les clefs.
+Déterminé(e)s, huit artistes de tous les horizons ont relevé le pari de créer un spectacle original en seulement 24 heures. _Détourner la page_ est le fruit de ce nouveau chapitre des Raconteurs d'Angles !
+Après les clés, les cordes et les dés, c’est le papier qui devient notre matière première. Support fragile, mais essentiel, il s’accumule, se perd, s’efface, se signe et, parfois, se déchire...
 
-[Programme du spectacle.](https://drive.google.com/file/d/1baK-4z8kx2M8qwi98uWQCVXjQ_f7sqNg/view?usp=sharing)
+📍 **LIEU** : [Resto-Pub 100 Génies, 530 Rue Peel, Montréal, QC H3C 2H1](https://www.google.com/maps?q=Resto-Pub+100+G%C3%A9nies,530+Rue+Peel,H3C+2H1&hl=en&z=14)
+_Malheureusement, puisque les représentations se déroulent dans un pub, les mineur(e)s ne sont PAS permi(e)s. Nous nous excusons de la gêne occasionnée._
 
-Spectacle présenté au [Pub 100 Génies](https://www.google.com/maps?q=Resto-Pub+100+G%C3%A9nies,530+Rue+Peel,H3C+2H1&hl=en&z=14) de l’ÉTS les:
 
+🗓️ **DATES** :
 <ul style="list-style-type: disc;">
     <li>
-    	18 mai - 19 h
-    </li>
-    
+    Jeudi 27 novembre - 12 h 30 
+         </li>    
     <li>
-    	19 mai - 15 h
-    </li>
-    
+    Vendredi 28 novembre - 12 h 30
+         </li>
     <li>
-    	23 mai - 19 h
-    </li>
-    
+    Samedi 29 novembre - 19 h 30
+      </li>
     <li>
-    	24 mai - 19 h
-    </li>
+    Dimanche 30 novembre - 19 h 30
+        </li>
 </ul>
 
-> Malheureusement, puisque les représentations se déroulent dans un pub, **les mineurs ne sont PAS permis**. Nous nous excusons de la gêne occasionné.
+⏱️ **DURÉE** : ~ 30 minutes
 
-Billetterie : [https://www.zeffy.com/fr-CA/ticketing/7580aedb-06fe-43b5-966b-31f385b53526](https://www.zeffy.com/fr-CA/ticketing/7580aedb-06fe-43b5-966b-31f385b53526)
+🎟️ **TARIF** : [Inscription obligatoire et GRATUITE](https://www.zeffy.com/fr-CA/ticketing/detourner-la-page-spectacle-original-des-raconteurs-dangles), [contribution volontaire](https://www.jedonneenligne.org/fdets/CLUBSDONSCIEN/?PersonalKey=1&FrmTrxType=Da%2FoFePL19ORosiL8yj7yA%3D%3D&FrmActUID4641=7k%2F2gfptO29%2BsQaCmkqTGg%3D%3D)
+
+_Il y aura sur place la possibilité de faire un don en ligne ou en argent comptant pour nous encourager. Votre contribution aide à financer nos projets et à assurer la pérennité de nos activités._
+
+
+Vous utilisez les transports en commun? Voici les lignes qui passent à proximité de l'ÉTS
+
+🚌 **BUS** : 35 - 36 - 61 - 107 - 715 - 777
+
+🚇 **MÉTRO** : Station Bonaventure (ligne orange)
+
+Des questions ? Des commentaires ? Contactez nous par courriel au theatre@etsmtl.ca !
