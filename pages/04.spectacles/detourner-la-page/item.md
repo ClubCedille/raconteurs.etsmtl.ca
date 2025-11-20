@@ -1,7 +1,7 @@
 ---
 title: 'Détourner la page'
 media_order: detourner-interface2.png
-list_summary: '_Détourner la page_ est la troisième création en 24 h des Raconteurs d''Angles, utilisant le papier comme ressource créative. Support fragile, mais essentiel, il s’accumule, se perd, s’efface, se signe et, parfois, se déchire...'
+list_summary: 'Détourner la page est la troisième création en 24 h des Raconteurs d''Angles, utilisant le papier comme ressource créative. Support fragile, mais essentiel, il s’accumule, se perd, s’efface, se signe et, parfois, se déchire...'
 taxonomy:
     category:
         - blog
