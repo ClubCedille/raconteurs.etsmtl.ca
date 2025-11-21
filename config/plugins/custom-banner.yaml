@@ -1,5 +1,5 @@
 enabled: true
-content: '<h2>Venez voir notre prochain <a href="https://raconteurs.etsmtl.ca/spectacles/detourner-la-page">spectacle </a> en représentation du 27 au 30 novembre !</h2>'
+content: '<h3>Venez voir notre prochain <a href="https://raconteurs.etsmtl.ca/spectacles/detourner-la-page">spectacle </a> en représentation du 27 au 30 novembre !</h3>'
 position: top
 button-text: 'Voir plus de détails'
 button: '1'
