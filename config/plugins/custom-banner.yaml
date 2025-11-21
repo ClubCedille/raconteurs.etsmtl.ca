@@ -10,3 +10,5 @@ cdn-fix: '0'
 bg-colour: '#ffe6c7'
 fg-colour: '#000000'
 box-shadow: '1'
+hide-on-pages:
+  - /spectacles/detourner-la-page
