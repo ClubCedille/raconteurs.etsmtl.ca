@@ -8,5 +8,5 @@ dismiss-text: Fermer
 dismiss-button: '1'
 cdn-fix: '0'
 bg-colour: '#ffa033'
-fg-colour: 'rgba(247, 247, 247, 1.00)'
+fg-colour: '#000000'
 box-shadow: '1'
