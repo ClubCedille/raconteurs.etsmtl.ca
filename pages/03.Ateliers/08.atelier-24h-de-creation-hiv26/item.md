@@ -10,7 +10,7 @@ taxonomy:
         - personnages
         - interprétation
         - création
-list_summary: 'Créer un spectacle d'une trentaine de minutes en 24 h, est-ce possible ? C'est le défi que relèverons pour la quatrième fois les Raconteurs d'Angles, troupe de théâtre de création. Plaisir et rencontres garanties !'
+list_summary: 'Créer un spectacle d’une trentaine de minutes en 24 h, est-ce possible ? C’est le défi que relèverons pour la quatrième fois les Raconteurs d’Angles, troupe de théâtre de création. Plaisir et rencontres garanties !'
 published: true
 media_order: 24h.png
 
