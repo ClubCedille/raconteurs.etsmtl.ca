@@ -34,7 +34,7 @@ Voici ce qui sera couvert par cet atelier:
 
 Cet atelier vous permettra de créer des scènes de groupe chorégraphiées et/ou parlées à partir de situations comiques ou dramatiques qui seront proposées par les participant.e.s selon certaines directives données par la formatrice. Par le jeu physique, le groupe trouvera comment raconter l'histoire de cette scène de groupe, c'est-à-dire avec une situation initiale, un élément perturbateur, un ou deux rebondissements et une finale qui résout ou non le problème. À des actions physiques, la formatrice amènera aussi le groupe à créer certaines rythmiques plutôt musicales soit avec des accessoires, des éléments de décor ou encore avec certaines parties de leur corps afin de renforcer la musicalité de la chorégraphie.
 
-#### 👉 [Inscris-toi !](https://lepointdevente.com/billets/kbg251029001)
+#### 👉 [Inscris-toi !](https://lepointdevente.com/billets/kbg260303001?lang=fr)
 <p>
     <span class="line"></span>
 </p>

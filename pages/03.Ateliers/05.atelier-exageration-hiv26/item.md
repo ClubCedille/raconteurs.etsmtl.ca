@@ -1,5 +1,5 @@
 ---
-title: 'Atelier 5 - Exagération #2 - 16 février'
+title: 'Atelier - Exagération #2 - 16 février'
 author: 'Tasha Maxwell'
 taxonomy:
     category:
@@ -16,7 +16,7 @@ published: true
 media_order: exagération.jpg
 ---
 
-## Atelier 5 - Exagération
+## Atelier - Exagération
 📆 **DATE ?** Lundi 16 février
 
 🕧 **HEURE ?** 18 h à 20 h. Arrivez vers 17 h 45.

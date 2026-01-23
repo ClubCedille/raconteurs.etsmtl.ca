@@ -1,5 +1,5 @@
 ---
-title: 'Atelier 3 - Jeu et Techniques d''Art Clownesque - 8 février'
+title: 'Atelier - Jeu et Techniques d''Art Clownesque - 8 février'
 author: 'Tasha Maxwell'
 taxonomy:
     category:
@@ -15,7 +15,7 @@ published: true
 media_order: art-clownesque.png
 ---
 
-## Atelier 3 - Jeu et Techniques d'Art Clownesque
+## Atelier - Jeu et Techniques d'Art Clownesque
 📆 **DATE ?** Dimanche le 8 février
 
 🕧 **HEURE ?** 10 h à 15 h. Arrivez vers 9 h 45.

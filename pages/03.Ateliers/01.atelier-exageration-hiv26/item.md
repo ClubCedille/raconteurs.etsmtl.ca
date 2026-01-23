@@ -1,5 +1,5 @@
 ---
-title: 'Atelier 1 - Exagération - 19 janvier'
+title: 'Atelier - Exagération - 19 janvier'
 author: 'Tasha Maxwell'
 taxonomy:
     category:
@@ -16,7 +16,7 @@ published: true
 media_order: exagération.jpg
 ---
 
-## Atelier 1 - Exagération
+## Atelier - Exagération
 📆 **DATE ?** Lundi 19 janvier
 
 🕧 **HEURE ?** 18 h à 20 h. Arrivez vers 17 h 45.

@@ -1,5 +1,5 @@
 ---
-title: 'Atelier 4 - Voix et diction - 11 février'
+title: 'Atelier - Voix et diction - 11 février'
 author: 'Tasha Maxwell'
 taxonomy:
     category:
@@ -15,7 +15,7 @@ published: true
 media_order: voix-et-diction.png
 ---
 
-## Atelier 4 - Voix et diction
+## Atelier - Voix et diction
 📆 **DATE ?** Mercredi 11 février
 
 🕧 **HEURE ?** 18 h à 22 h. Arrivez vers 17 h 45.

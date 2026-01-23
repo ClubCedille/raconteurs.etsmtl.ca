@@ -1,5 +1,5 @@
 ---
-title: 'Atelier 2 - Écriture Créative - 27 janvier'
+title: 'Atelier - Écriture Créative - 27 janvier'
 author: 'Alex Vegas'
 taxonomy:
     category:
@@ -15,7 +15,7 @@ published: true
 media_order: Ecriture.png
 ---
 
-## Atelier 2 - Écriture Créative
+## Atelier - Écriture Créative
 📆 **DATE ?** Mardi 27 janvier
 
 🕧 **HEURE ?** 18 h 30 à 20 h 30. Arrivez vers 18 h 15.

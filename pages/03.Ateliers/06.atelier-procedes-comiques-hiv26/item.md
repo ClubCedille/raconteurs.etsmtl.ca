@@ -1,5 +1,5 @@
 ---
-title: 'Atelier 6 - Procédés Comiques - 24 février'
+title: 'Atelier - Procédés Comiques - 24 février'
 author: 'Tasha Maxwell'
 taxonomy:
     category:
@@ -15,7 +15,7 @@ published: true
 media_order: procedes-comiques.png
 ---
 
-## Atelier 6 - Procédés Comiques
+## Atelier - Procédés Comiques
 📆 **DATE ?** Mardi 24 février
 
 🕧 **HEURE ?** 18 h à 20 h. Arrivez vers 17 h 45.
