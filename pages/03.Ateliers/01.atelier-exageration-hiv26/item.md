@@ -43,7 +43,7 @@ Composition de personnage que vous choisirez
 Travail sur l’imaginaire
 Improvisation et mise en situation de ces personnages
 
-#### 👉 [Inscris-toi !](https://lepointdevente.com/billets/kbg250827001)
+#### 👉 [Inscris-toi !](https://lepointdevente.com/billets/kbg260119001?lang=fr)
 <p>
     <span class="line"></span>
 </p>
