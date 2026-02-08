@@ -1,1 +1,3 @@
 .DS_Store
+config/security.yaml
+config/plugins/git-sync.yaml
