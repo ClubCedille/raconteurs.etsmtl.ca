@@ -1,6 +1,5 @@
 absolute_urls: false
 timezone: null
-default_locale: null
 param_sep: ':'
 wrapped_site: false
 reverse_proxy_setup: false
@@ -25,7 +24,6 @@ languages:
   session_store_active: false
   http_accept_language: false
   override_locale: false
-  content_fallback: {  }
   pages_fallback_only: false
   debug: false
 home:
@@ -110,6 +108,7 @@ cache:
   clear_images_by_default: false
   cli_compatibility: false
   lifetime: 604800
+  purge_max_age_days: 30
   gzip: false
   allow_webserver_gzip: false
   redis:
@@ -168,8 +167,9 @@ debugger:
     close_connection: true
   twig: true
 images:
+  adapter: gd
   default_image_quality: 85
-  cache_all: false
+  cache_all: true
   cache_perms: '0755'
   debug: false
   auto_fix_orientation: true
@@ -181,6 +181,7 @@ images:
   defaults:
     loading: auto
     decoding: auto
+    fetchpriority: auto
   watermark:
     image: 'system://images/watermark.png'
     position_y: center
