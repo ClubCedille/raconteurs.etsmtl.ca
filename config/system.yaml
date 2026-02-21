@@ -125,7 +125,7 @@ cache:
     port: null
 twig:
   cache: true
-  debug: true
+  debug: false
   auto_reload: true
   autoescape: true
   undefined_functions: true
